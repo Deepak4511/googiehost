@@ -1,0 +1,15 @@
+:root {
+    /*==== colors =====*/
+    --Moderateviolet: hsl(263, 55%, 52%);
+
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+  }
+  
+  body {
+
+  }
