@@ -1,15 +1,281 @@
 :root {
-    /*==== colors =====*/
-    --Moderateviolet: hsl(263, 55%, 52%);
+  /*==== colors =====*/
+  --Moderateviolet: hsl(263, 55%, 52%);
 
-  }
-  
-  * {
-    margin: 0;
-    padding: 0;
-    text-decoration: none;
-  }
-  
-  body {
+}
 
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+body {
+  font-family: "Gotham A", "Gotham B", -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+/* top header  */
+.top-header {
+  background: #f58f2a;
+  text-align: center;
+  color: white;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 6px;
+}
+
+.grab_now_btn {
+  transition: all 0.5s;
+  font-weight: 700;
+  border: 1px solid #fff;
+  padding: 5px 10px;
+  border-radius: 20px;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.grab_now_btn:hover {
+  transform: scaleX(1.1);
+  background-color: #2B0075;
+  border: 1px solid #2B0075 !important;
+}
+
+/* second header */
+.header {
+  background-color: #2b0075;
+  color: #fff;
+  padding: 5px 0;
+  border-bottom: 1px solid #5c5c5c;
+  height: 85px;
+}
+
+.header-logo img {
+  max-width: 100%;
+  height: auto;
+}
+
+header .nav-item {
+  font-size: 17px;
+  font-weight: 500;
+}
+
+
+@media (max-width: 768px) {
+  .navbar-collapse {
+    background: #2b0075;
   }
+
+
+}
+
+.SignInUp {
+  background-color: #F58F2A;
+  border-radius: 2px;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+  color: #fff;
+  padding: 8px 16px;
+}
+
+.SignInUp:hover {
+  background-color: #f07d00;
+}
+
+.nav-item a {
+  padding-left: 14px !important;
+  padding-right: 14px !important;
+}
+
+.nav-item .nav-link .badge {
+  background-color: #F58F2A;
+}
+
+.nav-item .dropdown-menu {
+  display: none;
+  position: absolute;
+  left: 0;
+  background: #26262f;
+  border-bottom: 2px solid #e2dfe8;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, .1);
+  --bs-dropdown-padding-y: 0rem !important;
+}
+
+
+
+.nav-item .dropdown-menu#reviewsDropdown .dropdown-header,
+.nav-item .dropdown-menu#serversDropdown .dropdown-header {
+  font-size: 20px;
+}
+
+.nav-item .dropdown-menu#reviewsDropdown .dropdown-item {
+  padding: 10px;
+  margin: 20px 0px;
+  border-bottom: 1px solid #1a1919;
+}
+
+.nav-item .dropdown-menu#serversDropdown .dropdown-item {
+  padding: 10px;
+  margin: 0;
+  border-bottom: 1px solid #1a1919;
+}
+
+.nav-item .dropdown-menu#loginDropdown .dropdown-item {
+  padding: 10px;
+  margin: 0;
+  border-bottom: 1px solid #1a1919;
+}
+
+.nav-item .dropdown-menu#reviewsDropdown .dropdown-item:hover,
+.nav-item .dropdown-menu#serversDropdown .dropdown-item:hover,
+.nav-item .dropdown-menu#loginDropdown .dropdown-item:hover {
+  background: #26262f;
+  border: 1px solid #fff;
+}
+
+.nav-item .dropdown-menu#reviewsDropdown .btn {
+  background-color: #F58F2A;
+  font-weight: 700;
+  color: white;
+  border-radius: 0px;
+  padding: 8px;
+}
+
+.nav-item .dropdown-menu#reviewsDropdown .btn:hover {
+  background: #26262f;
+  border: 1px solid #fff;
+  border-radius: 0px;
+}
+
+@media (min-width: 1024px) {
+  .nav-item .dropdown-menu#reviewsDropdown {
+    width: 800px;
+    left: -720px;
+  }
+
+}
+
+@media (min-width: 768px) {
+  .nav-item .dropdown-menu#serversDropdown {
+    width: 243px;
+    left: -105px;
+  }
+
+}
+
+@media (min-width: 768px) {
+  .nav-item .dropdown-menu#loginDropdown {
+    width: 243px;
+    left: -105px;
+  }
+
+}
+
+
+/* footer  */
+.footer {
+  background-color: #270069 !important;
+  background-image: url(https://googiehost.com/img/GoogieHostBgmin-1.png) !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  background-position: center !important;
+}
+
+.footer .footer-copy {
+  border-top: 1px solid #fff;
+  border-top: 1px solid #fff;
+  width: 60%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 15px;
+}
+
+.socialLinks {
+  margin: 20px 0;
+}
+
+.socialLinks a {
+  font-size: 18px;
+  color: #000000;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  display: inline-block;
+  background-color: #1DA1F2;
+  /* Twitter blue */
+}
+
+.socialLinks .facebook {
+  background-color: #ffffff;
+}
+
+.socialLinks .instagram {
+  background: #ffffff;
+}
+
+.socialLinks .twitter {
+  background-color: #ffffff;
+  /* Twitter Blue */
+}
+
+.socialLinks .youtube {
+  background-color: #ffffff;
+}
+
+
+.footer .footer-copy a {
+  border: none;
+  text-decoration: none;
+}
+
+.footer .footer-columns {
+  padding-top: 50px;
+}
+
+.footer .footer-columns .textwidget p {
+  text-align: justify;
+}
+
+.footer .footer-columns .col-9 .widget .textwidget ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer .footer-columns .col-9 .widget .textwidget ul li,
+.footer .footer-columns .col-9 .widget .textwidget li {
+  position: relative;
+  font-weight: 400;
+  padding-left: 15px;
+  padding-bottom: 8px !important;
+  border-bottom: 1px solid #46464685;
+  margin-bottom: 9px !important;
+}
+
+
+
+.footer .footer-columns .col-9 .widget .textwidget ul li:before {
+  content: "\f105";
+  color: #ffffff;
+  position: absolute;
+  left: 0;
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+}
+
+.footer .footer-columns .col-9 .widget .textwidget ul li a {
+  text-decoration: none;
+  color: #ffffff;
+
+}
+
+.footer .footer-title {
+  color: #ffffff;
+  font-size: 20px;
+  line-height: 27px;
+  margin-bottom: 14px;
+}
