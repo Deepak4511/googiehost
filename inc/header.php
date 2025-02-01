@@ -21,7 +21,7 @@
     <header class="header">
         <nav class="navbar navbar-expand-lg navbar-dark">
             <div class="container ps-0 pe-0">
-                <a class="navbar-brand header-logo" href="/">
+                <a class="navbar-brand header-logo" href="index.php">
                     <img src="https://googiehost.com/depends/logo.png" alt="Googiehost" width="250">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
@@ -31,12 +31,11 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link text-white" href="https://googiehost.com/freehosting.html">Free
-                                Hosting</a>
+                            <a class="nav-link text-white" href="freehosting.php">Free Hosting</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-white"
-                                href="https://googiehost.com/web-hosting-sale-coupons.html">Paid
+                                href="web-hosting-sale-coupons.php">Paid
                                 Hosting <span class="badge">Save 90%*</span></a>
                         </li>
                         <li class="nav-item dropdown" onmouseover="showDropdown(this)" onmouseout="hideDropdown(this)">
@@ -45,7 +44,7 @@
                                 Servers <i class="fa-solid fa-angle-down"></i>
                             </a>
                             <div class="dropdown-menu rounded" aria-labelledby="serversDropdown" id="serversDropdown">
-                                <a class="dropdown-item text-white" href="#">VPS Hosting</a>
+                                <a class="dropdown-item text-white" href="cheap-vps-hosting.php">VPS Hosting</a>
                                 <a class="dropdown-item text-white" href="#">Dedicated Servers</a>
                             </div>
                         </li>

@@ -8,8 +8,8 @@
             <div class="hero-left-section col-md-6">
                 <h1 class="entry-title">Free Web Hosting</h1>
                 <h2>Secure &amp; Powerful</h2>
-                <p>Our hosting services provide fast loading times, top-notch security, and dependable uptime.</p>
-                <a href="https://googiehost.com/signup.html" class="button_orange">Start for Free </a>
+                <p style="font-size: 20px;">Our hosting services provide fast loading times, top-notch security, and dependable uptime.</p>
+                <a href="https://googiehost.com/signup.php" class="button_orange">Start for Free </a>
                 <div class="rated mt-3">
                     <span>
                         <svg xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20" fill="none">
@@ -17,10 +17,6 @@
                         </svg>
                     </span>No Credit Card required
                 </div>
-
-                <script>
-                    (adsbygoogle = window.adsbygoogle || []).push({});
-                </script>
             </div>
             <div class="hero-image-section col-md-6">
                 <img src="https://googiehost.com/img/GoogiehostHeroImage.png" width="550px" height="420px" alt="GoogieHost Logo" class="img-fluid">
@@ -63,7 +59,7 @@
 
     <div class="container py-5 ">
         <h2 class="text-center">WEB HOSTING TO BOOST YOUR BUSINESS PRESENCE</h2>
-        <p class="">
+        <p class="w-75 text-center mx-auto p-3">
             Googiehost gives you most useful <strong>Web Hosting features</strong> that can help you to build your business or personal website with just few easy clicks. Get your business on Google, Yahoo & Bing today.
         </p>
 
