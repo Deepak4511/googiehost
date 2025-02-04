@@ -13,7 +13,7 @@
                                     everyone since 2012. Signup and get started with your free web hosting account.
                                 </p>
                             </div>
-                            <div class="socialLinks">
+                            <div class="social-links">
                                 <a title="Facebook" class="facebook" href="https://www.facebook.com/GoogieHost"
                                     rel="nofollow"> <i class="fab fa-facebook-f"></i></a>
                                 <a title="Instagram" class="instagram" href="https://www.instagram.com/googiehost/"
