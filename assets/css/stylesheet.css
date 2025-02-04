@@ -12,23 +12,29 @@
 
 body {
   font-family: "Gotham A", "Gotham B", -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-  /* background-color: #F0F0F0; */
+  background-color: #F0F0F0;
 }
 
 a {
   text-decoration: none;
   font-size: 18px;
-  color: #ffffff;
+  color: rgb(29, 114, 241);
 }
 
 p {
   font-size: 18px;
   text-align: justify;
-  color: #ffffff;
+  color: #000;
+}
+
+
+p.ylw-highlight {
+  background-color: #FFFBCC;
 }
 
 .hero-section .hero-left-section .button_orange,
-.features .button_orange {
+.features .button_orange,
+.unleash-idea-income .button_orange {
   background: #F58F2A;
   padding: 15px 60px;
   border-radius: 10px;
@@ -207,6 +213,10 @@ header .nav-item {
   background-size: cover !important;
   background-position: center !important;
   padding: 60px 0px 40px 0px
+}
+
+.hero-left-section p {
+  color: #fff;
 }
 
 @media(max-width:672px) {
@@ -396,8 +406,6 @@ header .nav-item {
   color: #000000;
 }
 
-
-
 .feature-card {
   color: #000000;
   border-radius: 10px;
@@ -432,8 +440,6 @@ header .nav-item {
   font-size: 17px;
   color: #000000;
 }
-
-
 
 .buttom-ffd700 {
   background: #ffd700;
@@ -718,6 +724,7 @@ header .nav-item {
 
 
 /* faq section  */
+
 .faq h2 {
   font-size: 36px;
   line-height: 46px;
@@ -773,10 +780,7 @@ header .nav-item {
     rgb(29, 114, 241);
 }
 
-
 /* freeshosting  */
-
-
 /* cheap vps hosting  */
 .offer-container {
   display: flex;
@@ -786,11 +790,15 @@ header .nav-item {
 }
 
 .offer-logo {
-  display: grid;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 15px;
 }
 
-.offer-logo img {
-  width: 100px;
+.offer-logo img:first-child {
+  width: 120px;
+  margin-bottom: 10px;
 }
 
 .offer-content {
@@ -812,9 +820,16 @@ header .nav-item {
   font-weight: bold;
 }
 
+.btn-custom:hover {
+  border: 2px dashed #000000;
+  background: #bee2b0;
+  padding: 10px 20px;
+  font-weight: bold;
+}
+
 .badge-success {
   background-color: #5EB939;
-  padding: 4px 8px;
+  padding: 8px 18px;
   color: white;
   border-radius: 0px 15px 0 0;
 }
@@ -850,15 +865,32 @@ header .nav-item {
   }
 
   .offer-logo {
-    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 15px;
   }
 
-  .offer-logo,
+  .offer-logo img:first-child {
+    width: 120px;
+    margin-bottom: 10px;
+  }
+
+  .offer-logo {
+    padding: 20px;
+    width: 100%;
+  }
+
   .offer-content,
   .offer-button {
     width: 100%;
     padding: 0px;
     margin: 10px 0;
+  }
+
+  .offer-button {
+    padding: 20px;
+    width: 100%;
   }
 
   /* Make offer-logo align in a row for mobile */
@@ -869,7 +901,103 @@ header .nav-item {
   }
 }
 
+.btn-custom .couponCode {
+  display: none;
+}
+
+/* message section  */
+
+.container-box {
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.highlight-box {
+  border-left: 5px solid #032e58;
+  padding: 20px;
+  background: #ffffff;
+  font-style: italic;
+}
+
+.highlight-box p {
+  color: #444;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.cta-button {
+  background: #28a745;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 12px 30px;
+  border-radius: 5px;
+  text-align: center;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.cta-button:hover {
+  background: #218838;
+  color: white;
+}
+
+/* best paid  */
+.hosting-card {
+  background: white;
+  padding: 25px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  border-top: 4px solid #6c45c6;
+}
+
+.card-img-top {
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+.hosting-card .rating-table th,
+.hosting-card .rating-table td {
+  text-align: center;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.hosting-card .hosting-feature-list li {
+  font-size: 13.5px;
+}
+
+.hosting-card .hosting-feature-list li::before {
+  content: "✔";
+  color: green;
+  font-weight: bold;
+  margin-right: 8px;
+}
+
+.hosting-card .hosting-card-cta-button {
+  background: #ff6f00;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 12px 30px;
+  text-align: center;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.hosting-card .hosting-card-cta-button:hover {
+  background: #e65100;
+}
+
 /* cheap vps hosting  */
+/* free-landing-page-hosting  */
+
+.unleash-idea-income {
+  border-top: 4px solid #6C45C6;
+}
+
+/* free-landing-page-hosting  */
+
 /* footer  */
 .footer {
   background-color: #270069 !important;
@@ -877,6 +1005,10 @@ header .nav-item {
   background-repeat: no-repeat !important;
   background-size: cover !important;
   background-position: center !important;
+}
+
+.footer .footer-columns p {
+  color: #fff;
 }
 
 .footer .footer-copy {
@@ -944,7 +1076,7 @@ header .nav-item {
   font-weight: 400;
   padding-left: 15px;
   padding-bottom: 8px !important;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+  border-bottom: 1px solid #46464685;
   margin-bottom: 9px !important;
 }
 

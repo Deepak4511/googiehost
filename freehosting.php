@@ -12,7 +12,7 @@
                     <li>Upto 98% Server Uptime</li>
                     <li>Limited Ticket Support</li>
                 </ul>
-                <a href="https://googiehost.com/signup.php" class="button_orange">Start for Free </a>
+                <a href="signup.php" class="button_orange">Start for Free </a>
                 <div class="rated mt-3">
                     <span>
                         <svg xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20" fill="none">
@@ -22,12 +22,12 @@
                 </div>
             </div>
             <div class="hero-image-section col-md-6">
-                <img src="https://googiehost.com/depends/free-hosting-mascot.svg" width="550px" height="420px" alt="GoogieHost Logo" class="img-fluid">
+                <img src="depends/free-hosting-mascot.svg" width="550px" height="420px" alt="GoogieHost Logo" class="img-fluid">
             </div>
         </div>
     </div>
     <div class="inner container" style="padding-top: 0 !important;">
-        <img loading="lazy" alt="featured on logos" class="img-fluid" data-cfsrc="depends/featured-logos2.png" src="https://googiehost.com/depends/featured-logos2.png">
+        <img loading="lazy" alt="featured on logos" class="img-fluid" data-cfsrc="depends/featured-logos2.png" src="depends/featured-logos2.png">
     </div>
 </div>
 
@@ -42,7 +42,7 @@
         <div class="col-md-4 mb-4">
             <div class="pricing-card">
                 <div class="plan-image">
-                    <img src="https://googiehost.com/images/icons/FreeIcon.png" alt="free web hosting" class="img-fluid">
+                    <img src="images/icons/FreeIcon.png" alt="free web hosting" class="img-fluid">
                 </div>
                 <div class="pricing-header">Free Web Hosting</div>
                 <div class="pricing-subheader">100% Free No Card, No Ads & No Hassle</div>
@@ -64,7 +64,7 @@
         <div class="col-md-4 mb-4">
             <div class="pricing-card">
                 <div class="plan-image">
-                    <img src="https://googiehost.com/images/icons/BusinessIcon.png" alt="lifetime web hosting" class="img-fluid">
+                    <img src="images/icons/BusinessIcon.png" alt="lifetime web hosting" class="img-fluid">
                 </div>
                 <div class="pricing-header">Lifetime Web Hosting</div>
                 <div class="pricing-subheader">Pro (Lifetime Deal) Starting at $25</div>
@@ -102,7 +102,7 @@
             <div class="col-md-6 col-lg-4">
                 <div class="card feature-card text-center">
                     <div class="feature-icon mx-auto">
-                        <img src="https://googiehost.com/depends/free/1000mb.png" alt="1000MB SSD Storage">
+                        <img src="depends/free/1000mb.png" alt="1000MB SSD Storage">
                         <h5 class="card-title">1000MB SSD Storage</h5>
                     </div>
                     <div class="card-body">
@@ -116,7 +116,7 @@
             <div class="col-md-6 col-lg-4">
                 <div class="card feature-card text-center">
                     <div class="feature-icon mx-auto">
-                        <img src="https://googiehost.com/depends/free/100gb.png" alt="100GB Bandwidth">
+                        <img src="depends/free/100gb.png" alt="100GB Bandwidth">
                         <h5 class="card-title">100GB Bandwidth</h5>
                     </div>
                     <div class="card-body">
@@ -130,7 +130,7 @@
             <div class="col-md-6 col-lg-4">
                 <div class="card feature-card text-center">
                     <div class="feature-icon mx-auto">
-                        <img src="https://googiehost.com/depends/free/hotlink.png" alt="Hotlink Protection">
+                        <img src="depends/free/hotlink.png" alt="Hotlink Protection">
                         <h5 class="card-title">Hotlink Protection</h5>
                     </div>
                     <div class="card-body">
@@ -145,7 +145,7 @@
             <div class="col-md-6 col-lg-4">
                 <div class="card feature-card text-center">
                     <div class="feature-icon mx-auto">
-                        <img src="https://googiehost.com/depends/free/mysql.png" alt="2 MySQL Databases">
+                        <img src="depends/free/mysql.png" alt="2 MySQL Databases">
                         <h5 class="card-title">2 MySQL Databases</h5>
                     </div>
                     <div class="card-body">
@@ -158,7 +158,7 @@
             <div class="col-md-6 col-lg-4">
                 <div class="card feature-card text-center">
                     <div class="feature-icon mx-auto">
-                        <img src="https://googiehost.com/depends/free/ftp.png" alt="2 FTP Accounts">
+                        <img src="depends/free/ftp.png" alt="2 FTP Accounts">
                         <h5 class="card-title">2 FTP Accounts</h5>
                     </div>
                     <div class="card-body">
@@ -172,7 +172,7 @@
             <div class="col-md-6 col-lg-4">
                 <div class="card feature-card text-center">
                     <div class="feature-icon mx-auto">
-                        <img src="https://googiehost.com/depends/free/builder.png" alt="Free Website Builder">
+                        <img src="depends/free/builder.png" alt="Free Website Builder">
                         <h5 class="card-title">Free Website Builder</h5>
                     </div>
                     <div class="card-body">
@@ -188,7 +188,7 @@
             <div class="col-md-6 col-lg-4">
                 <div class="card feature-card text-center">
                     <div class="feature-icon mx-auto">
-                        <img src="https://googiehost.com/depends/free/cms.png" alt="Free CMS Installers">
+                        <img src="depends/free/cms.png" alt="Free CMS Installers">
                         <h5 class="card-title">Free CMS Installers</h5>
                     </div>
                     <div class="card-body">
@@ -205,7 +205,7 @@
             <div class="col-md-6 col-lg-4">
                 <div class="card feature-card text-center">
                     <div class="feature-icon mx-auto">
-                        <img src="https://googiehost.com/depends/free/manager.png" alt="Online File Manager">
+                        <img src="depends/free/manager.png" alt="Online File Manager">
                         <h5 class="card-title">Online File Manager</h5>
                     </div>
                     <div class="card-body">
@@ -221,7 +221,7 @@
             <div class="col-md-6 col-lg-4">
                 <div class="card feature-card text-center">
                     <div class="feature-icon mx-auto">
-                        <img src="https://googiehost.com/depends/free/php.png" alt="PHP all versions">
+                        <img src="depends/free/php.png" alt="PHP all versions">
                         <h5 class="card-title">PHP all versions</h5>
                     </div>
                     <div class="card-body">
@@ -340,7 +340,7 @@
         <div class="col-md-3 mb-4">
             <div class="stat-card shadow">
                 <div class="stat-icon mb-3">
-                    <img src="https://googiehost.com/depends/experience.png" alt="Icon" class="img-fluid">
+                    <img src="depends/experience.png" alt="Icon" class="img-fluid">
                 </div>
                 <div class="stat-value">
                     <h3>14</h3>
@@ -352,7 +352,7 @@
         <div class="col-md-3 mb-4">
             <div class="stat-card shadow">
                 <div class="stat-icon mb-3">
-                    <img src="https://googiehost.com/depends/uptime-googiehost.png" alt="Icon" class="img-fluid">
+                    <img src="depends/uptime-googiehost.png" alt="Icon" class="img-fluid">
                 </div>
                 <div class="stat-value">
                     <h3>99.9%</h3>
@@ -364,7 +364,7 @@
         <div class="col-md-3 mb-4">
             <div class="stat-card shadow">
                 <div class="stat-icon mb-3">
-                    <img src="https://googiehost.com/depends/uptime.png" alt="Icon" class="img-fluid">
+                    <img src="depends/uptime.png" alt="Icon" class="img-fluid">
                 </div>
                 <div class="stat-value">
                     <h3>4,32,023</h3>
@@ -376,7 +376,7 @@
         <div class="col-md-3 mb-4">
             <div class="stat-card shadow">
                 <div class="stat-icon mb-3">
-                    <img src="https://googiehost.com/depends/support.png" alt="Icon" class="img-fluid">
+                    <img src="depends/support.png" alt="Icon" class="img-fluid">
                 </div>
                 <div class="stat-value">
                     <h3>24/7</h3>
@@ -392,7 +392,7 @@
 <!-- faq section  -->
 <div class="container mt-5 faq mb-5">
     <h2 class="text-center mb-5 fw-bold">Free Hosting FAQ</h2>
-    <div class="accordion shadow  p-5" id="accordionExample">
+    <div class="accordion shadow bg-white p-5" id="accordionExample">
         <!-- Section 1 -->
         <div class="accordion-item ">
             <h2 class="accordion-header " id="headingOne">

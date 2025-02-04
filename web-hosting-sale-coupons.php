@@ -2742,7 +2742,7 @@
 
             <div class="row googiehost-feature">
                 <div class="col-md-3 seprator  d-flex">
-                    <img loading=lazy src="https://googiehost.com/depends/yearsOfExperience.svg" alt="experience" class=" feature-img me-2">
+                    <img loading=lazy src="depends/yearsOfExperience.svg" alt="experience" class=" feature-img me-2">
                     <div class="mx-auto my-auto fw-bold">
                         <p>
                             14 <br>
@@ -2754,7 +2754,7 @@
                 </div>
                 <div class="col-md-3 seprator d-flex">
 
-                    <img loading=lazy src="https://googiehost.com/depends/uptimeGurantee.svg" alt="uptime" class="feature-img me-2">
+                    <img loading=lazy src="depends/uptimeGurantee.svg" alt="uptime" class="feature-img me-2">
                     <div class="mx-auto my-auto fw-bold">
                         <p>99.99% <br> <span class="subtitle">Uptime Guarantee</span>
                         </p>
@@ -2763,7 +2763,7 @@
                 </div>
                 <div class="col-md-3 seprator d-flex">
 
-                    <img loading=lazy src="https://googiehost.com/depends/happyUsers.svg" alt="happy clients" class="feature-img me-2">
+                    <img loading=lazy src="depends/happyUsers.svg" alt="happy clients" class="feature-img me-2">
                     <div class="mx-auto my-auto fw-bold">
                         <p>4,32,023 <br> <span class="subtitle">Happy Users</span>
                         </p>
@@ -2771,7 +2771,7 @@
                     <!-- <div class="seprator"></div> -->
                 </div>
                 <div class="col-md-3 d-flex">
-                    <img loading=lazy src="https://googiehost.com/depends/support24_7.svg" alt="support" class="feature-img me-2">
+                    <img loading=lazy src="depends/support24_7.svg" alt="support" class="feature-img me-2">
                     <div class="mx-auto my-auto fw-bold">
                         <p>24/7 <br>
                             <span class="subtitle">Round the Clock Support</span>

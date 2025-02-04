@@ -1,0 +1,98 @@
+/*********************************************************************
+* This script has been released with the aim that it will be useful.
+* Written by Vasplus Programming Blog
+* Website: www.vasplus.info
+* Email: info@vasplus.info
+* All Copy Rights Reserved by Vasplus Programming Blog
+***********************************************************************/
+
+
+
+/*Form Wrapper*/
+.vpb_main_wrapper
+{
+	width:430px;
+	margin: 0 auto;
+	border: solid 1px #cbcbcb;
+	 background-color: #FFF;
+	 box-shadow: 0 0 15px #cbcbcb;
+	-moz-box-shadow: 0 0 15px #cbcbcb;
+	-webkit-box-shadow: 0 0 15px #cbcbcb;
+	-webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;
+	padding:10px;
+	padding-left:40px;
+	padding-right:0px;
+	padding-top:20px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:11px;
+}
+
+
+#vasplus_pb {
+	border:1px solid #F1F1F1;
+	font-family:Verdana,"Lucida Grande",Arial,Helvetica,Sans-Serif;
+	font-size:12px;
+	margin:0px;
+	padding:5px;
+	min-width:120px;
+	text-align:left
+}
+
+
+#vasplus_pb span {
+	font-family:Verdana;
+	font-size:12px;
+	font-style:normal;
+	padding:3px 5px;
+}
+
+#vasplus_pb .taken span {background: #F08F78; margin-right:5px;}
+#vasplus_pb .available span { background: #bce67b; margin-right:5px; }
+
+
+/*Textarea Boxes and Input Boxes Style*/
+.vpb_textAreaBoxInputs {min-width:278px; width:auto;height:21px;font-family:Verdana, Geneva, sans-serif; font-size:12px;padding:7px; padding-left:10px; padding-right:10px;border: 1px solid #6CF;outline:none;border-radius: 2px;-moz-border-radius: 2px;-webkit-border-radius:2px; line-height:20px;}
+.vpb_textAreaBoxInputs:focus {outline:none;border: 1px solid #6CF;box-shadow: 0 0 10px #6AB5FF;-moz-box-shadow: 0 0 10px #6AB5FF;-webkit-box-shadow: 0 0 10px #6AB5FF;}
+
+
+/*Error Message Style*/
+.info { width:350px;border: 1px solid #999; padding:12px 20px 12px 20px; font: bold 12px verdana;-moz-box-shadow: 0 0 5px #888; -webkit-box-shadow: 0 0 5px#888;box-shadow: 0 0 5px #888;text-shadow: 2px 2px 2px #ccc;-webkit-border-radius: 10px;-moz-border-radius: 10px;border-radius: 10px;font-family:Verdana, Geneva, sans-serif; font-size:11px; line-height:20px;font-weight:normal;color: black;background: #BDE5F8;}
+
+
+/*Vasplus Button*/
+.vpb_general_button 
+{
+ background-color: #7fbf4d;
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #7fbf4d), color-stop(100%, #63a62f));
+  background-image: -webkit-linear-gradient(top, #7fbf4d, #63a62f);
+  background-image: -moz-linear-gradient(top, #7fbf4d, #63a62f);
+  background-image: -ms-linear-gradient(top, #7fbf4d, #63a62f);
+  background-image: -o-linear-gradient(top, #7fbf4d, #63a62f);
+  background-image: linear-gradient(top, #7fbf4d, #63a62f);
+  border: 2px solid #63a62f;box-shadow: 0 2px 3px #666666;-moz-box-shadow: 0 2px 3px #666666;-webkit-box-shadow: 0 2px 3px #666666;
+  color: #fff;
+  font-family:Verdana, Geneva, sans-serif;
+  font-size:14px;
+  text-align: center;
+  text-shadow: 0 -1px 0 #4c9021;
+  min-width: 70px;
+  width: auto;
+  padding:7px;
+  padding-bottom:7px;
+  text-decoration:none;
+  float:left;
+}
+.vpb_general_button:hover 
+{
+    background-color: #76b347;
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #76b347), color-stop(100%, #5e9e2e));
+    background-image: -webkit-linear-gradient(top, #76b347, #5e9e2e);
+    background-image: -moz-linear-gradient(top, #76b347, #5e9e2e);
+    background-image: -ms-linear-gradient(top, #76b347, #5e9e2e);
+    background-image: -o-linear-gradient(top, #76b347, #5e9e2e);
+    background-image: linear-gradient(top, #76b347, #5e9e2e);
+    box-shadow: 0 2px 3px #666666;
+	-moz-box-shadow: 0 2px 3px #666666;
+	-webkit-box-shadow: 0 2px 3px #666666;
+    cursor: pointer; 
+}

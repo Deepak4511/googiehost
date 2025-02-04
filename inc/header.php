@@ -22,7 +22,7 @@
         <nav class="navbar navbar-expand-lg navbar-dark">
             <div class="container ps-0 pe-0">
                 <a class="navbar-brand header-logo" href="index.php">
-                    <img src="https://googiehost.com/depends/logo.png" alt="Googiehost" width="250">
+                    <img src="depends/logo.png" alt="Googiehost" width="250">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                     aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
