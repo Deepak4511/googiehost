@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_5" enable-background="new 0 0 64 64" height="512px" viewBox="0 0 64 64" width="512px"><g><SCRIPT xmlns="" id="allow-copy_script" class="active-path">(function agent() {
+    let isUnlockingCached = false
+    const isUnlocking = () =&gt; isUnlockingCached
+    document.addEventListener('allow_copy', event =&gt; {
+      const { unlock } = event.detail
+      isUnlockingCached = unlock
+    })
+
+    const copyEvents = [
+      'copy',
+      'cut',
+      'contextmenu',
+      'selectstart',
+      'mousedown',
+      'mouseup',
+      'mousemove',
+      'keydown',
+      'keypress',
+      'keyup',
+    ]
+    const rejectOtherHandlers = e =&gt; {
+      if (isUnlocking()) {
+        e.stopPropagation()
+        if (e.stopImmediatePropagation) e.stopImmediatePropagation()
+      }
+    }
+    copyEvents.forEach(evt =&gt; {
+      document.documentElement.addEventListener(evt, rejectOtherHandlers, {
+        capture: true,
+      })
+    })
+  })()</SCRIPT><path d="m5 5h2v2h-2z" data-original="#000000" class="active-path" fill="#0061A5"/><path d="m9 5h2v2h-2z" data-original="#000000" class="active-path" fill="#0061A5"/><path d="m13 5h2v2h-2z" data-original="#000000" class="active-path" fill="#0061A5"/><path d="m63 1h-62v42h23.118c-.073.658-.118 1.323-.118 2 0 9.925 8.075 18 18 18s18-8.075 18-18c0-.677-.045-1.342-.118-2h3.118zm-2 2v6h-58v-6zm-26.808 55.952c.791-2.259 4.041-3.952 7.808-3.952s7.017 1.693 7.808 3.952c-2.312 1.299-4.973 2.048-7.808 2.048s-5.496-.749-7.808-2.048zm6.831-18.561.977-.977.977.977-.701 12.618c-.092-.002-.183-.009-.276-.009s-.184.007-.276.009zm10.487 17.446c-1.07-2.338-3.822-4.101-7.242-4.65l.755-13.577-3.023-3.024-3.023 3.023.755 13.577c-3.419.55-6.172 2.313-7.242 4.65-3.676-2.731-6.137-6.99-6.439-11.837h3.949v-2h-3.949c.228-3.658 1.683-6.981 3.968-9.568l2.789 2.789 1.414-1.414-2.789-2.789c2.587-2.284 5.91-3.74 9.568-3.968v3.951h2v-3.949c3.658.228 6.981 1.683 9.568 3.968l-2.789 2.789 1.414 1.414 2.789-2.789c2.284 2.587 3.74 5.91 3.968 9.568h-3.951v2h3.949c-.302 4.845-2.763 9.105-6.439 11.836zm8.026-16.837c-1.825-8.004-8.987-14-17.536-14s-15.711 5.996-17.536 14h-21.464v-30h58v30z" data-original="#000000" class="active-path" fill="#0061A5"/><path d="m13 13h-6v15h-2.724l5.724 10.016 5.724-10.016h-2.724zm-3 20.984-2.276-3.984h1.276v-15h2v15h1.276z" data-original="#000000" class="active-path" fill="#0061A5"/><path d="m16.276 22h2.724v15h6v-15h2.724l-5.724-10.016zm6.724-2v15h-2v-15h-1.276l2.276-3.984 2.276 3.984z" data-original="#000000" class="active-path" fill="#0061A5"/><path d="m35 25h24v-12h-24zm2-10h20v8h-20z" data-original="#000000" class="active-path" fill="#0061A5"/></g> </svg>
