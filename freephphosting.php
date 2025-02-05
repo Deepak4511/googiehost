@@ -1,0 +1,418 @@
+<!-- header start  -->
+<?php include 'inc/header.php'; ?>
+<!-- header end -->
+
+<!-- hero section  -->
+<div class="hero-section">
+    <div class="container">
+        <div class="row">
+            <div class="hero-left-section col-md-6">
+                <h1 class="entry-title">Free PHP Hosting Service For Lifetime</h1>
+                <p>Get your PHP site live with the Best FREE PHP Hosting Service given by GoogieHost. Customize your PHP site with the best modules available for FREE. You can Easily Host your site with no forced advertising with us.
+                </p>
+                <ul class="hero-list mt-3">
+                    <li>99% Server Uptime</li>
+                    <li>Free Customer Support</li>
+                    <li>Amazingly PHP Optimised</li>
+                    <li>Advanced LiteSpeed WebServers</li>
+                    <li>No Hidden Terms and Conditions</li>
+                    <li>Free Let's Encrypt SSL Certificate</li>
+                </ul>
+                <a href="signup.php" class="button_orange">Signup Now </a>
+                <div class="rated mt-3">
+                    <span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20" fill="none">
+                            <path d="M12.5 7.5L8 12L6.5 10.5M9 1L1 5C1 10.1932 3.78428 17.5098 9 19C14.2157 17.5098 17 10.1932 17 5L9 1Z" stroke="#F4FFF9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </svg>
+                    </span>No Credit Card required
+                </div>
+            </div>
+            <div class="hero-image-section col-md-6">
+                <img src="depends/free-hosting-mascot.svg" width="550px" height="420px" alt="GoogieHost Logo" class="img-fluid">
+            </div>
+        </div>
+    </div>
+    <div class="inner container" style="padding-top: 0 !important;">
+        <img loading="lazy" alt="featured on logos" class="img-fluid" data-cfsrc="depends/featured-logos2.png" src="depends/featured-logos2.png">
+    </div>
+</div>
+<!-- / hero section -->
+
+<!-- banner section -->
+<div class="container">
+    <div class="banner d-flex align-items-center justify-content-between  rounded">
+        <div class="row w-100 align-items-center">
+            <div class="d-flex align-items-center col-md-8">
+                <span class="heart">&#129293;</span>
+                <div>
+                    <h2 class="text-white mb-2 ">
+                        Host your website with Free PHP Hosting</h2>
+                    <p class="text-white mb-0">
+                        Free PHP Website Hosting with no restrictions.With record speed, performance, and 24/7 support, EasyWP gets your WordPress site up fast.
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-4 text-md-right text-center mt-3 mt-md-0">
+                <a href="signup.php" class="btn ">Signup Now <i class="fa-solid fa-angle-right"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- / banner section  -->
+<!-- feature section  -->
+<div class="features">
+
+    <div class="container py-5 ">
+        <h2 class="text-center">Free PHP Hosting Features →</h2>
+
+        <div class="row g-4 mt-4">
+            <!-- Feature 1 -->
+            <div class="col-md-6 col-lg-4">
+                <div class="card feature-card text-center">
+                    <div class="feature-icon mx-auto">
+                        <img src="depends/php-icons/optimazation.png" alt="optimization">
+                        <h5 class="card-title">PHP Optimization</h5>
+                    </div>
+                    <div class="card-body">
+
+                        <p class="card-text">We provide you with the free PHP hosting packages after optimised it according to your taste and website/websites. For such purposes, we have dedicated a team for developing and implementing</p>
+
+                    </div>
+                </div>
+            </div>
+
+            <!-- Feature 2 -->
+            <div class="col-md-6 col-lg-4">
+                <div class="card feature-card text-center">
+                    <div class="feature-icon mx-auto">
+                        <img src="depends/php-icons/extension.png" alt="extension">
+                        <h5 class="card-title">PHP Extensions</h5>
+                    </div>
+                    <div class="card-body">
+
+                        <p class="card-text">We deploy advanced configuration for running major PHP extensions. Our cache our server for running multiple extensions. It helps you to run your site smoothly and hassle-free.</p>
+
+                    </div>
+                </div>
+            </div>
+
+            <!-- Feature 3 -->
+            <div class="col-md-6 col-lg-4">
+                <div class="card feature-card text-center">
+                    <div class="feature-icon mx-auto">
+                        <img src="depends/php-icons/control.png" alt="control">
+                        <h5 class="card-title">Full Control</h5>
+                    </div>
+                    <div class="card-body">
+
+                        <p class="card-text">We do not hold you back at all and believe in giving you full control over your website and features. You can configure the website as you may see it fit, while do not put any restrictions on PHP memory limit, Post Max size, and more.</p>
+
+                    </div>
+                </div>
+            </div>
+
+            <!-- Feature 4 -->
+            <div class="col-md-6 col-lg-4">
+                <div class="card feature-card text-center">
+                    <div class="feature-icon mx-auto">
+                        <img src="depends/php-icons/scripts.png" alt="scripts">
+                        <h5 class="card-title">Multiple PHP Scripts Supported</h5>
+                    </div>
+                    <div class="card-body">
+                        <p class="card-text">Many <a href="freehosting.php">free hosting</a> have restrictions on how many scripts you run on their accounts, but we do not hold you back. We allow you to install CMS like WordPress, Opencart, Iconcube loader, various frameworks, and more.</p>
+
+                    </div>
+                </div>
+            </div>
+
+            <!-- Feature 5 -->
+            <div class="col-md-6 col-lg-4">
+                <div class="card feature-card text-center">
+                    <div class="feature-icon mx-auto">
+                        <img src="depends/php-icons/support.png" alt="support">
+                        <h5 class="card-title">24/7 Support Team</h5>
+                    </div>
+                    <div class="card-body">
+
+                        <p class="card-text">Our company is India based, where we have added a dedicated team for hosting account support, and free users can reach our team via email and chat option. We answer your queries within 24-hour of the period.</p>
+
+                    </div>
+                </div>
+            </div>
+
+            <!-- Feature 6 -->
+            <div class="col-md-6 col-lg-4">
+                <div class="card feature-card text-center">
+                    <div class="feature-icon mx-auto">
+                        <img src="depends/php-icons/no-ads.png" alt="no-ads">
+                        <h5 class="card-title">No Forced Ads</h5>
+                    </div>
+                    <div class="card-body">
+
+                        <p class="card-text">With free PHP hosting with SSL, we have given you the liberty to use services as you like it. Competition is tough, but we know that how clean a <a href="freehosting.php">free hosting</a> plus NO-AD site looks - SUPERB!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- / feature section  -->
+
+<!-- plan section  -->
+<div class="container pricing-section ">
+    <h2 class="mb-4 text-center fw-bold">Give More Power To Your PHP Site →</h2>
+    <p class="mb-5 text-center">You will get the best Free PHP Hosting Features which will help you grow more and GoogieHost also helps you to migrate your Data to any Premium Hosting Provider.</p>
+    <div class="row justify-content-center">
+        <!-- Free Hosting Plan -->
+        <div class="col-md-4 mb-4">
+            <div class="pricing-card">
+                <div class="plan-image">
+                    <img src="images/icons/FreeIcon.png" alt="free web hosting" class="img-fluid">
+                </div>
+                <div class="pricing-header">Free Web Hosting</div>
+                <div class="pricing-subheader">100% Free No Card, No Ads & No Hassle</div>
+                <a href="checkout" class="btn btn-outline-dark pricing-button mb-4 w-100 rounded-3 p-3 fw-bold">Proceed with Free</a>
+                <ul class="feature-list text-start">
+                    <li>Host 1 Website</li>
+                    <li>MB SSD Storage</li>
+                    <li>Free SSL Certificate</li>
+                    <li>100 GB Bandwidth</li>
+                    <li>WordPress Manager</li>
+                    <li>Business Email</li>
+                    <li>MySQL, FTP Account*</li>
+                    <li>Cloudflare Protection</li>
+                    <li>99% Uptime</li>
+                </ul>
+            </div>
+        </div>
+        <!-- Paid Hosting Plan -->
+        <div class="col-md-4 mb-4">
+            <div class="pricing-card">
+                <div class="plan-image">
+                    <img src="images/icons/BusinessIcon.png" alt="lifetime web hosting" class="img-fluid">
+                </div>
+                <div class="pricing-header">Lifetime Web Hosting</div>
+                <div class="pricing-subheader">Pro (Lifetime Deal) Starting at $25</div>
+                <a href="checkout" class="btn pricing-button mb-4 w-100 rounded-3 p-3 fw-bold">Proceed with Paid</a>
+                <ul class="feature-list text-start">
+                    <li>Number of Websites 3</li>
+                    <li>10 GB NVMe SSD</li>
+                    <li>Unmetered Bandwidth</li>
+                    <li>3 Email Accounts</li>
+                    <li>3 MySQL Database</li>
+                    <li>1 FTP Account</li>
+                    <li>SSL Certificate</li>
+                    <li>Softaculous Auto Installer</li>
+                    <li>LS Cache Included</li>
+                    <li>99.95% Uptime</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<!--/ plan section  -->
+
+
+<!-- Why PHP Hosting  -->
+<div class="container-fluid p-0 ">
+    <h2 class="mb-4 text-center fw-bold">Why PHP Hosting →</h2>
+    <p class="text-center">When you can Host Your PHP Site for FREE why wasting money on Premium Hosting Service. Take a Look at the Special Features For Your PHP Site</p>
+
+</div>
+
+<div class="grow-free">
+    <div class="container">
+        <div class="row grow-free-block">
+            <div class="col-lg-6 img-container" data-aos="zoom-in" data-aos-duration="1200">
+                <img src="depends/wordpress-icons/infinite.png" alt="infinite" class="img-fluid animated-img" width="260px">
+            </div>
+            <div class="col-lg-6 text-container" data-aos="fade-up" data-aos-duration="1400">
+                <h2 class="text-white animated-text">
+                    Supports MySQL 8.0
+                </h2>
+                <p class="text-white animated-text">
+                    Best security and account management with Free PHP Hosting. Atomic data definition statements. Feel the best performance tuning with legit security optimizations. Avail now to Feel the speed.
+                </p>
+            </div>
+        </div>
+
+        <div class="row grow-free-block">
+            <div class="col-lg-6 text-container" data-aos="fade-up" data-aos-duration="1400">
+                <h2 class="text-white animated-text">
+                    PHP Version: 8, 7, 6, 5.6 </h2>
+                <p class="text-white animated-text">
+                    Get the best optimizations of PHP 8 with GoogieHost’s Free PHP Hosting and lesser the errors faster the response rate. With the best efficiency performance enhancer available for you.
+                </p>
+            </div>
+            <div class="col-lg-6 img-container text-end " data-aos="zoom-in" data-aos-duration="1200">
+                <img src="depends/wordpress-icons/unlimited.png" alt="infinite" class="img-fluid animated-img" width="260px">
+            </div>
+
+        </div>
+        <div class="row grow-free-block" data-aos="fade-right">
+            <div class="col-lg-6 img-container" data-aos="zoom-in" data-aos-duration="1200">
+                <img src="depends/wordpress-icons/turn.png" alt="infinite" class="img-fluid animated-img" width="260px">
+            </div>
+            <div class="col-lg-6 text-container" data-aos="fade-up" data-aos-duration="1400">
+                <h2 class=" text-white animated-text">
+                    Cloudflare CDN
+                </h2>
+                <p class="text-white animated-text">
+                    You will get a Blazing fast performance no matter from where you will request with the Free CDN from Cloudflare. Grab the Free PHP Hosting Now and get the best hosting service.
+                </p>
+            </div>
+        </div>
+        <div class="row grow-free-block" data-aos="fade-right">
+            <div class="col-lg-6 text-container" data-aos="fade-up" data-aos-duration="1400">
+                <h2 class="text-white animated-text">
+                    Immense Hosting Experience
+                </h2>
+                <p class="text-white animated-text">
+                    All the plugins and special features will give you a flawless hosting experience and your PHP site will become slowly start to rank better on search engines. Just grab the Best PHP Hosting for your Website.
+                </p>
+            </div>
+            <div class="col-lg-6 img-container text-end" data-aos="zoom-in" data-aos-duration="1200">
+                <img src="depends/wordpress-icons/rank.png" alt="infinite" class="img-fluid animated-img" width="260px">
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Grow Without Resistance -->
+
+<!-- block-single section  -->
+<div class="container my-5">
+    <div class="row text-center">
+        <!-- Card 1 -->
+        <div class="col-md-3 mb-4">
+            <div class="stat-card shadow">
+                <div class="stat-icon mb-3">
+                    <img src="depends/experience.png" alt="Icon" class="img-fluid">
+                </div>
+                <div class="stat-value">
+                    <h3>14</h3>
+                </div>
+                <div class="stat-text">Years of Experience</div>
+            </div>
+        </div>
+        <!-- Card 2 -->
+        <div class="col-md-3 mb-4">
+            <div class="stat-card shadow">
+                <div class="stat-icon mb-3">
+                    <img src="depends/uptime-googiehost.png" alt="Icon" class="img-fluid">
+                </div>
+                <div class="stat-value">
+                    <h3>99.9%</h3>
+                </div>
+                <div class="stat-text">Uptime Guarantee</div>
+            </div>
+        </div>
+        <!-- Card 3 -->
+        <div class="col-md-3 mb-4">
+            <div class="stat-card shadow">
+                <div class="stat-icon mb-3">
+                    <img src="depends/uptime.png" alt="Icon" class="img-fluid">
+                </div>
+                <div class="stat-value">
+                    <h3>4,32,023</h3>
+                </div>
+                <div class="stat-text">Happy Users</div>
+            </div>
+        </div>
+        <!-- Card 4 -->
+        <div class="col-md-3 mb-4">
+            <div class="stat-card shadow">
+                <div class="stat-icon mb-3">
+                    <img src="depends/support.png" alt="Icon" class="img-fluid">
+                </div>
+                <div class="stat-value">
+                    <h3>24/7</h3>
+                </div>
+                <div class="stat-text">Round the Clock Support</div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- / block-single section  -->
+
+<!-- faq section  -->
+<div class="container mt-5 faq mb-5">
+    <h2 class="text-center mb-5 fw-bold">Frequently Asked Questions</h2>
+    <div class="accordion shadow p-5 bg-white" id="accordionExample">
+        <!-- Section 1 -->
+        <div class="accordion-item ">
+            <h2 class="accordion-header " id="headingOne">
+                <button class="accordion-button border-bottom-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                    What is PHP? </button>
+            </h2>
+            <div id="collapseOne" class="accordion-collapse collapse show border-top-0" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                    <p>PHP is one of the most famous scripting language which is widely used because it is an open-source scripting language most suitable for Web Development and also developers can embed it into HTML.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Section 2 -->
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingTwo">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    How do I get Free PHP Hosting?</button>
+            </h2>
+            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                    <p>Now you don’t have to knock anyone’s store for, free PHP Hosting, You can get the best PHP hosting service from GoogieHost, and with that, you can get your PHP site live. Just login and avail of the Free Hosting Service of GoogieHost with Best LiteSpeed WebServers.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Section 3 -->
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    What is the latest version of PHP?
+                </button>
+            </h2>
+            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                    <p>Well, there have been many major updates on PHP but the latest one is PHP 8.0.8 and 8.1.0 will soon be available in the market.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Section 4 -->
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingFour">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                    Where can I host a PHP site for free? </button>
+            </h2>
+            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                    <p>On GoogieHost you can Host your PHP site for Free, with the best and the most optimized Free Hosting service available in the market.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Section 5 -->
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingFive">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                    Is PHP old Now? </button>
+            </h2>
+            <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                    <p>Lowkey yes, PHP was introduced in 1995, and it’s been 26 years since this scripting language was introduced. PHP is still evolving so yeah it’s old but not too old.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+<!-- /faq section  -->
+
+<!-- Footer start  -->
+<?php include 'inc/footer.php' ?>
+<!-- Footer end -->

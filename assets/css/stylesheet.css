@@ -505,12 +505,12 @@ header .nav-item {
 
 .check {
   color: green;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .cross {
   color: red;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .comparison-table table tbody tr td {
@@ -999,6 +999,59 @@ header .nav-item {
 }
 
 /* cheap vps hosting  */
+
+/* freewordpresshosting */
+.grow-free {
+  background: linear-gradient(90deg, #11253c 0%, #33215d 69%) !important;
+  position: relative;
+}
+
+.grow-free::before {
+  background: url(https://googiehost.com/images/f-img.png) !important;
+  background-size: 100%;
+  width: 90%;
+  height: 100%;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+}
+
+.grow-free-block {
+  padding: 50px;
+}
+
+
+.grow-free-block .img-container .animated-img {
+  transition: transform 0.5s ease-in-out;
+}
+
+.grow-free-block .img-container:hover .animated-img {
+  transform: rotate(360deg);
+}
+
+.grow-free-block .text-container .animated-text {
+  transition: color 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.grow-free-block .text-container:hover .animated-text {
+  transform: translateY(-5px);
+}
+
+.grow-free .feature-icon {
+  background-color: #22a340;
+}
+
+/* freewordpresshosting  */
+/* free-hosting-for-student */
+.single-block {
+  background: linear-gradient(32deg, rgba(61, 0, 166, 1) 0%, rgba(0, 0, 0, 1) 100%);
+}
+
+
+/* free-hosting-for-student */
 /* free-landing-page-hosting  */
 
 .unleash-idea-income {
@@ -1007,6 +1060,13 @@ header .nav-item {
 
 /* free-landing-page-hosting  */
 
+
+/* free domains */
+.services-content p {
+  font-size: 17px;
+}
+
+/* free domains */
 /* footer  */
 .footer {
   background-color: #270069 !important;

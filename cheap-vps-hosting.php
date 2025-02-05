@@ -1,9 +1,3 @@
-<script>
-    function swapText(element, text) {
-        element.innerText = text;
-    }
-</script>
-
 <!-- header start  -->
 <?php include 'inc/header.php'; ?>
 <!-- header end -->
@@ -46,7 +40,6 @@
         <img loading="lazy" alt="featured on logos" class="img-fluid" data-cfsrc="depends/featured-logos2.png" src="depends/featured-logos2.png">
     </div>
 </div>
-
 <!-- / hero section -->
 
 <!-- Editor's Choice Section Start  -->
@@ -101,6 +94,7 @@
     </div>
 </div>
 <!-- Editor's Choice Section End  -->
+
 
 <!-- top best paid section start -->
 <div class="container mt-5">
@@ -401,6 +395,7 @@
     </div>
 </div>
 <!-- top best paid section end -->
+
 
 <!-- message section start -->
 <div class="container my-5">
@@ -1089,6 +1084,8 @@
 
 </div>
 <!-- best paid end  -->
+
+
 <!-- faq section  -->
 <div class="container mt-5 faq mb-5">
     <h2 class="text-center mb-5 fw-bold">Free Hosting FAQ</h2>
@@ -1237,7 +1234,6 @@
 </div>
 <!-- /faq section  -->
 
-
 <!-- block-single section  -->
 <div class="container my-5">
     <div class="row text-center">
@@ -1292,6 +1288,7 @@
     </div>
 </div>
 <!-- / block-single section  -->
+
 
 <!-- Footer start  -->
 <?php include 'inc/footer.php' ?>
