@@ -52,15 +52,15 @@
                                                 Free Non-Profit Hosting</a></li>
                                         <li><a class="text-white" href="freewordpresshosting.php">
                                                 Free WordPress Hosting</a></li>
-                                        <li><a class="text-white" href="free-hosting-for-student.html">
+                                        <li><a class="text-white" href="free-hosting-for-student.php">
                                                 Free Student Hosting</a></li>
-                                        <li><a class="text-white" href="freephphosting.html"> Free PHP8 Hosting</a>
+                                        <li><a class="text-white" href="freephphosting.php"> Free PHP8 Hosting</a>
                                         </li>
-                                        <li><a class="text-white" href="freedomains.html"> Free Domain Name</a>
+                                        <li><a class="text-white" href="freedomains.php"> Free Domain Name</a>
                                         </li>
-                                        <li><a class="text-white" href="freewebsitebuilder.html">
+                                        <li><a class="text-white" href="freewebsitebuilder.php">
                                                 Free Website Builder</a></li>
-                                        <li><a class="text-white" href="free-mysql-hosting.html">
+                                        <li><a class="text-white" href="free-mysql-hosting.php">
                                                 Free SQL Hosting</a></li>
                                         <li><a class="text-white" href="blog/blogging"> Latest Posts</a></li>
                                     </ul>

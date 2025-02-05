@@ -98,7 +98,7 @@
                 <div class="card feature-card text-center">
                     <div class="feature-icon mx-auto">
                         <img src="depends/wordpress-icons/no-ads.png" alt="no-ads">
-                        <h5 class="card-title">No Forced Advertising/h5>
+                        <h5 class="card-title">No Forced Advertising</h5>
                     </div>
                     <div class="card-body">
 
@@ -230,6 +230,74 @@
     </div>
 </div>
 <!-- / banner section  -->
+
+<!-- Grow Without Resistance  -->
+<div class="container-fluid p-0 ">
+    <h2 class="mb-4 text-center fw-bold">Grow Without Resistance →</h2>
+    <p class="text-center">Its time for you to grow without limits with FREE WordPress Hosting</p>
+
+</div>
+
+<div class="grow-free">
+    <div class="container">
+        <div class="row grow-free-block">
+            <div class="col-lg-6 img-container" data-aos="zoom-in" data-aos-duration="1200">
+                <img src="depends/wordpress-icons/infinite.png" alt="infinite" class="img-fluid animated-img" width="260px">
+            </div>
+            <div class="col-lg-6 text-container" data-aos="fade-up" data-aos-duration="1400">
+                <h2 class="text-white animated-text">
+                    Infinite WordPress Themes
+                </h2>
+                <p class="text-white animated-text">
+                    Scroll through the infinite Exciting WordPress Themes which will give your site a More Amazing and optimized look. You can opt for the theme of your choice and attract more audiences. WordPress consists of millions of themes and you can access them all with FREE WordPress Hosting.
+                </p>
+            </div>
+        </div>
+
+        <div class="row grow-free-block">
+            <div class="col-lg-6 text-container" data-aos="fade-up" data-aos-duration="1400">
+                <h2 class="text-white animated-text">
+                    Unlimited Premium Plugins
+                </h2>
+                <p class="text-white animated-text">
+                    The site needs plugins for better performance and the output will be quite smooth and flawless. Even with free WordPress Hosting, you will get the best and the Most famous WordPress Plugins. The Plugins will help you reach your optimization goals.
+                </p>
+            </div>
+            <div class="col-lg-6 img-container text-end " data-aos="zoom-in" data-aos-duration="1200">
+                <img src="depends/wordpress-icons/unlimited.png" alt="infinite" class="img-fluid animated-img" width="260px">
+            </div>
+
+        </div>
+        <div class="row grow-free-block" data-aos="fade-right">
+            <div class="col-lg-6 img-container" data-aos="zoom-in" data-aos-duration="1200">
+                <img src="depends/wordpress-icons/turn.png" alt="infinite" class="img-fluid animated-img" width="260px">
+            </div>
+            <div class="col-lg-6 text-container" data-aos="fade-up" data-aos-duration="1400">
+                <h2 class=" text-white animated-text">
+                    Turn Your Site Into Store
+                </h2>
+                <p class="text-white animated-text">
+                    It’s time for you to turn your normal site into an online store. The WordPress Themes and WordPress Plugins will help you convert your simple site into an Online Store. All with Free WordPress Hosting.
+                </p>
+            </div>
+        </div>
+        <div class="row grow-free-block" data-aos="fade-right">
+            <div class="col-lg-6 text-container" data-aos="fade-up" data-aos-duration="1400">
+                <h2 class="text-white animated-text">
+                    Easy Rank On Google
+                </h2>
+                <p class="text-white animated-text">
+                    With the help of this Free Hosting Service, you will get a better rank on search engines like Google, Yahoo, Bing. The Free Domains are also easy to remember and they will also play a vital role in the ranking of your site.
+                </p>
+            </div>
+            <div class="col-lg-6 img-container text-end" data-aos="zoom-in" data-aos-duration="1200">
+                <img src="depends/wordpress-icons/rank.png" alt="infinite" class="img-fluid animated-img" width="260px">
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Grow Without Resistance -->
 
 <!-- block-single section  -->
 <div class="container my-5">
