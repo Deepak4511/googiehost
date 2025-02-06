@@ -9,7 +9,7 @@
     <script src="https://kit.fontawesome.com/97ebc2bc67.js" crossorigin="anonymous"></script>
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <title>Header</title>
-    <link href="assets/css/stylesheet.css" rel="stylesheet" />
+    <link href="/googiehost/googiehost/assets/css/stylesheet.css" rel="stylesheet" />
 </head>
 
 <body>
@@ -22,8 +22,8 @@
     <header class="header">
         <nav class="navbar navbar-expand-lg navbar-dark">
             <div class="container ps-0 pe-0">
-                <a class="navbar-brand header-logo" href="index.php">
-                    <img src="depends/logo.png" alt="Googiehost" width="250">
+                <a class="navbar-brand header-logo" href="/googiehost/googiehost/index.php">
+                    <img src="/googiehost/googiehost/depends/logo.png" alt="Googiehost" width="250">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                     aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
