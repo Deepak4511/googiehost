@@ -1585,3 +1585,30 @@ input, textarea {
   list-style-type: disc;
   padding-left: 24px;
 }
+
+
+.notice-box{
+  border: 1px solid;
+  padding: 30px;
+  background-color: #fff;
+
+}
+
+.notice-btn{
+  border: 1px solid;
+  color: #000;
+  background-color: #fff;
+  width: 140px;
+  border-radius: 0px !important;
+  transition: 0.3s;
+}
+
+.notice-btn:hover{
+  transform: translateX(2px);
+  color: #000;
+}
+
+.nav-pills .notice-btn.active, .nav-pills .show>.notice-btn {
+  color: #000;
+  background-color: #fff;
+}
