@@ -23,7 +23,7 @@
 
 
                 <a href="" class="button_orange">Deploy Free Server now <i class="fa-solid fa-angles-right"></i> </a>
-                <div class="rated mt-3">
+                <div class="rated">
                     <span>
                         <svg xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20" fill="none">
                             <path d="M12.5 7.5L8 12L6.5 10.5M9 1L1 5C1 10.1932 3.78428 17.5098 9 19C14.2157 17.5098 17 10.1932 17 5L9 1Z" stroke="#F4FFF9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
@@ -575,7 +575,7 @@
                     <div class=" plan-feature-table">
                         <p>Price</p>
                         <p>
-                        $129.90
+                            $129.90
                         </p>
                     </div>
                 </div>
@@ -585,7 +585,7 @@
                 <p class="para ">UltaHost also offers 99.99% guaranteed Uptime, ensuring the site is running and accessible by your website visitors at all times. For Better performance of your sites, UltaHost provides Apache/ Nginx- backed-Web Servers with MySQL/ MariaDB as a database option. A long with that, even get incredible database security to prevent unauthorized access.
                 </p>
                 <h3 class="mb-3">
-                Want to know the key features of Dedicated servers by UltaHost:
+                    Want to know the key features of Dedicated servers by UltaHost:
                 </h3>
                 <div class="hosting-key-features">
                     <div><i class="fa-solid fa-check check-symbol"></i>Firewall, Database security & IP WhiteListing</div>
@@ -648,7 +648,7 @@
                     <div class=" plan-feature-table">
                         <p>Price</p>
                         <p>
-                        $75
+                            $75
                         </p>
                     </div>
                 </div>
@@ -658,7 +658,7 @@
                 <p class="para ">Along with that, LiquidWeb also offers effortless website migration for users who have a website registered with some other hosting service provider.Furthermore, LiquidWeb even provides highly scalable plans, letting the users choose the dedicated web resources as per the requirements of the websites.
                 </p>
                 <h3 class="mb-3">
-                Key takeaways that LiquidWeb offers its Dedicated Server Users:
+                    Key takeaways that LiquidWeb offers its Dedicated Server Users:
                 </h3>
                 <div class="hosting-key-features">
                     <div><i class="fa-solid fa-check check-symbol"></i>Multiple Data Centers</div>
@@ -678,7 +678,7 @@
 
 
 
-        
+
 
         <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-2 p-3 rounded-3 align-items-center"
             style="background-color: #569440">
@@ -722,7 +722,7 @@
                     <div class=" plan-feature-table">
                         <p>Price</p>
                         <p>
-                        $79.99
+                            $79.99
                         </p>
                     </div>
                 </div>
@@ -732,7 +732,7 @@
                 <p class="para ">Moreover, the dedicated server hosting services have built-in Intel Xeon/ AMD EPYC/ Ryzen Core CPU and other Advanced Hardware, boosting the overall performance of all the websites. With 24/7 support services & Fully managed Dedicated servers, A2Hosting troubleshoots every inch of the technical doubts arising from server issues.
                 </p>
                 <h3 class="mb-3">
-                Features that Dedicated server hosting of A2Hosting offers:
+                    Features that Dedicated server hosting of A2Hosting offers:
                 </h3>
                 <div class="hosting-key-features">
                     <div><i class="fa-solid fa-check check-symbol"></i>Managed/UnManaged servers</div>
@@ -753,7 +753,7 @@
 
 
 
-        
+
 
         <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-2 p-3 rounded-3 align-items-center"
             style="background-color: #569440">
@@ -797,7 +797,7 @@
                     <div class=" plan-feature-table">
                         <p>Price</p>
                         <p>
-                        $91.99
+                            $91.99
                         </p>
                     </div>
                 </div>
@@ -807,7 +807,7 @@
                 <p class="para ">Furthermore, HostGator comprises highly trained Technician staff that offers 24/7 support services via LiveChat and Ticketing system.
                 </p>
                 <h3 class="mb-3">
-                Want to know the key features of Dedicated servers by UltaHost:
+                    Want to know the key features of Dedicated servers by UltaHost:
                 </h3>
                 <div class="hosting-key-features">
                     <div><i class="fa-solid fa-check check-symbol"></i>Premium CloudFlare Configuration</div>
@@ -825,7 +825,7 @@
 
 
 
-        
+
 
         <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-2 p-3 rounded-3 align-items-center"
             style="background-color: #569440">
@@ -869,7 +869,7 @@
                     <div class=" plan-feature-table">
                         <p>Price</p>
                         <p>
-                        $91.99
+                            $91.99
                         </p>
                     </div>
                 </div>
@@ -879,7 +879,7 @@
                 <p class="para ">BlueHost also offers Free website Migration and a 30-day guaranteed money-back policy, making it one of the Best Cheap Dedicated Server hosting providers. Bluehost’s dedicated servers are Fully assisted by highly technical staff that lets you upscale or downscale the dedicated web resources as per the site's requirement. BlueHost also readily helps its clients in times of emergency via 24/7 LiveChat support and ticketing.
                 </p>
                 <h3 class="mb-3">
-                Features that BlueHost offers its Dedicated Server clients:
+                    Features that BlueHost offers its Dedicated Server clients:
                 </h3>
                 <div class="hosting-key-features">
                     <div><i class="fa-solid fa-check check-symbol"></i>RAID Storage Technology</div>
@@ -943,7 +943,7 @@
                     <div class=" plan-feature-table">
                         <p>Price</p>
                         <p>
-                        $79.99
+                            $79.99
                         </p>
                     </div>
                 </div>
@@ -953,7 +953,7 @@
                 <p class="para ">With remarkable High-performance hardware and cutting-edge infrastructure like DDR4 RAM, RAID 10 Storage mechanism, unmetered Network connectivity, and cPanel/WHM for effortless website management application, BlueHost provides greater website loading speed and enhanced server performance. Users with server configuration-related issues can connect with the TMDHosting support staff via Ticketing and LiveChat support for Quick issue resolution.
                 </p>
                 <h3 class="mb-3">
-                Specifications offered by TMDHosting's Cheap Dedicated Server:
+                    Specifications offered by TMDHosting's Cheap Dedicated Server:
                 </h3>
                 <div class="hosting-key-features">
                     <div><i class="fa-solid fa-check check-symbol"></i>Fully Managed Infrastructure</div>
@@ -965,14 +965,14 @@
                     <div><i class="fa-solid fa-check check-symbol"></i>Manage your Server with cPanel/ WHM</div>
                     <div><i class="fa-solid fa-check check-symbol"></i>Offers simple TMD Dashboard Portal</div>
                 </div>
-                </div>
+            </div>
             <a href="https://googiehost.com/blog/go/tmdhosting-dedicated/" class="best-deal-btn">Get Best Deal on TMDHosting<i class="fa-solid fa-angle-right ms-3"></i></a>
         </div>
 
 
 
 
-                <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-2 p-3 rounded-3 align-items-center"
+        <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-2 p-3 rounded-3 align-items-center"
             style="background-color: #569440">
             <div class="col">
                 <div>
@@ -1014,7 +1014,7 @@
                     <div class=" plan-feature-table">
                         <p>Price</p>
                         <p>
-                        $122.00
+                            $122.00
                         </p>
                     </div>
                 </div>
@@ -1024,7 +1024,7 @@
                 <p class="para ">HostWinds also offers multiple server locations, giving the users a wide range of server location options to choose the one near to its targeted viewers. Dedicated servers of HostWinds give full IPMI access to control the servers and manage them as per the website's demand. HostWinds also provides seamless and consistent dedicated support services to users facing technical doubts while configuring the server.
                 </p>
                 <h3 class="mb-3">
-                Let’s see the Key Features of the Dedicated servers by Hostwinds
+                    Let’s see the Key Features of the Dedicated servers by Hostwinds
                 </h3>
                 <div class="hosting-key-features">
                     <div><i class="fa-solid fa-check check-symbol"></i>24*7 Assistance Services</div>
@@ -1036,14 +1036,14 @@
                     <div><i class="fa-solid fa-check check-symbol"></i>Easy-to-use Migration Procedure</div>
                     <div><i class="fa-solid fa-check check-symbol"></i>Sequential Server Observation</div>
                 </div>
-                </div>
+            </div>
             <a href="https://googiehost.com/blog/go/hostwinds-dedicated/" class="best-deal-btn">Get Best Deal on Hostwinds<i class="fa-solid fa-angle-right ms-3"></i></a>
         </div>
 
 
 
 
-                <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-2 p-3 rounded-3 align-items-center"
+        <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-2 p-3 rounded-3 align-items-center"
             style="background-color: #569440">
             <div class="col">
                 <div>
@@ -1085,7 +1085,7 @@
                     <div class=" plan-feature-table">
                         <p>Price</p>
                         <p>
-                        $90.0
+                            $90.0
                         </p>
                     </div>
                 </div>
@@ -1095,7 +1095,7 @@
                 <p class="para ">Vult offers highly advanced GPU servers run on NVIDIA & Intel CPU processor that lets your sites work at all times, and your sites are able to handle all sorts of vulnerable web situations. Vultr offers a minimum of 25 Gbps of network connectivity, ensuring maximum regional redundancy and low latency among visitors. Back-to-back Dedicated support also ensures true Expert opinion and issue resolutions at all times when users face tech-related doubts.
                 </p>
                 <h3 class="mb-3">
-                Key features offered by Best Dedicated servers of Vultr
+                    Key features offered by Best Dedicated servers of Vultr
                 </h3>
                 <div class="hosting-key-features">
                     <div><i class="fa-solid fa-check check-symbol"></i>Offers Docker & Kubernetes Solutions</div>
@@ -1107,14 +1107,14 @@
                     <div><i class="fa-solid fa-check check-symbol"></i>Completely Managed Web servers</div>
                     <div><i class="fa-solid fa-check check-symbol"></i>A minimum of 25 Gbps of network Connectivity</div>
                 </div>
-                </div>
+            </div>
             <a href="https://googiehost.com/blog/go/vultr/" class="best-deal-btn">Get Best Deal on Vultr<i class="fa-solid fa-angle-right ms-3"></i></a>
         </div>
 
 
 
 
-                <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-2 p-3 rounded-3 align-items-center"
+        <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-2 p-3 rounded-3 align-items-center"
             style="background-color: #569440">
             <div class="col">
                 <div>
@@ -1156,7 +1156,7 @@
                     <div class=" plan-feature-table">
                         <p>Price</p>
                         <p>
-                        $149.00
+                            $149.00
                         </p>
                     </div>
                 </div>
@@ -1166,7 +1166,7 @@
                 <p class="para ">Even with DreamHost, Get a local MySQL Server with full root access and an advanced, easy-to-use cPanel. DreamHost provides dedicated back to back Server support services via LiveChat and the Ticketing system, helping users to resolve the issues right then and there.DreamHost offers a RAID1 Storage mechanism for increased reliability and greater server performance. Unmetered bandwidth helps the site remain online and accessible 24/7 as well.
                 </p>
                 <h3 class="mb-3">
-                Some more features that DreamHost offers its Clients:
+                    Some more features that DreamHost offers its Clients:
                 </h3>
                 <div class="hosting-key-features">
                     <div><i class="fa-solid fa-check check-symbol"></i>Unmetered Bandwidth</div>
@@ -1178,7 +1178,7 @@
                     <div><i class="fa-solid fa-check check-symbol"></i>RAID 1 Storage</div>
                     <div><i class="fa-solid fa-check check-symbol"></i>User Friendly cPanel</div>
                 </div>
-                </div>
+            </div>
             <a href="https://googiehost.com/blog/go/dreamhost/" class="best-deal-btn">Get Best Deal on DreamHost<i class="fa-solid fa-angle-right ms-3"></i></a>
         </div>
 
@@ -1190,179 +1190,179 @@
 
 <section>
     <!-- feature section  -->
-<div class="features">
+    <div class="features">
 
-<div class="container py-5 ">
-    <h2 class="text-center">Why Buy Cheap Dedicated Server Hosting?</h2>
-    <p class="w-75 text-center mx-auto p-1">
-    A cheap Dedicated Hosting Must be the Best Dedicated Hosting. It has the following features.
-    </p>
+        <div class="container py-5 ">
+            <h2 class="text-center">Why Buy Cheap Dedicated Server Hosting?</h2>
+            <p class="w-75 text-center mx-auto p-1">
+                A cheap Dedicated Hosting Must be the Best Dedicated Hosting. It has the following features.
+            </p>
 
-    <div class="row g-4 mt-4">
-        <!-- Feature 1 -->
-        <div class="col-md-6 col-lg-4">
-            <div class="card feature-card text-center">
-                <div class="feature-icon mx-auto">
-                    <img src="https://googiehost.com/depends/root%20access-01.png" alt="1000MB SSD Storage">
-                    <h5 class="card-title">Root Access</h5>
+            <div class="row g-4 mt-4">
+                <!-- Feature 1 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card feature-card text-center">
+                        <div class="feature-icon mx-auto">
+                            <img src="https://googiehost.com/depends/root%20access-01.png" alt="1000MB SSD Storage">
+                            <h5 class="card-title">Root Access</h5>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text ">Buying a dedicated server will also give you Full Access. With full access it means you will have full control over your server.</p>
+
+                        </div>
+                    </div>
                 </div>
-                <div class="card-body">
-                    <p class="card-text ">Buying a dedicated server will also give you Full Access. With full access it means you will have full control over your server.</p>
 
+                <!-- Feature 2 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card feature-card text-center">
+                        <div class="feature-icon mx-auto">
+                            <img src="https://googiehost.com/depends/host%20unlimited%20website-01.png" alt="100GB Bandwidth">
+                            <h5 class="card-title">Host Unlimited Websites</h5>
+                        </div>
+                        <div class="card-body">
+
+                            <p class="card-text ">You can Host Unlimited Websites on your Dedicated servers and there will be no added charges for it, you can Host as much as you want.</p>
+                        </div>
+                    </div>
                 </div>
+
+                <!-- Feature 3 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card feature-card text-center">
+                        <div class="feature-icon mx-auto">
+                            <img src="https://googiehost.com/depends/dedicated%20ip-01.png" alt="Hotlink Protection">
+                            <h5 class="card-title">Dedicated IP</h5>
+                        </div>
+                        <div class="card-body">
+
+                            <p class="card-text ">You will get a Dedicated IP with your Dedicated Server. No need to share your IP even after paying a huge amount.</p>
+
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Feature 4 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card feature-card text-center">
+                        <div class="feature-icon mx-auto">
+                            <img src="https://googiehost.com/depends/high%20traffic%20website-01.png" alt="2 MySQL Databases">
+                            <h5 class="card-title">High Traffic Websites</h5>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text ">The servers are strong and optimised to give you a lightning fast response rate. And no matter how much traffic you get, the servers will handle it carefully ..</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Feature 5 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card feature-card text-center">
+                        <div class="feature-icon mx-auto">
+                            <img src="https://googiehost.com/depends/advance%20firewall-01.png" alt="2 FTP Accounts">
+                            <h5 class="card-title">Advanced firewall</h5>
+                        </div>
+                        <div class="card-body">
+
+                            <p class="card-text ">With Dedicated Hosting you will get some additional Advanced firewalls for your data. Your information will be safe and no one will be able to breach it.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Feature 6 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card feature-card text-center">
+                        <div class="feature-icon mx-auto">
+                            <img src="https://googiehost.com/depends/extended%20security-01.png" alt="Free Website Builder">
+                            <h5 class="card-title">Extended Security</h5>
+                        </div>
+                        <div class="card-body">
+
+                            <p class="card-text ">
+                                Get full time extended security with Dedicated Server Hosting. Wile you work on your growth on the back end you will get extended security with proper encryption.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
-
-        <!-- Feature 2 -->
-        <div class="col-md-6 col-lg-4">
-            <div class="card feature-card text-center">
-                <div class="feature-icon mx-auto">
-                    <img src="https://googiehost.com/depends/host%20unlimited%20website-01.png" alt="100GB Bandwidth">
-                    <h5 class="card-title">Host Unlimited Websites</h5>
-                </div>
-                <div class="card-body">
-
-                    <p class="card-text ">You can Host Unlimited Websites on your Dedicated servers and there will be no added charges for it, you can Host as much as you want.</p>
-                </div>
-            </div>
-        </div>
-
-        <!-- Feature 3 -->
-        <div class="col-md-6 col-lg-4">
-            <div class="card feature-card text-center">
-                <div class="feature-icon mx-auto">
-                    <img src="https://googiehost.com/depends/dedicated%20ip-01.png" alt="Hotlink Protection">
-                    <h5 class="card-title">Dedicated IP</h5>
-                </div>
-                <div class="card-body">
-
-                    <p class="card-text ">You will get a Dedicated IP with your Dedicated Server. No need to share your IP even after paying a huge amount.</p>
-
-                </div>
-            </div>
-        </div>
-
-        <!-- Feature 4 -->
-        <div class="col-md-6 col-lg-4">
-            <div class="card feature-card text-center">
-                <div class="feature-icon mx-auto">
-                    <img src="https://googiehost.com/depends/high%20traffic%20website-01.png" alt="2 MySQL Databases">
-                    <h5 class="card-title">High Traffic Websites</h5>
-                </div>
-                <div class="card-body">
-                    <p class="card-text ">The servers are strong and optimised to give you a lightning fast response rate. And no matter how much traffic you get, the servers will handle it carefully ..</p>
-                </div>
-            </div>
-        </div>
-
-        <!-- Feature 5 -->
-        <div class="col-md-6 col-lg-4">
-            <div class="card feature-card text-center">
-                <div class="feature-icon mx-auto">
-                    <img src="https://googiehost.com/depends/advance%20firewall-01.png" alt="2 FTP Accounts">
-                    <h5 class="card-title">Advanced firewall</h5>
-                </div>
-                <div class="card-body">
-
-                    <p class="card-text ">With Dedicated Hosting you will get some additional Advanced firewalls for your data. Your information will be safe and no one will be able to breach it.</p>
-                </div>
-            </div>
-        </div>
-
-        <!-- Feature 6 -->
-        <div class="col-md-6 col-lg-4">
-            <div class="card feature-card text-center">
-                <div class="feature-icon mx-auto">
-                    <img src="https://googiehost.com/depends/extended%20security-01.png" alt="Free Website Builder">
-                    <h5 class="card-title">Extended Security</h5>
-                </div>
-                <div class="card-body">
-
-                    <p class="card-text ">
-                    Get full time extended security with Dedicated Server Hosting. Wile you work on your growth on the back end you will get extended security with proper encryption.
-                    </p>
-                </div>
-            </div>
-        </div>
-
     </div>
-</div>
-</div>
 </section>
 <!-- / feature section  -->
 
 
 
 <section>
-<div class="features">
+    <div class="features">
 
-<div class="container py-5 tech-specification">
-    <h2 class="text-center">Technical Specifications to keep in mind while choosing The Best Dedicated Server Hosting</h2>
-    <p class="w-75 text-center mx-auto p-1">
-    If you are planning to rent your first dedicated server, we are here to ensure that you realize the crucial factors before making any such decision. Here are the few technical specifications you should keep in mind in order to choose the best cheap Dedicated server hosting:
-    </p>
+        <div class="container py-5 tech-specification">
+            <h2 class="text-center">Technical Specifications to keep in mind while choosing The Best Dedicated Server Hosting</h2>
+            <p class="w-75 text-center mx-auto p-1">
+                If you are planning to rent your first dedicated server, we are here to ensure that you realize the crucial factors before making any such decision. Here are the few technical specifications you should keep in mind in order to choose the best cheap Dedicated server hosting:
+            </p>
 
-    <div class="row g-4 mt-4">
-        <!-- Feature 1 -->
-        <div class="col-md-6">
-            <div class="card feature-card text-center">
-                <div class="feature-icon mx-auto">
-                    <img src="https://googiehost.com/depends/chip-01.png" alt="1000MB SSD Storage">
-                    <h5 class="card-title">CPU</h5>
+            <div class="row g-4 mt-4">
+                <!-- Feature 1 -->
+                <div class="col-md-6">
+                    <div class="card feature-card text-center">
+                        <div class="feature-icon mx-auto">
+                            <img src="https://googiehost.com/depends/chip-01.png" alt="1000MB SSD Storage">
+                            <h5 class="card-title">CPU</h5>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text ">CPU is one of the major components of your server, and so is the core that gives it power and handles all requests. So if you want your projects to grow bigger and run faster, you must opt for more CPUs.</p>
+
+                        </div>
+                    </div>
                 </div>
-                <div class="card-body">
-                    <p class="card-text ">CPU is one of the major components of your server, and so is the core that gives it power and handles all requests. So if you want your projects to grow bigger and run faster, you must opt for more CPUs.</p>
 
+                <!-- Feature 2 -->
+                <div class="col-md-6">
+                    <div class="card feature-card text-center">
+                        <div class="feature-icon mx-auto">
+                            <img src="https://googiehost.com/depends/RAM-01.png" alt="100GB Bandwidth">
+                            <h5 class="card-title">RAM</h5>
+                        </div>
+                        <div class="card-body">
+
+                            <p class="card-text ">The random-access memory (RAM), is yet another crucial server configuration that helps” the CPU execute multiple requests without affecting their speed.</p>
+                        </div>
+                    </div>
                 </div>
+
+                <!-- Feature 3 -->
+                <div class="col-md-6">
+                    <div class="card feature-card text-center">
+                        <div class="feature-icon mx-auto">
+                            <img src="https://googiehost.com/depends/harddisk-01.png" alt="Hotlink Protection">
+                            <h5 class="card-title">Storage</h5>
+                        </div>
+                        <div class="card-body">
+
+                            <p class="card-text ">The technology behind your disk is as important as its capacity. While SSD has limited write cycles, compared to traditional HDD, solid-state drives are much faster and more reliable. We advise you to prefer SSD over HDD.</p>
+
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Feature 4 -->
+                <div class="col-md-6">
+                    <div class="card feature-card text-center">
+                        <div class="feature-icon mx-auto">
+                            <img src="https://googiehost.com/depends/bandwidth-01.png" alt="2 MySQL Databases">
+                            <h5 class="card-title">Bandwidth</h5>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text ">With every visitor and action performed on your website, a bit of bandwidth is utilized. Generally speaking, most of the websites consume less than 5GB a month, so the few terabytes that most dedicated hosting providers give you is more than sufficient.</p>
+                        </div>
+                    </div>
+                </div>
+
+
             </div>
         </div>
-
-        <!-- Feature 2 -->
-        <div class="col-md-6">
-            <div class="card feature-card text-center">
-                <div class="feature-icon mx-auto">
-                    <img src="https://googiehost.com/depends/RAM-01.png" alt="100GB Bandwidth">
-                    <h5 class="card-title">RAM</h5>
-                </div>
-                <div class="card-body">
-
-                    <p class="card-text ">The random-access memory (RAM), is yet another crucial server configuration that helps” the CPU execute multiple requests without affecting their speed.</p>
-                </div>
-            </div>
-        </div>
-
-        <!-- Feature 3 -->
-        <div class="col-md-6">
-            <div class="card feature-card text-center">
-                <div class="feature-icon mx-auto">
-                    <img src="https://googiehost.com/depends/harddisk-01.png" alt="Hotlink Protection">
-                    <h5 class="card-title">Storage</h5>
-                </div>
-                <div class="card-body">
-
-                    <p class="card-text ">The technology behind your disk is as important as its capacity. While SSD has limited write cycles, compared to traditional HDD, solid-state drives are much faster and more reliable. We advise you to prefer SSD over HDD.</p>
-
-                </div>
-            </div>
-        </div>
-
-        <!-- Feature 4 -->
-        <div class="col-md-6">
-            <div class="card feature-card text-center">
-                <div class="feature-icon mx-auto">
-                    <img src="https://googiehost.com/depends/bandwidth-01.png" alt="2 MySQL Databases">
-                    <h5 class="card-title">Bandwidth</h5>
-                </div>
-                <div class="card-body">
-                    <p class="card-text ">With every visitor and action performed on your website, a bit of bandwidth is utilized. Generally speaking, most of the websites consume less than 5GB a month, so the few terabytes that most dedicated hosting providers give you is more than sufficient.</p>
-                </div>
-            </div>
-        </div>
-
-
     </div>
-</div>
-</div>
 </section>
 
 
@@ -1375,7 +1375,7 @@
         <div class="accordion-item ">
             <h2 class="accordion-header " id="headingOne">
                 <button class="accordion-button border-bottom-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                What are cheap dedicated servers?
+                    What are cheap dedicated servers?
                 </button>
             </h2>
             <div id="collapseOne" class="accordion-collapse collapse show border-top-0" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
@@ -1386,102 +1386,102 @@
         </div>
 
         <!-- Section 2 -->
-         <Section>
-        <div class="accordion-item">
-            <h2 class="accordion-header" id="headingTwo">
-                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                Are there any limitations with cheap dedicated servers compared to more expensive options?
-                </button>
-            </h2>
-            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                    <p> Absolutely No! Cheap Dedicated Servers come with Top-Notch Advanced Hardware, Highest 1 to 10 Gbps Uplink, Improved Intel Core Processor, and a lot more Fully Reliable web-related solutions specifically dedicated to your websites. There are no Quality service limitations imposed on the Cheapest Dedicated server hosting services as compared to more expensive options.</p>
+        <Section>
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingTwo">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        Are there any limitations with cheap dedicated servers compared to more expensive options?
+                    </button>
+                </h2>
+                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        <p> Absolutely No! Cheap Dedicated Servers come with Top-Notch Advanced Hardware, Highest 1 to 10 Gbps Uplink, Improved Intel Core Processor, and a lot more Fully Reliable web-related solutions specifically dedicated to your websites. There are no Quality service limitations imposed on the Cheapest Dedicated server hosting services as compared to more expensive options.</p>
+                    </div>
                 </div>
             </div>
-        </div>
 
-        <!-- Section 3 -->
-        <div class="accordion-item">
-            <h2 class="accordion-header" id="headingThree">
-                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                Are there any limitations with dedicated servers compared to Other Hosting options?
-                </button>
-            </h2>
-            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                    <p> Yes! As far as the high-pricing plans of the Dedicated Servers and Tireless Dedicated server management processes are concerned, Dedicated servers have few such limitations as compared to the shared, VPS, and other hosting services.</p>
+            <!-- Section 3 -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingThree">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                        Are there any limitations with dedicated servers compared to Other Hosting options?
+                    </button>
+                </h2>
+                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        <p> Yes! As far as the high-pricing plans of the Dedicated Servers and Tireless Dedicated server management processes are concerned, Dedicated servers have few such limitations as compared to the shared, VPS, and other hosting services.</p>
+                    </div>
                 </div>
             </div>
-        </div>
 
-        <!-- Section 4 -->
-        <div class="accordion-item">
-            <h2 class="accordion-header" id="headingFour">
-                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                Can I upgrade my cheap dedicated server as my website or application grows?
-                </button>
-            </h2>
-            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                    <p> Yes! You can effortlessly Scale your Cheap Dedicated Server Hosting plans by increasing or decreasing the web-related resources as your website or application grows.</p>
+            <!-- Section 4 -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingFour">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                        Can I upgrade my cheap dedicated server as my website or application grows?
+                    </button>
+                </h2>
+                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        <p> Yes! You can effortlessly Scale your Cheap Dedicated Server Hosting plans by increasing or decreasing the web-related resources as your website or application grows.</p>
+                    </div>
                 </div>
             </div>
-        </div>
 
-        <!-- Section 5 -->
-        <div class="accordion-item">
-            <h2 class="accordion-header" id="headingFive">
-                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                What should be my main concerns when searching for a dedicated hosting provider?
-                </button>
-            </h2>
-            <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                    <p>Here are a few things you must keep in mind while searching for a dedicated hosting provider: Having a large enough website to justify the cost Prices Security of Data and Equipment High Bandwidth Knowledge and Integrity of the web hosting provider Technical support from the web hosting provider Server Reliability and Uptime</p>
+            <!-- Section 5 -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingFive">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                        What should be my main concerns when searching for a dedicated hosting provider?
+                    </button>
+                </h2>
+                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        <p>Here are a few things you must keep in mind while searching for a dedicated hosting provider: Having a large enough website to justify the cost Prices Security of Data and Equipment High Bandwidth Knowledge and Integrity of the web hosting provider Technical support from the web hosting provider Server Reliability and Uptime</p>
+                    </div>
                 </div>
             </div>
-        </div>
 
-        <!-- Section 6 -->
-        <div class="accordion-item">
-            <h2 class="accordion-header" id="headingSix">
-                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                What software can I install on my Dedicated Server?
-                </button>
-            </h2>
-            <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                    <p> On a dedicated server, users get the liberty to download any number and type of software of their choice.</p>
+            <!-- Section 6 -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingSix">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                        What software can I install on my Dedicated Server?
+                    </button>
+                </h2>
+                <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        <p> On a dedicated server, users get the liberty to download any number and type of software of their choice.</p>
+                    </div>
                 </div>
             </div>
-        </div>
 
-        <!-- Section 7 -->
-        <div class="accordion-item">
-            <h2 class="accordion-header" id="headingSeven">
-                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-                Are there any hidden costs associated with Low Cost dedicated servers?
-                </button>
-            </h2>
-            <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                    <p>No! Zero Hidden Costs and No Extra Setup charges are associated with the Low Cost Dedicated servers.</p>
+            <!-- Section 7 -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingSeven">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                        Are there any hidden costs associated with Low Cost dedicated servers?
+                    </button>
+                </h2>
+                <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        <p>No! Zero Hidden Costs and No Extra Setup charges are associated with the Low Cost Dedicated servers.</p>
+                    </div>
                 </div>
             </div>
-        </div>
 
-        <div class="accordion-item">
-            <h2 class="accordion-header" id="headingSeven1">
-                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven1" aria-expanded="false" aria-controls="collapseSeven">
-                How many websites can I host on a Dedicated Server?
-                </button>
-            </h2>
-            <div id="collapseSeven1" class="accordion-collapse collapse" aria-labelledby="headingSeven1" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                    <p>You can host unlimited websites on your low-budget dedicated servers.</p>
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingSeven1">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven1" aria-expanded="false" aria-controls="collapseSeven">
+                        How many websites can I host on a Dedicated Server?
+                    </button>
+                </h2>
+                <div id="collapseSeven1" class="accordion-collapse collapse" aria-labelledby="headingSeven1" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        <p>You can host unlimited websites on your low-budget dedicated servers.</p>
+                    </div>
                 </div>
             </div>
-        </div>
     </div>
 </div>
 </Section>

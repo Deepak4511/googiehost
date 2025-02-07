@@ -23,7 +23,7 @@
 
 
                 <a href="https://googiehost.com/signup.php" class="button_orange">Deploy Free Server now <i class="fa-solid fa-angles-right"></i> </a>
-                <div class="rated mt-3">
+                <div class="rated ">
                     <span>
                         <svg xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20" fill="none">
                             <path d="M12.5 7.5L8 12L6.5 10.5M9 1L1 5C1 10.1932 3.78428 17.5098 9 19C14.2157 17.5098 17 10.1932 17 5L9 1Z" stroke="#F4FFF9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
@@ -1235,58 +1235,8 @@
 <!-- /faq section  -->
 
 <!-- block-single section  -->
-<div class="container my-5">
-    <div class="row text-center">
-        <!-- Card 1 -->
-        <div class="col-md-3 mb-4">
-            <div class="stat-card shadow">
-                <div class="stat-icon mb-3">
-                    <img src="depends/experience.png" alt="Icon" class="img-fluid">
-                </div>
-                <div class="stat-value">
-                    <h3>14</h3>
-                </div>
-                <div class="stat-text">Years of Experience</div>
-            </div>
-        </div>
-        <!-- Card 2 -->
-        <div class="col-md-3 mb-4">
-            <div class="stat-card shadow">
-                <div class="stat-icon mb-3">
-                    <img src="depends/uptime-googiehost.png" alt="Icon" class="img-fluid">
-                </div>
-                <div class="stat-value">
-                    <h3>99.9%</h3>
-                </div>
-                <div class="stat-text">Uptime Guarantee</div>
-            </div>
-        </div>
-        <!-- Card 3 -->
-        <div class="col-md-3 mb-4">
-            <div class="stat-card shadow">
-                <div class="stat-icon mb-3">
-                    <img src="depends/uptime.png" alt="Icon" class="img-fluid">
-                </div>
-                <div class="stat-value">
-                    <h3>4,32,023</h3>
-                </div>
-                <div class="stat-text">Happy Users</div>
-            </div>
-        </div>
-        <!-- Card 4 -->
-        <div class="col-md-3 mb-4">
-            <div class="stat-card shadow">
-                <div class="stat-icon mb-3">
-                    <img src="depends/support.png" alt="Icon" class="img-fluid">
-                </div>
-                <div class="stat-value">
-                    <h3>24/7</h3>
-                </div>
-                <div class="stat-text">Round the Clock Support</div>
-            </div>
-        </div>
-    </div>
-</div>
+<?php include 'inc/single-features.php' ?>
+
 <!-- / block-single section  -->
 
 

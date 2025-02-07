@@ -1,5 +1,7 @@
 <?php
 $meta = [
+
+
     'index' => [
         'title' => "Free Web Hosting And Domain Name▷SSL, Php, MySQL, No Ads",
         'description' => "GoogieHost ❤ Offer 100% Unlimited Free Web Hosting with cPanel, Php 8, MySQL, FTP, No Ads, Unlimited NVMe SSD, Bandwidth, 22,70,082+ Hosted Free Domain Websites",

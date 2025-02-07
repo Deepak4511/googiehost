@@ -16,7 +16,7 @@
                     <li>Limited Ticket Support</li>
                 </ul>
                 <a href="signup.php#freehosting" class="button_orange">Create Free Account </a>
-                <div class="rated mt-3">
+                <div class="rated">
                     <span>
                         <svg xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20" fill="none">
                             <path d="M12.5 7.5L8 12L6.5 10.5M9 1L1 5C1 10.1932 3.78428 17.5098 9 19C14.2157 17.5098 17 10.1932 17 5L9 1Z" stroke="#F4FFF9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
