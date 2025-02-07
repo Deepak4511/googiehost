@@ -5,7 +5,7 @@
                 <div class="col-12 col-lg-3">
                     <div class="widget ">
                         <h3 class="footer-title text-white">
-                            <img src="depends/logo.png" alt="footer-logo" width="200px">
+                            <img src="/googiehost/googiehost/depends/logo.png" alt="footer-logo" width="200px">
                         </h3>
                         <div class="textwidget">
                             <div class="list text-white ">
@@ -46,23 +46,23 @@
                                 <h3 class="footer-title text-white">Our Services</h3>
                                 <div class="textwidget">
                                     <ul class="list">
-                                        <li><a class="text-white" href="free-landing-page-hosting.php">
+                                        <li><a class="text-white" href="/googiehost/googiehost/free-landing-page-hosting.php">
                                                 Free Landing Page Hosting</a></li>
-                                        <li><a class="text-white" href="free-hosting-for-ngo.php">
+                                        <li><a class="text-white" href="/googiehost/googiehost/free-hosting-for-ngo.php">
                                                 Free Non-Profit Hosting</a></li>
-                                        <li><a class="text-white" href="freewordpresshosting.php">
+                                        <li><a class="text-white" href="/googiehost/googiehost/freewordpresshosting.php">
                                                 Free WordPress Hosting</a></li>
-                                        <li><a class="text-white" href="free-hosting-for-student.php">
+                                        <li><a class="text-white" href="/googiehost/googiehost/free-hosting-for-student.php">
                                                 Free Student Hosting</a></li>
-                                        <li><a class="text-white" href="freephphosting.php"> Free PHP8 Hosting</a>
+                                        <li><a class="text-white" href="/googiehost/googiehost/freephphosting.php"> Free PHP8 Hosting</a>
                                         </li>
-                                        <li><a class="text-white" href="freedomains.php"> Free Domain Name</a>
+                                        <li><a class="text-white" href="/googiehost/googiehost/freedomains.php"> Free Domain Name</a>
                                         </li>
-                                        <li><a class="text-white" href="freewebsitebuilder.php">
+                                        <li><a class="text-white" href="/googiehost/googiehost/freewebsitebuilder.php">
                                                 Free Website Builder</a></li>
-                                        <li><a class="text-white" href="free-mysql-hosting.php">
+                                        <li><a class="text-white" href="/googiehost/googiehost/free-mysql-hosting.php">
                                                 Free SQL Hosting</a></li>
-                                        <li><a class="text-white" href="blog/blogging"> Latest Posts</a></li>
+                                        <li><a class="text-white" href="../blog/blogging"> Latest Posts</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -73,30 +73,30 @@
                                 <div class="textwidget">
                                     <ul class="list">
                                         <li>
-                                            <a class="text-white" href="blog/interserver-review/"> Interserver Review</a>
+                                            <a class="text-white" href="../blog/interserver-review/"> Interserver Review</a>
                                         </li>
                                         <li>
-                                            <a class="text-white" href="https: //googiehost.com/blog/a2hosting-review/"> A2 Hosting Review</a>
+                                            <a class="text-white" href="../blog/a2hosting-review/"> A2 Hosting Review</a>
                                         </li>
                                         <li>
-                                            <a class="text-white" href="https: //googiehost.com/blog/youstable-review/"> YouStable Review</a>
+                                            <a class="text-white" href="../blog/youstable-review/"> YouStable Review</a>
                                         </li>
                                         <li>
-                                            <a class="text-white" href="blog/bluehost-review/"> BlueHost Review</a>
+                                            <a class="text-white" href="../blog/bluehost-review/"> BlueHost Review</a>
                                         </li>
                                         <li>
-                                            <a class="text-white" href="https: //googiehost.com/blog/kamatera-review/"> Kamatera Review</a>
+                                            <a class="text-white" href="../blog/kamatera-review/"> Kamatera Review</a>
                                         </li>
-                                        <li><a class="text-white" href="blog/tmd-hosting-review/"> TMD Hosting Review</a>
-                                        </li>
-                                        <li>
-                                            <a class="text-white" href="blog/wpx-hosting-reviews/"> WPX Hosting Review</a>
+                                        <li><a class="text-white" href="../blog/tmd-hosting-review/"> TMD Hosting Review</a>
                                         </li>
                                         <li>
-                                            <a class="text-white" href="blog/chemicloud-reviews/">Chemicloud Review</a>
+                                            <a class="text-white" href="../blog/wpx-hosting-reviews/"> WPX Hosting Review</a>
                                         </li>
                                         <li>
-                                            <a class="text-white" href="blog/scalahosting-review/"> ScalaHosting Review</a>
+                                            <a class="text-white" href="../blog/chemicloud-reviews/">Chemicloud Review</a>
+                                        </li>
+                                        <li>
+                                            <a class="text-white" href="../blog/scalahosting-review/"> ScalaHosting Review</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -107,15 +107,15 @@
                                 <h3 class="footer-title text-white">Free Tools</h3>
                                 <div class="textwidget">
                                     <ul class="list">
-                                        <li><a class="text-white" href="dmca-notice.php"> Generate DMCA Notice</a></li>
-                                        <li><a class="text-white" href="tools/server-status-checker"> Server Status Checker</a></li>
-                                        <li><a class="text-white" href="tools/link-price-calculator"> Link Price Calculator</a></li>
-                                        <li><a class="text-white" href="tools/whois-checker"> WHOIS Checker</a></li>
+                                        <li><a class="text-white" href="/googiehost/googiehost/dmca-notice.php"> Generate DMCA Notice</a></li>
+                                        <li><a class="text-white" href="../tools/server-status-checker"> Server Status Checker</a></li>
+                                        <li><a class="text-white" href="../tools/link-price-calculator"> Link Price Calculator</a></li>
+                                        <li><a class="text-white" href="../tools/whois-checker"> WHOIS Checker</a></li>
                                         <h3 class="footer-title text-white">Help</h3>
                                         <div class="textwidget">
-                                            <li><a class="text-white" href="support.html"> Knowledge Base</a></li>
-                                            <li><a class="text-white" href="referral.html"> Affiliate Program</a></li>
-                                            <li><a class="text-white" href="https://client.googiehost.com/clientarea.php"> Client Login</a></li>
+                                            <li><a class="text-white" href="/googiehost/googiehost/support.php"> Knowledge Base</a></li>
+                                            <li><a class="text-white" href="/googiehost/googiehost/referral.php"> Affiliate Program</a></li>
+                                            <li><a class="text-white" href="/googiehost/googiehost/clientarea.php"> Client Login</a></li>
                                         </div>
                                     </ul>
                                 </div>
@@ -126,16 +126,16 @@
                                 <h3 class="footer-title text-white">Company</h3>
                                 <div class="textwidget">
                                     <ul class="list">
-                                        <li><a class="text-white" href="about.html"> About Us</a> </li>
-                                        <li><a class="text-white" href="team.html"> Our Heroes</a></li>
-                                        <li><a class="text-white" href="contact.html"> Contact Us</a> </li>
+                                        <li><a class="text-white" href="/googiehost/googiehost/about.php"> About Us</a> </li>
+                                        <li><a class="text-white" href="/googiehost/googiehost/team.php"> Our Heroes</a></li>
+                                        <li><a class="text-white" href="/googiehost/googiehost/contact.php"> Contact Us</a> </li>
                                         <li><a class="text-white" href="sitemap.xml"> Sitemap</a></li>
 
                                         <h3 class="footer-title text-white">Our Policy</h3>
                                         <div class="textwidget">
-                                            <li><a class="text-white" href="privacy.html"> Privacy Policy</a></li>
-                                            <li><a class="text-white" href="terms.html"> Terms Of Service</a></li>
-                                            <li><a class="text-white" href="disclosure.html"> Disclosure</a></li>
+                                            <li><a class="text-white" href="/googiehost/googiehost/privacy.php"> Privacy Policy</a></li>
+                                            <li><a class="text-white" href="/googiehost/googiehost/terms.php"> Terms Of Service</a></li>
+                                            <li><a class="text-white" href="/googiehost/googiehost/disclosure.php"> Disclosure</a></li>
                                         </div>
                                     </ul>
                                 </div>

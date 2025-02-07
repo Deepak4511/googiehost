@@ -255,7 +255,7 @@
             <p>FUP Policies:Like other premium hosting brands, we impose FUP limitations on server resources to keep the server stable and ensure optimal performance for all hosted websites and applications. We reserve the right to increase or decrease server resources based on performance.
 
                 For internal security reasons, we do not publicly share information about I/O limits, daily email limits, number of connections, or EP limits.</p>
-                <h2>What Does LTD Mean?</h2>
+            <h2>What Does LTD Mean?</h2>
             <p>At GoogieHost, we consider hosting plans valid for more than three years as a Lifetime Deal. We are committed to offering you service for at least three years. After that period, based on factors like server health, investments, and other considerations, we may decide to discontinue the server or ask for a renewal of the plan you opted for. In the hosting industry, people typically spend at least $50 per year to host a single website with a reputable hosting provider. We are committed to offering you the same level of service for three years.</p>
             <h3>Inactive Account Removal</h3>
             <p>All LTD Plans fall under the IAR Policy. Like free hosting accounts, LTD plans must remain active. We follow this policy to ensure the server stays in optimal condition and to free up unused resources.</p>

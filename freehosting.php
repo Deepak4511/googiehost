@@ -1,4 +1,7 @@
-<?php include 'inc/header.php'; ?>
+<?php
+$page = 'free hosting';
+
+include 'inc/header.php'; ?>
 <!-- hero section  -->
 <div class="hero-section">
     <div class="container">
@@ -13,7 +16,7 @@
                     <li>Limited Ticket Support</li>
                 </ul>
                 <a href="signup.php" class="button_orange">Start for Free </a>
-                <div class="rated mt-3">
+                <div class="rated">
                     <span>
                         <svg xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20" fill="none">
                             <path d="M12.5 7.5L8 12L6.5 10.5M9 1L1 5C1 10.1932 3.78428 17.5098 9 19C14.2157 17.5098 17 10.1932 17 5L9 1Z" stroke="#F4FFF9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
@@ -36,54 +39,11 @@
 <!-- plan section  -->
 <div class="container pricing-section ">
     <h2 class="mb-4 text-center fw-bold">Choose Your Web Hosting Plan</h2>
-    <p class="mb-5 text-center">GoogieHost offers best free hosting with added features to help you reach new heights. Get free website migration when switching to a premium hosting provider.</p>
-    <div class="row justify-content-center">
-        <!-- Free Hosting Plan -->
-        <div class="col-md-4 mb-4">
-            <div class="pricing-card">
-                <div class="plan-image">
-                    <img src="images/icons/FreeIcon.png" alt="free web hosting" class="img-fluid">
-                </div>
-                <div class="pricing-header">Free Web Hosting</div>
-                <div class="pricing-subheader">100% Free No Card, No Ads & No Hassle</div>
-                <a href="checkout" class="btn btn-outline-dark pricing-button mb-4 w-100 rounded-3 p-3 fw-bold">Proceed with Free</a>
-                <ul class="feature-list text-start">
-                    <li>Host 1 Website</li>
-                    <li>MB SSD Storage</li>
-                    <li>Free SSL Certificate</li>
-                    <li>100 GB Bandwidth</li>
-                    <li>WordPress Manager</li>
-                    <li>Business Email</li>
-                    <li>MySQL, FTP Account*</li>
-                    <li>Cloudflare Protection</li>
-                    <li>99% Uptime</li>
-                </ul>
-            </div>
-        </div>
-        <!-- Paid Hosting Plan -->
-        <div class="col-md-4 mb-4">
-            <div class="pricing-card">
-                <div class="plan-image">
-                    <img src="images/icons/BusinessIcon.png" alt="lifetime web hosting" class="img-fluid">
-                </div>
-                <div class="pricing-header">Lifetime Web Hosting</div>
-                <div class="pricing-subheader">Pro (Lifetime Deal) Starting at $25</div>
-                <a href="checkout" class="btn pricing-button mb-4 w-100 rounded-3 p-3 fw-bold">Proceed with Paid</a>
-                <ul class="feature-list text-start">
-                    <li>Number of Websites 3</li>
-                    <li>10 GB NVMe SSD</li>
-                    <li>Unmetered Bandwidth</li>
-                    <li>3 Email Accounts</li>
-                    <li>3 MySQL Database</li>
-                    <li>1 FTP Account</li>
-                    <li>SSL Certificate</li>
-                    <li>Softaculous Auto Installer</li>
-                    <li>LS Cache Included</li>
-                    <li>99.95% Uptime</li>
-                </ul>
-            </div>
-        </div>
-    </div>
+    <p class="w-75 mx-auto mb-5 text-center">GoogieHost offers best free hosting with added features to help you reach new heights. Get free website migration when switching to a premium hosting provider.</p>
+    <!-- hosting plan  -->
+    <?php include 'inc/hosting-plan.php' ?>
+    <!-- hosting plan  -->
+
 </div>
 <!--/ plan section  -->
 
@@ -484,58 +444,8 @@
 <!-- / comparision table -->
 
 <!-- block-single section  -->
-<div class="container my-5">
-    <div class="row text-center">
-        <!-- Card 1 -->
-        <div class="col-md-3 mb-4">
-            <div class="stat-card shadow">
-                <div class="stat-icon mb-3">
-                    <img src="depends/experience.png" alt="Icon" class="img-fluid">
-                </div>
-                <div class="stat-value">
-                    <h3>14</h3>
-                </div>
-                <div class="stat-text">Years of Experience</div>
-            </div>
-        </div>
-        <!-- Card 2 -->
-        <div class="col-md-3 mb-4">
-            <div class="stat-card shadow">
-                <div class="stat-icon mb-3">
-                    <img src="depends/uptime-googiehost.png" alt="Icon" class="img-fluid">
-                </div>
-                <div class="stat-value">
-                    <h3>99.9%</h3>
-                </div>
-                <div class="stat-text">Uptime Guarantee</div>
-            </div>
-        </div>
-        <!-- Card 3 -->
-        <div class="col-md-3 mb-4">
-            <div class="stat-card shadow">
-                <div class="stat-icon mb-3">
-                    <img src="depends/uptime.png" alt="Icon" class="img-fluid">
-                </div>
-                <div class="stat-value">
-                    <h3>4,32,023</h3>
-                </div>
-                <div class="stat-text">Happy Users</div>
-            </div>
-        </div>
-        <!-- Card 4 -->
-        <div class="col-md-3 mb-4">
-            <div class="stat-card shadow">
-                <div class="stat-icon mb-3">
-                    <img src="depends/support.png" alt="Icon" class="img-fluid">
-                </div>
-                <div class="stat-value">
-                    <h3>24/7</h3>
-                </div>
-                <div class="stat-text">Round the Clock Support</div>
-            </div>
-        </div>
-    </div>
-</div>
+<?php include 'inc/single-features.php' ?>
+
 <!-- / block-single section  -->
 
 

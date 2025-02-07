@@ -1,4 +1,7 @@
-<?php include 'inc/header.php'; ?>
+<?php
+$page = 'index';
+
+include 'inc/header.php'; ?>
 <!-- main section  -->
 
 <!-- hero section  -->
@@ -10,7 +13,7 @@
                 <h2>Secure &amp; Powerful</h2>
                 <p style="font-size: 20px;">Our hosting services provide fast loading times, top-notch security, and dependable uptime.</p>
                 <a href="signup.php" class="button_orange">Start for Free </a>
-                <div class="rated mt-3">
+                <div class="rated">
                     <span>
                         <svg xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20" fill="none">
                             <path d="M12.5 7.5L8 12L6.5 10.5M9 1L1 5C1 10.1932 3.78428 17.5098 9 19C14.2157 17.5098 17 10.1932 17 5L9 1Z" stroke="#F4FFF9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
@@ -65,12 +68,12 @@
         <div class="row g-4 mt-4">
             <!-- Feature 1 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class="card feature-card text-center ">
+                    <div class="feature-icon">
                         <img src="depends/01.png" alt="Control Panel">
                         <h5 class="card-title">Integrated Control Panel</h5>
                     </div>
-                    <div class="card-body">
+                    <div class="card-body ">
 
                         <p class="card-text">We provide 100% Cloud Based super fast GoogieHostPanel <a href="">free web hosting</a> service for everyone across the globe. You'll also get <strong> WordPress Manager</strong> to manage WordPress websites.</p>
                         <a href="#" class="btn buttom-ffd700 shadow w-100 fw-bold">Know More <i class="fa-solid fa-angle-right"></i></a>
@@ -312,58 +315,8 @@
 </div>
 <!-- / cta section  -->
 <!-- block-single section  -->
-<div class="container my-5">
-    <div class="row text-center">
-        <!-- Card 1 -->
-        <div class="col-md-3 mb-4">
-            <div class="stat-card shadow">
-                <div class="stat-icon mb-3">
-                    <img src="depends/experience.png" alt="Icon" class="img-fluid">
-                </div>
-                <div class="stat-value">
-                    <h3>14</h3>
-                </div>
-                <div class="stat-text">Years of Experience</div>
-            </div>
-        </div>
-        <!-- Card 2 -->
-        <div class="col-md-3 mb-4">
-            <div class="stat-card shadow">
-                <div class="stat-icon mb-3">
-                    <img src="depends/uptime-googiehost.png" alt="Icon" class="img-fluid">
-                </div>
-                <div class="stat-value">
-                    <h3>99.9%</h3>
-                </div>
-                <div class="stat-text">Uptime Guarantee</div>
-            </div>
-        </div>
-        <!-- Card 3 -->
-        <div class="col-md-3 mb-4">
-            <div class="stat-card shadow">
-                <div class="stat-icon mb-3">
-                    <img src="depends/uptime.png" alt="Icon" class="img-fluid">
-                </div>
-                <div class="stat-value">
-                    <h3>4,32,023</h3>
-                </div>
-                <div class="stat-text">Happy Users</div>
-            </div>
-        </div>
-        <!-- Card 4 -->
-        <div class="col-md-3 mb-4">
-            <div class="stat-card shadow">
-                <div class="stat-icon mb-3">
-                    <img src="depends/support.png" alt="Icon" class="img-fluid">
-                </div>
-                <div class="stat-value">
-                    <h3>24/7</h3>
-                </div>
-                <div class="stat-text">Round the Clock Support</div>
-            </div>
-        </div>
-    </div>
-</div>
+<?php include 'inc/single-features.php' ?>
+
 <!-- / block-single section  -->
 <!-- / main section  -->
 <?php include 'inc/footer.php' ?>
