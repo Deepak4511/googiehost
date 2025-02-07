@@ -1,14 +1,23 @@
+<?php
+include 'meta.php';
+// Set the current page
+global $page;
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="<?php echo $meta[$page]['description']; ?>">
+    <meta name="keywords" content="<?php echo $meta[$page]['keywords']; ?>">
+    <title><?php echo $meta[$page]['title']; ?></title>
+    <?php echo $meta[$page]['schema']; ?>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
     <script src="https://kit.fontawesome.com/97ebc2bc67.js" crossorigin="anonymous"></script>
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-    <title>Header</title>
     <link href="/googiehost/googiehost/assets/css/stylesheet.css" rel="stylesheet" />
 </head>
 
@@ -120,6 +129,7 @@
     <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="/googiehost/googiehost/assets/js/script.js"></script>
     <script>
         AOS.init();
     </script>

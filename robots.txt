@@ -1,0 +1,14 @@
+User-agent: *
+Sitemap: https://googiehost.com/sitemap.xml
+Sitemap: https://googiehost.com/blog/sitemap_index.xml
+Sitemap: https://googiehost.com/coupons/sitemap_index.xml
+Sitemap: https://googiehost.com/tools/sitemap.xml
+Sitemap: https://googiehost.com/blog/hostingloginguide/sitemap_index.xml
+
+Disallow: /lp/
+Noindex: /lp/
+Disallow: /support-new/
+Noindex: /support-new/
+Allow: /coupons/
+Noindex: /go
+Disallow: /go

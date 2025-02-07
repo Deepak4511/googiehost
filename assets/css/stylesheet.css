@@ -1409,7 +1409,6 @@ blockquote:before,
 
 .feature-list1 {
   border: 1px solid #fff;
-  background-color: #fff;
   border-radius: 10px;
   padding: 40px;
   margin: 20px 10px;
@@ -1603,14 +1602,14 @@ textarea {
 }
 
 
-.policy-sec{
+.policy-sec {
   border: 2px solid #ddd;
   border-radius: 10px;
   padding: 50px;
   background-color: #fff;
 }
 
-.policy-list{
+.policy-list {
   list-style-type: disc;
   padding-left: 24px;
 }

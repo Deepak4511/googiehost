@@ -1723,6 +1723,43 @@
                     </div>
                 </div>
             </div>
+            <script>
+                function toggleReadMore() {
+                    var content = document.getElementById("extraContent");
+                    var btn = document.getElementById("toggleButton");
+                    if (content.style.display === "none") {
+                        content.style.display = "block";
+                        btn.innerText = "Read Less";
+                    } else {
+                        content.style.display = "none";
+                        btn.innerText = "Read More";
+                    }
+                }
+            </script>
+            <style>
+                .btn-primary {
+                    display: none;
+                }
+
+                #extraContent {
+                    display: block;
+                    /* Ensure extra content is hidden initially */
+                }
+
+                @media only screen and (max-width: 767px) {
+
+                    /* Styles for mobile devices */
+                    #extraContent {
+                        display: none;
+                        /* Ensure extra content is hidden initially */
+                    }
+
+                    .btn-primary {
+                        width: 100%;
+                        display: block;
+                    }
+                }
+            </style>
             <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-2 p-3 rounded-3 mt-3">
                 <div class="col">
                     <img src="https://googiehost.com/Images/youstable-ban.jpg" width="100%">
@@ -1736,14 +1773,20 @@
                         domain for a year, Free email, Free SSL certificates for all your domain, Free website
                         migration and cheap cost Tier 2 data center locations this Cyber Monday.
                     </p>
-                    <p class="para ">Black Friday deals bring Flat 80% instant OFF on Shared Hosting plans for
-                        beginners, wanting to start Blogging, online portfolio for projects and all. Even for
-                        websites requiring virtual servers for uninterrupted management, YouStable brings 50% OFF on
-                        CyberPanel VPS Hosting deals.
-                    </p>
-                    <p class="para ">Want more? Wait for Santa’s exclusive Xmas hosting gifts. And not only that, Get
-                        to Enjoy New Year's unbelievable savings. So, Stay tuned! Festive deals are on the way!
-                    </p>
+
+
+                    <!-- Additional Content Hidden Initially -->
+                    <div id="extraContent">
+                        <p class="para">Black Friday deals bring Flat 80% instant OFF on Shared Hosting plans for
+                            beginners, wanting to start Blogging, online portfolio for projects and all. Even for
+                            websites requiring virtual servers for uninterrupted management, YouStable brings 50% OFF on
+                            CyberPanel VPS Hosting deals.</p>
+                        <p class="para">Want more? Wait for Santa’s exclusive Xmas hosting gifts. And not only that, Get
+                            to Enjoy New Year's unbelievable savings. So, Stay tuned! Festive deals are on the way!</p>
+                    </div>
+
+                    <!-- Read More Button -->
+                    <button id="toggleButton" class="btn btn-primary mt-2" onclick="toggleReadMore()">Read More</button>
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-2 p-3 rounded-3 align-items-center"
@@ -2560,18 +2603,13 @@
                         }
                     </style>
                     <div class="col mx-auto my-auto">
-                        <div class="position-relative p-4 rounded shadow-sm"
-                            style="background: white; border-left: 5px solid #032e58; max-width: 600px; margin: auto; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+                        <div class="position-relative">
                             <p class=" quote-box fst-italic text-muted mb-0 ms-1">
                                 To provide you with the deals mentioned below, our team has tested all the companies on various factors
                                 such as uptime, load handling, speed etc. to ensure you don’t get stuck with low-quality service just
                                 because of attractive offers!!
                             </p>
-                            <!-- Speech Bubble Tail -->
-                            <div class="position-absolute" style="width: 0; height: 0; border-left: 15px solid transparent; 
-        border-right: 15px solid transparent; border-top: 15px solid white; bottom: -15px; left: 40px;
-        filter: drop-shadow(0px 2px 5px rgba(0,0,0,0.1));">
-                            </div>
+
                         </div>
                         <br>
                         <i class="text-center">Rajesh Chauhan, CEO, Googiehost</i>

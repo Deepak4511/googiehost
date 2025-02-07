@@ -1,4 +1,7 @@
-<?php include 'inc/header.php'; ?>
+<?php
+$page = 'index';
+
+include 'inc/header.php'; ?>
 <!-- main section  -->
 
 <!-- hero section  -->

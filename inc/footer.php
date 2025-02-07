@@ -5,7 +5,7 @@
                 <div class="col-12 col-lg-3">
                     <div class="widget ">
                         <h3 class="footer-title text-white">
-                            <img src="http://localhost/googiehost/googiehost/depends/logo.png" alt="footer-logo" width="200px">
+                            <img src="/googiehost/googiehost/depends/logo.png" alt="footer-logo" width="200px">
                         </h3>
                         <div class="textwidget">
                             <div class="list text-white ">
