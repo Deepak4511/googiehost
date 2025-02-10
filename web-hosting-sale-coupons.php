@@ -1,4 +1,6 @@
-<?php include 'inc/header.php'; ?>
+<?php 
+$page ='free-hosting-sale-coupons';
+include 'inc/header.php'; ?>
 
 <style type="text/css">
     body,

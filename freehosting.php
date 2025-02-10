@@ -211,12 +211,12 @@ include 'inc/header.php'; ?>
         <!-- Feature 1 -->
         <div class="col-md-6 col-lg-4">
             <div class="text-center">
-                <div class="feature-icon mx-auto">
+                <div class=" mx-auto">
                     <img src="depends/free/1000mb.png" alt="1000MB SSD Storage">
                     <h5 class="card-title">1000MB SSD Storage</h5>
                 </div>
                 <div class="">
-                    <p class="card-text text-white">Now you can host unlimited numbers of website files, every free hosting comes with 1000MB SSD boosted space.</p>
+                    <p class="card-text text-white p-3">Now you can host unlimited numbers of website files, every free hosting comes with 1000MB SSD boosted space.</p>
 
                 </div>
             </div>
@@ -225,13 +225,13 @@ include 'inc/header.php'; ?>
         <!-- Feature 2 -->
         <div class="col-md-6 col-lg-4">
             <div class="text-center">
-                <div class="feature-icon mx-auto">
+                <div class=" mx-auto">
                     <img src="depends/free/100gb.png" alt="100GB Bandwidth">
                     <h5 class="card-title">100GB Bandwidth</h5>
                 </div>
                 <div class="">
 
-                    <p class="card-text text-white">Don't worry even if you have good traffic on your website or blog, we offer Unlimited bandwidth with a 100MBPS uplink.</p>
+                    <p class="card-text text-white p-3">Don't worry even if you have good traffic on your website or blog, we offer Unlimited bandwidth with a 100MBPS uplink.</p>
                 </div>
             </div>
         </div>
@@ -239,13 +239,13 @@ include 'inc/header.php'; ?>
         <!-- Feature 3 -->
         <div class="col-md-6 col-lg-4">
             <div class=" text-center">
-                <div class="feature-icon mx-auto">
+                <div class=" mx-auto">
                     <img src="depends/free/hotlink.png" alt="Hotlink Protection">
                     <h5 class="card-title">Hotlink Protection</h5>
                 </div>
                 <div class="">
 
-                    <p class="card-text text-white">Protect your website files from being copied using our hotlink protection feature which normaly comes with premium hosting plans.</p>
+                    <p class="card-text text-white p-3">Protect your website files from being copied using our hotlink protection feature which normaly comes with premium hosting plans.</p>
 
                 </div>
             </div>
@@ -254,12 +254,12 @@ include 'inc/header.php'; ?>
         <!-- Feature 4 -->
         <div class="col-md-6 col-lg-4">
             <div class=" text-center">
-                <div class="feature-icon mx-auto">
+                <div class=" mx-auto">
                     <img src="depends/free/mysql.png" alt="2 MySQL Databases">
                     <h5 class="card-title">2 MySQL Databases</h5>
                 </div>
                 <div class="">
-                    <p class="card-text text-white">Get the latest MySQL Database version with GoogieHost’s free web hosting account. We offer you 2 MySQL databases to keep your records at your fingertips.</p>
+                    <p class="card-text text-white p-3">Get the latest MySQL Database version with GoogieHost’s free web hosting account. We offer you 2 MySQL databases to keep your records at your fingertips.</p>
                 </div>
             </div>
         </div>
@@ -267,13 +267,13 @@ include 'inc/header.php'; ?>
         <!-- Feature 5 -->
         <div class="col-md-6 col-lg-4">
             <div class=" text-center">
-                <div class="feature-icon mx-auto">
+                <div class=" mx-auto">
                     <img src="depends/free/ftp.png" alt="2 FTP Accounts">
                     <h5 class="card-title">2 FTP Accounts</h5>
                 </div>
                 <div class="">
 
-                    <p class="card-text text-white">We offer 2 FTP accounts that help you manage your website files using FTP clients like FileZilla.</p>
+                    <p class="card-text text-white p-3">We offer 2 FTP accounts that help you manage your website files using FTP clients like FileZilla.</p>
                 </div>
             </div>
         </div>
@@ -281,13 +281,13 @@ include 'inc/header.php'; ?>
         <!-- Feature 6 -->
         <div class="col-md-6 col-lg-4">
             <div class=" text-center">
-                <div class="feature-icon mx-auto">
+                <div class=" mx-auto">
                     <img src="depends/free/builder.png" alt="Free Website Builder">
                     <h5 class="card-title">Free Website Builder</h5>
                 </div>
                 <div class="">
 
-                    <p class="card-text text-white">
+                    <p class="card-text text-white p-3">
                         Our <a href="freewebsitebuilder.php">Site.pro Website Builder</a> helps you create a professional-looking website even if you have no prior knowledge of coding or programming.
                     </p>
                 </div>
@@ -297,13 +297,13 @@ include 'inc/header.php'; ?>
         <!-- Feature 7 -->
         <div class="col-md-6 col-lg-4">
             <div class=" text-center">
-                <div class="feature-icon mx-auto">
+                <div class=" mx-auto">
                     <img src="depends/free/cms.png" alt="Free CMS Installers">
                     <h5 class="card-title">Free CMS Installers</h5>
                 </div>
                 <div class="">
 
-                    <p class="card-text text-white">
+                    <p class="card-text text-white p-3">
                         Our Softaculous Auto Installer comes with 380+ popular scripts. You can install WordPress, Joomla, SMF etc with just one click.
                     </p>
                 </div>
@@ -314,13 +314,13 @@ include 'inc/header.php'; ?>
         <!-- Feature 8 -->
         <div class="col-md-6 col-lg-4">
             <div class=" text-center">
-                <div class="feature-icon mx-auto">
+                <div class=" mx-auto">
                     <img src="depends/free/manager.png" alt="Online File Manager">
                     <h5 class="card-title">Online File Manager</h5>
                 </div>
                 <div class="">
 
-                    <p class="card-text text-white ">
+                    <p class="card-text text-white p-3">
                         We have 2 different file managers that allow you to manage your files effectively. FileManager2 is featured by Net2FTP.
                     </p>
                 </div>
@@ -330,13 +330,13 @@ include 'inc/header.php'; ?>
         <!-- Feature 9 -->
         <div class="col-md-6 col-lg-4">
             <div class=" text-center">
-                <div class="feature-icon mx-auto">
+                <div class=" mx-auto">
                     <img src="depends/free/php.png" alt="PHP all versions">
                     <h5 class="card-title">PHP all versions</h5>
                 </div>
                 <div class="">
 
-                    <p class="card-text text-white">
+                    <p class="card-text text-white p-3">
                         Choose from PHP version 5.3 to the latest version of PHP 8.0.12 to get better scalability, security and flexibility.
                     </p>
                 </div>

@@ -1,5 +1,7 @@
 <!-- header start  -->
-<?php include 'inc/header.php'; ?>
+<?php 
+$page ='cheap-dedicated-server';
+include 'inc/header.php'; ?>
 <!-- header end -->
 
 <div class="hero-section">

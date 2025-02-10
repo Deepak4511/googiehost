@@ -1,4 +1,6 @@
-<?php include 'inc/header.php'; ?>
+<?php 
+$page ='dmca-notice';
+include 'inc/header.php'; ?>
 <!-- Header End -->
 <div class="cta-box cta-full text-center block-double-tb white-text" style="background-color: #270069 !important;
       background-image: url(https://googiehost.com/img/GoogieHostBgmin-1.png) !important;

@@ -1,4 +1,6 @@
-<?php include 'inc/header.php'; ?>
+<?php 
+$page ='contact';
+include 'inc/header.php'; ?>
 
 <div class="hero-section">
     <div class="container py-5">

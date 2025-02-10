@@ -1,4 +1,6 @@
-<?php include 'inc/header.php'; ?>
+<?php 
+$page ='free-hosting-for-student';
+include 'inc/header.php'; ?>
 <!-- hero section  -->
 <div class="hero-section">
     <div class="container">

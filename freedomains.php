@@ -1,4 +1,6 @@
-<?php include 'inc/header.php'; ?>
+<?php 
+$page ='freedomains';
+include 'inc/header.php'; ?>
 <style>
     .hero-section {
         background: linear-gradient(90deg, #11253c 0%, #33215d 69%) !important;

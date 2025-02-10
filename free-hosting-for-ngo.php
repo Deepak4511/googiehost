@@ -1,5 +1,7 @@
 <!-- header start  -->
-<?php include 'inc/header.php'; ?>
+<?php 
+$page ='free-hosting-for-ngo';
+include 'inc/header.php'; ?>
 <!-- header end -->
 
 

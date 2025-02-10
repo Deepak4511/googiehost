@@ -1,5 +1,7 @@
 <!-- header start  -->
-<?php include 'inc/header.php'; ?>
+<?php 
+$page ='freephphosting';
+include 'inc/header.php'; ?>
 <!-- header end -->
 
 <!-- hero section  -->

@@ -1,5 +1,7 @@
 <!-- header start  -->
-<?php include 'inc/header.php'; ?>
+<?php 
+$page ='free-landing-page-hosting';
+include 'inc/header.php'; ?>
 <!-- header end -->
 
 

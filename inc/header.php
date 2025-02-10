@@ -22,7 +22,7 @@ if (!isset($page)) {
     <script src="https://kit.fontawesome.com/97ebc2bc67.js" crossorigin="anonymous"></script>
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <title>Header</title>
-    <link href="/googiehost/googiehost/assets/css/stylesheet.css" rel="stylesheet" />
+    <link href="assets/css/stylesheet.css" rel="stylesheet" />
 </head>
 
 <body>

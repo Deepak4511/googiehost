@@ -1,7 +1,7 @@
 <div class="row justify-content-center">
     <!-- Free Hosting Plan -->
     <div class="col-md-4 mb-4">
-        <div class="pricing-card">
+        <div class="pricing-card h-100">
             <div class="plan-image">
                 <img src="images/icons/FreeIcon.png" alt="free web hosting" class="img-fluid">
             </div>
@@ -23,7 +23,7 @@
     </div>
     <!-- Paid Hosting Plan -->
     <div class="col-md-4 mb-4">
-        <div class="pricing-card">
+        <div class="pricing-card h-100">
             <div class="plan-image">
                 <img src="images/icons/BusinessIcon.png" alt="lifetime web hosting" class="img-fluid">
             </div>

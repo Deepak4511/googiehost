@@ -1,5 +1,7 @@
 <!-- header start  -->
-<?php include 'inc/header.php'; ?>
+<?php 
+$page ='support';
+include 'inc/header.php'; ?>
 <!-- header end -->
 
 <!-- KNOWLEDGE BASE -->
