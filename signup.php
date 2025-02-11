@@ -1,6 +1,6 @@
 <!-- header start  -->
-<?php 
-$page ='signup';
+<?php
+$page = 'signup';
 include 'inc/header.php'; ?>
 <!-- header end -->
 
@@ -103,8 +103,8 @@ include 'inc/header.php'; ?>
         <div class="row g-4 mt-4">
             <!-- Feature 1 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="svg/freehost/01.svg" alt="freehost-01">
                         <h5 class="card-title">1000MB SSD Storage </h5>
                     </div>
@@ -118,8 +118,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 2 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="svg/freehost/02.svg" alt="freehost-02">
                         <h5 class="card-title">Unlimited Bandwidth</h5>
                     </div>
@@ -133,8 +133,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 3 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="svg/freehost/15.svg" alt="freehost-15">
                         <h5 class="card-title">Hotlink Protection</h5>
                     </div>
@@ -148,8 +148,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 4 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="svg/freehost/04.svg" alt="freehost-04">
                         <h5 class="card-title">Absolutely Free ! No ads</h5>
                     </div>
@@ -162,8 +162,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 5 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="svg/freehost/05.svg" alt="freehost-05">
                         <h5 class="card-title">Free Business Emails</h5>
                     </div>
@@ -177,8 +177,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 6 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="svg/freehost/06.svg" alt="freehost-06">
                         <h5 class="card-title">Free Subdomains</h5>
                     </div>
@@ -192,8 +192,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 7 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="svg/freehost/07.svg" alt="freehost-07">
                         <h5 class="card-title">2 MySQL Databases</h5>
                     </div>
@@ -209,8 +209,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 8 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="svg/freehost/08.svg" alt="freehost-08">
                         <h5 class="card-title">2 FTP Accounts</h5>
                     </div>
@@ -225,8 +225,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 9 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="svg/freehost/09.svg" alt="freehost-09">
                         <h5 class="card-title">Free Website Builder</h5>
                     </div>
@@ -241,8 +241,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 10 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="svg/freehost/10.svg" alt="freehost-10">
                         <h5 class="card-title">Free Website Templates</h5>
                     </div>
@@ -256,8 +256,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 11 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="svg/freehost/11.svg" alt="freehost-11">
                         <h5 class="card-title">Free CMS Installers</h5>
                     </div>
@@ -271,8 +271,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 12 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="svg/freehost/12.svg" alt="freehost-12">
                         <h5 class="card-title">Online File Manager</h5>
                     </div>
@@ -286,8 +286,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 13 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="svg/freehost/13.svg" alt="freehost-13">
                         <h5 class="card-title">SSH, PHP all versions</h5>
                     </div>
@@ -301,8 +301,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 14 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="svg/freehost/16.svg" alt="freehost-16">
                         <h5 class="card-title">Spam Protection</h5>
                     </div>
@@ -316,8 +316,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 15 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="svg/freehost/14.svg" alt="freehost-14">
                         <h5 class="card-title">Free Helpdesk Support</h5>
                     </div>
@@ -393,73 +393,73 @@ include 'inc/header.php'; ?>
             <tbody>
                 <tr>
                     <td>NVMe SSD</td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
                 </tr>
                 <tr>
                     <td>Business Emails</td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-check-circle check"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
                 </tr>
                 <tr>
                     <td>LiteSpeed</td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
                 </tr>
                 <tr>
                     <td>Cloudflare</td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
                 </tr>
                 <tr>
                     <td>Control Panel</td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
                 </tr>
                 <tr>
                     <td>1-Click Installer</td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
                 </tr>
                 <tr>
                     <td>Malware Protection</td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
                 </tr>
                 <tr>
                     <td>SSL Certificate</td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
                 </tr>
                 <tr>
                     <td>SitePad Website Builder</td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-check-circle check"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
                 </tr>
                 <tr>
                     <td>No Forced Ads</td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
                 </tr>
             </tbody>
         </table>

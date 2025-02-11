@@ -1,6 +1,6 @@
 <!-- header start  -->
-<?php 
-$page ='cheap-dedicated-server';
+<?php
+$page = 'cheap-dedicated-server';
 include 'inc/header.php'; ?>
 <!-- header end -->
 
@@ -1203,8 +1203,8 @@ include 'inc/header.php'; ?>
             <div class="row g-4 mt-4">
                 <!-- Feature 1 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card feature-card text-center">
-                        <div class="feature-icon mx-auto">
+                    <div class=" text-center">
+                        <div class=" mx-auto">
                             <img src="https://googiehost.com/depends/root%20access-01.png" alt="1000MB SSD Storage">
                             <h5 class="card-title">Root Access</h5>
                         </div>
@@ -1217,8 +1217,8 @@ include 'inc/header.php'; ?>
 
                 <!-- Feature 2 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card feature-card text-center">
-                        <div class="feature-icon mx-auto">
+                    <div class=" text-center">
+                        <div class=" mx-auto">
                             <img src="https://googiehost.com/depends/host%20unlimited%20website-01.png" alt="100GB Bandwidth">
                             <h5 class="card-title">Host Unlimited Websites</h5>
                         </div>
@@ -1231,8 +1231,8 @@ include 'inc/header.php'; ?>
 
                 <!-- Feature 3 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card feature-card text-center">
-                        <div class="feature-icon mx-auto">
+                    <div class=" text-center">
+                        <div class=" mx-auto">
                             <img src="https://googiehost.com/depends/dedicated%20ip-01.png" alt="Hotlink Protection">
                             <h5 class="card-title">Dedicated IP</h5>
                         </div>
@@ -1246,8 +1246,8 @@ include 'inc/header.php'; ?>
 
                 <!-- Feature 4 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card feature-card text-center">
-                        <div class="feature-icon mx-auto">
+                    <div class=" text-center">
+                        <div class=" mx-auto">
                             <img src="https://googiehost.com/depends/high%20traffic%20website-01.png" alt="2 MySQL Databases">
                             <h5 class="card-title">High Traffic Websites</h5>
                         </div>
@@ -1259,8 +1259,8 @@ include 'inc/header.php'; ?>
 
                 <!-- Feature 5 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card feature-card text-center">
-                        <div class="feature-icon mx-auto">
+                    <div class=" text-center">
+                        <div class=" mx-auto">
                             <img src="https://googiehost.com/depends/advance%20firewall-01.png" alt="2 FTP Accounts">
                             <h5 class="card-title">Advanced firewall</h5>
                         </div>
@@ -1273,8 +1273,8 @@ include 'inc/header.php'; ?>
 
                 <!-- Feature 6 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card feature-card text-center">
-                        <div class="feature-icon mx-auto">
+                    <div class=" text-center">
+                        <div class=" mx-auto">
                             <img src="https://googiehost.com/depends/extended%20security-01.png" alt="Free Website Builder">
                             <h5 class="card-title">Extended Security</h5>
                         </div>
@@ -1296,7 +1296,7 @@ include 'inc/header.php'; ?>
 
 
 <section>
-    <div class="features">
+    <div>
 
         <div class="container py-5 tech-specification">
             <h2 class="text-center">Technical Specifications to keep in mind while choosing The Best Dedicated Server Hosting</h2>
@@ -1307,8 +1307,8 @@ include 'inc/header.php'; ?>
             <div class="row g-4 mt-4">
                 <!-- Feature 1 -->
                 <div class="col-md-6">
-                    <div class="card feature-card text-center">
-                        <div class="feature-icon mx-auto">
+                    <div class=" text-center">
+                        <div class=" mx-auto">
                             <img src="https://googiehost.com/depends/chip-01.png" alt="1000MB SSD Storage">
                             <h5 class="card-title">CPU</h5>
                         </div>
@@ -1321,8 +1321,8 @@ include 'inc/header.php'; ?>
 
                 <!-- Feature 2 -->
                 <div class="col-md-6">
-                    <div class="card feature-card text-center">
-                        <div class="feature-icon mx-auto">
+                    <div class=" text-center">
+                        <div class=" mx-auto">
                             <img src="https://googiehost.com/depends/RAM-01.png" alt="100GB Bandwidth">
                             <h5 class="card-title">RAM</h5>
                         </div>
@@ -1335,8 +1335,8 @@ include 'inc/header.php'; ?>
 
                 <!-- Feature 3 -->
                 <div class="col-md-6">
-                    <div class="card feature-card text-center">
-                        <div class="feature-icon mx-auto">
+                    <div class=" text-center">
+                        <div class=" mx-auto">
                             <img src="https://googiehost.com/depends/harddisk-01.png" alt="Hotlink Protection">
                             <h5 class="card-title">Storage</h5>
                         </div>
@@ -1350,8 +1350,8 @@ include 'inc/header.php'; ?>
 
                 <!-- Feature 4 -->
                 <div class="col-md-6">
-                    <div class="card feature-card text-center">
-                        <div class="feature-icon mx-auto">
+                    <div class=" text-center">
+                        <div class=" mx-auto">
                             <img src="https://googiehost.com/depends/bandwidth-01.png" alt="2 MySQL Databases">
                             <h5 class="card-title">Bandwidth</h5>
                         </div>

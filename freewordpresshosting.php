@@ -1,6 +1,6 @@
 <!-- header start  -->
-<?php 
-$page ='freewordpresshosting';
+<?php
+$page = 'freewordpresshosting';
 include 'inc/header.php'; ?>
 <!-- header end -->
 
@@ -41,7 +41,7 @@ include 'inc/header.php'; ?>
 <div class="container">
     <div class="banner d-flex align-items-center justify-content-between  rounded">
         <div class="row w-100 align-items-center">
-            <div class="d-flex align-items-center col-md-8">
+            <div class="d-flex align-items-center col-md-9">
                 <span class="heart">&#129293;</span>
                 <div>
                     <h2 class="text-white mb-2 ">
@@ -51,7 +51,7 @@ include 'inc/header.php'; ?>
                     </p>
                 </div>
             </div>
-            <div class="col-md-4 text-md-right text-center mt-3 mt-md-0">
+            <div class="col-md-3 text-md-right text-center mt-3 mt-md-0">
                 <a href="signup.php" class="btn ">Signup Now <i class="fa-solid fa-angle-right"></i></a>
             </div>
         </div>
@@ -67,8 +67,8 @@ include 'inc/header.php'; ?>
         <div class="row g-4 mt-4">
             <!-- Feature 1 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/wordpress-icons/super.png" alt="super">
                         <h5 class="card-title">Blazing Performance</h5>
                     </div>
@@ -82,8 +82,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 2 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/wordpress-icons/caching.png" alt="caching">
                         <h5 class="card-title">LiteSpeed Caching Technology</h5>
                     </div>
@@ -97,8 +97,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 3 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/wordpress-icons/no-ads.png" alt="no-ads">
                         <h5 class="card-title">No Forced Advertising</h5>
                     </div>
@@ -112,8 +112,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 4 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/wordpress-icons/ssd-01.png" alt="ssd-01">
                         <h5 class="card-title">NVMe SSD Boosted</h5>
                     </div>
@@ -126,8 +126,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 5 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/wordpress-icons/support.png" alt="support">
                         <h5 class="card-title">Knowledge Base</h5>
                     </div>
@@ -141,8 +141,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 6 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/wordpress-icons/one-click.png" alt="one-click">
                         <h5 class="card-title">One-Click Installation</h5>
                     </div>
@@ -171,7 +171,7 @@ include 'inc/header.php'; ?>
 <div class="container">
     <div class="banner d-flex align-items-center justify-content-between  rounded">
         <div class="row w-100 align-items-center">
-            <div class="d-flex align-items-center col-md-8">
+            <div class="d-flex align-items-center col-md-9">
                 <span class="heart">&#129293;</span>
                 <div>
                     <h2 class="text-white mb-2 ">
@@ -181,7 +181,7 @@ include 'inc/header.php'; ?>
                     </p>
                 </div>
             </div>
-            <div class="col-md-4 text-md-right text-center mt-3 mt-md-0">
+            <div class="col-md-3 text-md-right text-center mt-3 mt-md-0">
                 <a href="signup.php" class="btn ">Signup Now <i class="fa-solid fa-angle-right"></i></a>
             </div>
         </div>

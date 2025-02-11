@@ -1,6 +1,6 @@
 <!-- header start  -->
-<?php 
-$page ='cheap-vps-hosting';
+<?php
+$page = 'cheap-vps-hosting';
 include 'inc/header.php'; ?>
 <!-- header end -->
 
@@ -45,7 +45,7 @@ include 'inc/header.php'; ?>
 <!-- / hero section -->
 
 <!-- Editor's Choice Section Start  -->
-<div class="features">
+<div class="feature">
 
     <div class="container py-5 ">
         <h2 class="text-center">Editor’s Choice</h2>
@@ -59,8 +59,8 @@ include 'inc/header.php'; ?>
                         <h5 class="card-title">
                             Receive $100 in Free Services</h5>
                     </div>
-                    <div class="card-body">
-                        <a href="#" class="btn shadow fw-bold mt-4 button_orange rounded-0 p-3 w-75">Start 30-Day Free Trial <i class="fa-solid fa-angle-right"></i></a>
+                    <div class="card-body ">
+                        <a href="#" class="btn text-center fw-bold mt-4 button_orange  p-3 w-75">Start 30-Day Free Trial <i class="fa-solid fa-angle-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -73,7 +73,7 @@ include 'inc/header.php'; ?>
                         <h5 class="card-title">Get 50% Off with VPS50</h5>
                     </div>
                     <div class="card-body">
-                        <a href="#" class="btn shadow fw-bold mt-4 button_orange rounded-0 p-3 w-75">Gran Deal Now <i class="fa-solid fa-angle-right"></i></a>
+                        <a href="#" class="btn text-center fw-bold mt-4 button_orange  p-3 w-75">Gran Deal Now <i class="fa-solid fa-angle-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -86,7 +86,7 @@ include 'inc/header.php'; ?>
                         <h5 class="card-title">Get 50% OFF for 4 Months</h5>
                     </div>
                     <div class="card-body">
-                        <a href="#" class="btn shadow fw-bold mt-4 button_orange rounded-0 p-3 w-75">No Coupon required <i class="fa-solid fa-angle-right"></i></a>
+                        <a href="#" class="btn text-center fw-bold mt-4 button_orange  p-3 w-75">No Coupon required <i class="fa-solid fa-angle-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -433,8 +433,8 @@ include 'inc/header.php'; ?>
         <div class="row g-4 mt-4">
             <!-- Feature 1 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/vps/ssd.png" alt="ssd">
                         <h5 class="card-title">Solid State Drives</h5>
                     </div>
@@ -448,8 +448,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 2 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/vps/ssl.png" alt="ssl">
                         <h5 class="card-title">SSL Secure</h5>
                     </div>
@@ -463,8 +463,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 3 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/vps/powerful-securities.png" alt="security">
                         <h5 class="card-title">Powerful Securities</h5>
                     </div>
@@ -478,8 +478,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 4 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/vps/full-root.png" alt="root access">
                         <h5 class="card-title">Full Root Access</h5>
                     </div>
@@ -492,8 +492,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 5 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/05.png" alt="Softaculous">
                         <h5 class="card-title">One Click Deploy</h5>
                     </div>
@@ -507,8 +507,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 6 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/06.png" alt="24/7 Support">
                         <h5 class="card-title">24/7 Support</h5>
                     </div>
@@ -521,9 +521,10 @@ include 'inc/header.php'; ?>
             </div>
         </div>
     </div>
-    <div class="text-center mt-4">
-        <a href="https://googiehost.com/blog/go/kamatera-free-vps/" class="cta-button col-12 col-lg-4 text-light">Try a Virtual Server Risk Free For 30 Days <i class="fa-solid fa-angles-right"></i></a>
-    </div>
+
+</div>
+<div class="text-center mt-4">
+    <a href="https://googiehost.com/blog/go/kamatera-free-vps/" class="cta-button col-12 col-lg-4 text-light">Try a Virtual Server Risk Free For 30 Days <i class="fa-solid fa-angles-right"></i></a>
 </div>
 <!-- / feature section  -->
 
