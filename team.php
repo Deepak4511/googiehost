@@ -37,7 +37,7 @@ include 'inc/header.php'; ?>
                         <li><a href="https://twitter.com/am_anwaa"><i class="fab fa-twitter"></i></a></li>
                     </ul>
                     <div class="image">
-                        <a href="#"><img src="https://googiehost.com/images/team/aman bhaiya-min.jpg" alt="Aman Singh Googiehost"></a>
+                        <a href="#"><img src="images/team/aman bhaiya-min.jpg" alt="Aman Singh Googiehost"></a>
                     </div>
                     <div class="lower-content">
                         <h3><a href="#">Aman Singh </a></h3>

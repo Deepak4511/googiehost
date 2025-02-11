@@ -1550,6 +1550,7 @@ textarea {
 .team-block .inner-box {
   position: relative;
   padding: 40px 70px 28px 0px;
+  margin-bottom: 24px;
 }
 
 .team-block .inner-box:before {
@@ -1567,6 +1568,31 @@ textarea {
   -o-transition: all 600ms ease;
   transition: all 600ms ease;
 }
+
+.team-block .inner-box::after {
+  position: absolute;
+  content: '';
+  top: 0px;
+  left: 70px;
+  bottom: 0px;
+  width: 0%;
+  border-radius: 10px;
+  -webkit-transition: all 600ms ease;
+  -moz-transition: all 600ms ease;
+  -ms-transition: all 600ms ease;
+  -o-transition: all 600ms ease;
+  transition: all 600ms ease;
+  background-image: -ms-linear-gradient(top, #ffca08 0%, #f70067 100%);
+  background-image: -moz-linear-gradient(top, #ffca08 0%, #f70067 100%);
+  background-image: -o-linear-gradient(top, #ffca08 0%, #f70067 100%);
+  background-image: -webkit-linear-gradient(to bottom, #0430ad 0%, #1d2772 100%);
+  background-image: linear-gradient(to bottom, #0430ad 0%, #1d2772 100%);
+}
+
+.team-block .inner-box:hover::after {
+  width: 81%;
+}
+
 
 .team-block .inner-box .social-icons {
   position: absolute;
