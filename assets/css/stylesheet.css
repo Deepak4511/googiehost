@@ -1504,14 +1504,10 @@ label {
   margin-bottom: 14px;
 }
 
-input[type="text"],
-input[type="email"],
-input[type="search"],
-input[type="url"],
-input[type="password"],
-textarea {
+input[type="text"], input[type="email"], input[type="search"],
+input[type="url"], input[type="password"], textarea {
   background-color: #fff;
-  border-radius: 0;
+  border-radius: 8px;
   border: 1px solid #ddd;
   margin-bottom: 14px;
   position: relative;
@@ -1524,7 +1520,7 @@ textarea {
   font-family: inherit;
   font-size: inherit;
   line-height: inherit;
-  padding: 16px;
+  padding: 8px;
 }
 
 .contact-submit-btn {
@@ -1688,6 +1684,27 @@ textarea {
 .notice-btn:hover{
   transform: translateX(2px);
   color: #000;
+}
+
+
+.pure-button-primary{
+  display: inline-block;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 600;
+    padding: 12px 30px;
+    border-radius: 5px;
+    color: #fff;
+    background: #ff8a17;
+    transition: 0.2s ease-in;
+    box-shadow: 0px 6px 0px #ea7400;
+    text-align: center;
+    border: 1px solid #ff8a17;
+}
+
+.pure-button-primary:hover {
+  opacity: 1;
+  transform: scale(1.03);
 }
 
 /* .nav-pills .notice-btn.active, .nav-pills .show>.notice-btn {

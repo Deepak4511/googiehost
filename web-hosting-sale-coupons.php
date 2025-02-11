@@ -1,5 +1,5 @@
 <?php 
-$page ='free-hosting-sale-coupons';
+$page ='web-hosting-sale-coupons';
 include 'inc/header.php'; ?>
 
 <style type="text/css">
@@ -723,6 +723,7 @@ include 'inc/header.php'; ?>
     .coupon_code {
         font-size: 12px;
         color: #333;
+        text-align: center;
     }
 
 
@@ -734,6 +735,7 @@ include 'inc/header.php'; ?>
         font-size: 18px;
         margin-bottom: 10px;
         width: fit-content;
+        border: 0px;
     }
 
     .coupon-btn a {
