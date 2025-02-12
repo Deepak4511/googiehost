@@ -409,8 +409,8 @@ include 'inc/header.php'; ?>
 
                 <div class="feature-opt">
                     <h5>Response Time</h5>
-                    <h5>208.18</h5>
-                    <p>ms to load</p>
+                    <p>208.18 ms to load</p>
+                    
                     <h5>Server Uptime</h5>
                     <p>99.99%</p>
                     <h5>Live Status</h5>
@@ -481,8 +481,7 @@ include 'inc/header.php'; ?>
 
                 <div class="feature-opt">
                     <h5>Response Time</h5>
-                    <h5>208.18</h5>
-                    <p>ms to load</p>
+                    <p>208.18 ms to load</p>
                     <h5>Server Uptime</h5>
                     <p>99.99%</p>
                     <h5>Live Status</h5>
@@ -554,8 +553,7 @@ include 'inc/header.php'; ?>
 
                 <div class="feature-opt">
                     <h5>Response Time</h5>
-                    <h5>204.89</h5>
-                    <p>ms to load</p>
+                    <p>204.89 ms to load</p>
                     <h5>Server Uptime</h5>
                     <p>99.95%</p>
                     <h5>Live Status</h5>
@@ -627,8 +625,7 @@ include 'inc/header.php'; ?>
 
                 <div class="feature-opt">
                     <h5>Response Time</h5>
-                    <h5>204.05</h5>
-                    <p>ms to load</p>
+                    <p>204.05 ms to load</p>
                     <h5>Server Uptime</h5>
                     <p>99.78%</p>
                     <h5>Live Status</h5>
@@ -701,8 +698,7 @@ include 'inc/header.php'; ?>
 
                 <div class="feature-opt">
                     <h5>Response Time</h5>
-                    <h5>183.10</h5>
-                    <p>ms to load</p>
+                    <p>183.10 ms to load</p>
                     <h5>Server Uptime</h5>
                     <p>99.94%</p>
                     <h5>Live Status</h5>
@@ -776,8 +772,7 @@ include 'inc/header.php'; ?>
 
                 <div class="feature-opt">
                     <h5>Response Time</h5>
-                    <h5>187.30</h5>
-                    <p>ms to load</p>
+                    <p>187.30 ms to load</p>
                     <h5>Server Uptime</h5>
                     <p>99.96%</p>
                     <h5>Live Status</h5>
@@ -848,8 +843,7 @@ include 'inc/header.php'; ?>
 
                 <div class="feature-opt">
                     <h5>Response Time</h5>
-                    <h5>258.32</h5>
-                    <p>ms to load</p>
+                    <p>258.32 ms to load</p>
                     <h5>Server Uptime</h5>
                     <p>99.89%</p>
                     <h5>Live Status</h5>
@@ -922,7 +916,7 @@ include 'inc/header.php'; ?>
 
                 <div class="feature-opt">
                     <h5>Response Time</h5>
-                    <h5>247.05</h5>
+                    <p>247.05 ms to load</p>
                     <p>ms to load</p>
                     <h5>Server Uptime</h5>
                     <p>99.47%</p>
@@ -993,8 +987,7 @@ include 'inc/header.php'; ?>
 
                 <div class="feature-opt">
                     <h5>Response Time</h5>
-                    <h5>191.84</h5>
-                    <p>ms to load</p>
+                    <p>191.84 ms to load</p>
                     <h5>Server Uptime</h5>
                     <p>99.97%</p>
                     <h5>Live Status</h5>
@@ -1064,8 +1057,7 @@ include 'inc/header.php'; ?>
 
                 <div class="feature-opt">
                     <h5>Response Time</h5>
-                    <h5>185.60</h5>
-                    <p>ms to load</p>
+                    <p>185.60 ms to load</p>
                     <h5>Server Uptime</h5>
                     <p>99.34%</p>
                     <h5>Live Status</h5>
@@ -1135,8 +1127,7 @@ include 'inc/header.php'; ?>
 
                 <div class="feature-opt">
                     <h5>Response Time</h5>
-                    <h5>221.07</h5>
-                    <p>ms to load</p>
+                    <p>221.07 ms to load</p>
                     <h5>Server Uptime</h5>
                     <p>99.98%</p>
                     <h5>Live Status</h5>
