@@ -31,8 +31,12 @@ if (!isset($page)) {
 <body>
 
     <!-- top header -->
-    <div class="top-header">
-        Unlimited Hosting, Unmatched Performance — <a class="grab_now_btn text-white" href="https://googiehost.com/blog/go/interserver/">Start at $0.01 Now </a>
+
+    <div class="top-bar">
+        <div class="top-bar-text">Unlimited Hosting, Unmatched Performance</div>
+        <div class="btn">
+            <a href="https://googiehost.com/blog/go/interserver/" target="_blank">Start at $0.01 Now</a>
+        </div>
     </div>
 
     <header class="header p-2">
@@ -69,8 +73,8 @@ if (!isset($page)) {
                                     Servers <i class="fa-solid fa-angle-down  dropdown-icon"></i>
                                 </a>
                                 <div class="dropdown-menu rounded" aria-labelledby="serversDropdown" id="serversDropdown">
-                                    <a class="dropdown-item text-white" href="/googiehost/cheap-vps-hosting.php">VPS Hosting</a>
-                                    <a class="dropdown-item text-white" href="/googiehost/cheap-dedicated-server.php">Dedicated Servers</a>
+                                    <a class="dropdown-item" href="/googiehost/cheap-vps-hosting.php">VPS Hosting</a>
+                                    <a class="dropdown-item" href="/googiehost/cheap-dedicated-server.php">Dedicated Servers</a>
                                 </div>
                             </li>
 
@@ -85,40 +89,37 @@ if (!isset($page)) {
                                     id="reviewsDropdown">
                                     <div class="row">
                                         <div class="col-md-4">
-                                            <h5 class="dropdown-header text-white">
+                                            <h5 class="dropdown-header">
                                                 <i class="fa fa-wordpress"></i> Hosting
                                             </h5>
-                                            <a class="dropdown-item text-white" href="#">YouStable</a>
-                                            <a class="dropdown-item text-white" href="#">InterServer</a>
-                                            <a class="dropdown-item text-white" href="#">A2 Hosting</a>
-                                            <a class="dropdown-item text-white" href="#">UltaHost</a>
-                                            <a class="dropdown-item text-white" href="#">Kamatera</a>
-                                            <div class="dropdown-divider"></div>
-                                            <a class="btn  btn-block mt-2" href="#">VIEW BEST HOSTS→</a>
+                                            <a class="dropdown-item" href="#">YouStable</a>
+                                            <a class="dropdown-item" href="#">InterServer</a>
+                                            <a class="dropdown-item" href="#">A2 Hosting</a>
+                                            <a class="dropdown-item" href="#">UltaHost</a>
+                                            <a class="dropdown-item" href="#">Kamatera</a>
+                                            <a class="btn  btn-block mt-2" href="#">VIEW BEST HOSTS →</a>
                                         </div>
                                         <div class="col-md-4">
-                                            <h5 class="dropdown-header text-white">
+                                            <h5 class="dropdown-header">
                                                 <i class="fa fa-bolt"></i> VPN
                                             </h5>
-                                            <a class="dropdown-item text-white" href="#">NordVPN</a>
-                                            <a class="dropdown-item text-white" href="#">IvacyVPN</a>
-                                            <a class="dropdown-item text-white" href="#">ExpressVPN</a>
-                                            <a class="dropdown-item text-white" href="#">IPVanish</a>
-                                            <a class="dropdown-item text-white" href="#">HotSpotShield</a>
-                                            <div class="dropdown-divider"></div>
-                                            <a class="btn btn-block mt-2" href="#">VIEW MORE VPN→</a>
+                                            <a class="dropdown-item" href="#">NordVPN</a>
+                                            <a class="dropdown-item" href="#">IvacyVPN</a>
+                                            <a class="dropdown-item" href="#">ExpressVPN</a>
+                                            <a class="dropdown-item" href="#">IPVanish</a>
+                                            <a class="dropdown-item" href="#">HotSpotShield</a>
+                                            <a class="btn btn-block mt-2" href="#">VIEW MORE VPN →</a>
                                         </div>
                                         <div class="col-md-4">
-                                            <h5 class="dropdown-header text-white">
+                                            <h5 class="dropdown-header">
                                                 <i class="fa fa-rss"></i> SEO/Blogging
                                             </h5>
-                                            <a class="dropdown-item text-white" href="#">Email Marketing Tools</a>
-                                            <a class="dropdown-item text-white" href="#">Top LiveChat Apps</a>
-                                            <a class="dropdown-item text-white" href="#">Best Blogging Tools</a>
-                                            <a class="dropdown-item text-white" href="#">Blogging Tutorials</a>
-                                            <a class="dropdown-item text-white" href="#">Top WordPress Plugins</a>
-                                            <div class="dropdown-divider"></div>
-                                            <a class="btn btn-block mt-2" href="#">VIEW MORE TOOLS→</a>
+                                            <a class="dropdown-item" href="#">Email Marketing Tools</a>
+                                            <a class="dropdown-item" href="#">Top LiveChat Apps</a>
+                                            <a class="dropdown-item" href="#">Best Blogging Tools</a>
+                                            <a class="dropdown-item" href="#">Blogging Tutorials</a>
+                                            <a class="dropdown-item" href="#">Top WordPress Plugins</a>
+                                            <a class="btn btn-block mt-2" href="#">VIEW MORE TOOLS →</a>
                                         </div>
                                     </div>
                                 </div>
@@ -129,10 +130,10 @@ if (!isset($page)) {
                                     data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Login</a>
                                 <div class="dropdown-menu rounded mb-0   " aria-labelledby="loginDropdown"
                                     id="loginDropdown">
-                                    <a class="dropdown-item text-white"
+                                    <a class="dropdown-item"
                                         href="https://client.googiehost.com/clientarea.php">Account
                                         Login</a>
-                                    <a class="dropdown-item text-white mb-0" href="/googiehost/signup.php">Create
+                                    <a class="dropdown-item mb-0" href="/googiehost/signup.php">Create
                                         Account</a>
                                 </div>
                             </li>
