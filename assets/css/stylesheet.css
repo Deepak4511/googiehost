@@ -159,7 +159,6 @@ header .nav-item {
 
 .SignInUp {
   /* background-color: #F58F2A; */
-  border-radius: 2px;
   font-size: 14px;
   text-transform: uppercase;
   text-align: center;
@@ -171,6 +170,7 @@ header .nav-item {
 
 .SignInUp:hover {
   color: #fff;
+  border: 1px solid #fff;
 }
 
 .nav-item a {
@@ -398,8 +398,7 @@ header .nav-item {
 }
 
 .banner .btn {
-  background: #ffd700;
-  color: #1c2473;
+  color: #ffd700;
   padding: 13px 28px;
   border-radius: 5px;
   font-size: 16px;
@@ -408,17 +407,56 @@ header .nav-item {
   text-decoration: none;
   display: inline-block;
   transition: 0.3s ease-in-out;
-}
-
-.banner .btn:hover {
-  background: #e6c400;
-  color: #000000;
+  position: relative;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+  margin: 1em 0.8em;
 }
 
 .banner .btn i {
-  font-size: 16px;
-  font-weight: 800;
+  padding-left: 5px;
 }
+
+.banner .btn::after,
+.banner .btn::before {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 20%;
+  height: 20%;
+  border: 2px solid;
+  transition: all 0.6s ease;
+  border-radius: 2px;
+}
+
+
+.banner .btn::after {
+  bottom: 0;
+  right: 0;
+  border-top-color: transparent;
+  border-left-color: transparent;
+  border-bottom-color: #ffd700;
+  border-right-color: #ffd700;
+}
+
+.banner .btn::before {
+  top: 0;
+  left: 0;
+  border-bottom-color: transparent;
+  border-right-color: transparent;
+  border-top-color: #ffd700;
+  border-left-color: #ffd700;
+}
+
+.banner .btn:hover::after,
+.banner .btn:hover::before {
+  width: 100%;
+  height: 100%;
+}
+
+
 
 
 /* Responsive Styles */
@@ -530,17 +568,57 @@ header .nav-item {
   color: #000000;
 }
 
-.buttom-ffd700 {
-  background: #ffd700;
-  color: #1c2473;
-  border-radius: 0px;
-  padding: 10px 20px;
+.features .btn {
+  color: #ffd700;
+  cursor: pointer;
+  font-size: 16px;
+  line-height: 45px;
+  max-width: 160px;
+  position: relative;
+  text-decoration: none;
   text-transform: uppercase;
+  width: 100%;
+}
+
+@media (min-width: 600px) {
+  .features .btn {
+    margin: 0 1em 2em;
+  }
+}
+
+.buttom-ffd700 {
+  background: darken(red, 1.5%);
+  font-weight: 100;
+
+  svg {
+    height: 54px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+
+  rect {
+    fill: none;
+    stroke: #FFD700;
+    stroke-width: 2;
+    stroke-dasharray: 422, 0;
+    transition: all 0.35s linear;
+  }
+
 }
 
 .buttom-ffd700:hover {
-  background: #e6c400;
-  color: #000000;
+  background: rgba(red, 0);
+  font-weight: 900;
+  letter-spacing: 1px;
+
+  rect {
+    stroke-width: 5;
+    stroke-dasharray: 15, 310;
+    stroke-dashoffset: 48;
+    transition: all 1.35s cubic-bezier(0.19, 1, 0.22, 1);
+  }
 }
 
 #navbarOffcanvas {
@@ -867,8 +945,7 @@ grid-row-gap: 0px;
   align-items: center;
 }
 
-.feature-list li::before {
-  content: '✔';
+.feature-list li i {
   color: green;
   font-weight: bold;
   margin-right: 10px;
@@ -897,6 +974,7 @@ grid-row-gap: 0px;
 .faq h2 {
   font-size: 36px;
   line-height: 46px;
+  color: #000;
 }
 
 .faq .accordion {
@@ -925,6 +1003,7 @@ grid-row-gap: 0px;
 .faq .accordion-button:not(.collapsed) {
   background-color: #ffffff;
   box-shadow: none;
+  visibility: visible;
 }
 
 .faq .accordion-item h2 button {
@@ -1241,6 +1320,55 @@ grid-row-gap: 0px;
 
 .knowledge .card .card-body ul li a {
   font-size: 16px;
+}
+
+/* flip card section  */
+.flip-card {
+  perspective: 1000px;
+  color: #fff;
+}
+
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 250px;
+  text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+  background: linear-gradient(180deg, rgba(124, 64, 214, 0.2) 0%, #6771ce 100%);
+  border-radius: 15px;
+}
+
+.font-semibold {
+  color: #1c2473;
+  font-weight: 700;
+}
+
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front,
+.flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border-radius: 15px;
+}
+
+.flip-card-front {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+}
+
+.flip-card-back {
+  background: rgba(0, 0, 0, 0.8);
+  transform: rotateY(180deg);
 }
 
 /* footer  */

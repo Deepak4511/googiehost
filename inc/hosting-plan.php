@@ -9,15 +9,15 @@
             <div class="pricing-subheader">100% Free No Card, No Ads & No Hassle</div>
             <a href="checkout" class="btn btn-outline-dark pricing-button mb-4 w-100 rounded-3 p-3 fw-bold">Proceed with Free</a>
             <ul class="feature-list text-start">
-                <li>Host 1 Website</li>
-                <li>MB SSD Storage</li>
-                <li>Free SSL Certificate</li>
-                <li>100 GB Bandwidth</li>
-                <li>WordPress Manager</li>
-                <li>Business Email</li>
-                <li>MySQL, FTP Account*</li>
-                <li>Cloudflare Protection</li>
-                <li>99% Uptime</li>
+                <li> <i class="fa-solid fa-check"></i> Host 1 Website</li>
+                <li> <i class="fa-solid fa-check"></i> MB SSD Storage</li>
+                <li> <i class="fa-solid fa-check"></i> Free SSL Certificate</li>
+                <li> <i class="fa-solid fa-check"></i> 100 GB Bandwidth</li>
+                <li> <i class="fa-solid fa-check"></i> WordPress Manager</li>
+                <li> <i class="fa-solid fa-check"></i> Business Email</li>
+                <li> <i class="fa-solid fa-check"></i> MySQL, FTP Account*</li>
+                <li> <i class="fa-solid fa-check"></i> Cloudflare Protection</li>
+                <li> <i class="fa-solid fa-check"></i> 99% Uptime</li>
             </ul>
         </div>
     </div>
@@ -31,16 +31,16 @@
             <div class="pricing-subheader">Pro (Lifetime Deal) Starting at $25</div>
             <a href="checkout" class="btn pricing-button mb-4 w-100 rounded-3 p-3 fw-bold">Proceed with Paid</a>
             <ul class="feature-list text-start">
-                <li>Number of Websites 3</li>
-                <li>10 GB NVMe SSD</li>
-                <li>Unmetered Bandwidth</li>
-                <li>3 Email Accounts</li>
-                <li>3 MySQL Database</li>
-                <li>1 FTP Account</li>
-                <li>SSL Certificate</li>
-                <li>Softaculous Auto Installer</li>
-                <li>LS Cache Included</li>
-                <li>99.95% Uptime</li>
+                <li> <i class="fa-solid fa-check"></i> Number of Websites 3</li>
+                <li> <i class="fa-solid fa-check"></i> 10 GB NVMe SSD</li>
+                <li> <i class="fa-solid fa-check"></i> Unmetered Bandwidth</li>
+                <li> <i class="fa-solid fa-check"></i> 3 Email Accounts</li>
+                <li> <i class="fa-solid fa-check"></i> 3 MySQL Database</li>
+                <li> <i class="fa-solid fa-check"></i> 1 FTP Account</li>
+                <li> <i class="fa-solid fa-check"></i> SSL Certificate</li>
+                <li> <i class="fa-solid fa-check"></i> Softaculous Auto Installer</li>
+                <li> <i class="fa-solid fa-check"></i> LS Cache Included</li>
+                <li> <i class="fa-solid fa-check"></i> 99.95% Uptime</li>
             </ul>
         </div>
     </div>
