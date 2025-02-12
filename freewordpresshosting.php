@@ -2,6 +2,8 @@
 <?php
 $page = 'freewordpresshosting';
 include 'inc/header.php'; ?>
+
+<script src="https://cdn.tailwindcss.com"></script>
 <!-- header end -->
 
 <!-- hero section  -->
@@ -157,6 +159,7 @@ include 'inc/header.php'; ?>
 </div>
 <!-- / feature section  -->
 
+
 <!-- plan section  -->
 <div class="container pricing-section ">
     <h2 class="mb-4 text-center fw-bold">Give More Power To Your WordPress Site →</h2>
@@ -189,8 +192,68 @@ include 'inc/header.php'; ?>
 </div>
 <!-- / banner section  -->
 
+<section class="text-center py-10">
+    <h2 class="text-3xl font-bold mb-2">Grow Without Resistance →</h2>
+    <p class="text-gray-300 text-dark">It's time for you to grow without limits with FREE WordPress Hosting</p>
+</section>
+
+<div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8 max-w-6xl mx-auto text-center">
+    <!-- Flip Card 1 -->
+    <div class="flip-card">
+        <div class="flip-card-inner ">
+            <div class="flip-card-front p-6">
+                <img src="depends/wordpress-icons/infinite.png" class="w-12 mb-4">
+                <h3 class="text-xl font-semibold">Infinite WordPress Themes</h3>
+            </div>
+            <div class="flip-card-back p-6">
+                <p class="text-gray-300 text-sm">Scroll through the infinite Exciting WordPress Themes which will give your site a More Amazing and optimized look. You can opt for the theme of your choice and attract more audiences. WordPress consists of millions of themes and you can access them all with FREE WordPress Hosting.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Flip Card 2 -->
+    <div class="flip-card">
+        <div class="flip-card-inner">
+            <div class="flip-card-front p-6">
+                <img src="depends/wordpress-icons/unlimited.png" class="w-12 mb-4">
+                <h3 class="text-xl font-semibold">Unlimited Premium Plugins</h3>
+            </div>
+            <div class="flip-card-back p-6">
+                <p class="text-gray-300 text-sm">The site needs plugins for better performance and the output will be quite smooth and flawless. Even with free WordPress Hosting, you will get the best and the Most famous WordPress Plugins. The Plugins will help you reach your optimization goals.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Flip Card 3 -->
+    <div class="flip-card">
+        <div class="flip-card-inner">
+            <div class="flip-card-front p-6">
+                <img src="depends/wordpress-icons/turn.png" class="w-12 mb-4">
+                <h3 class="text-xl font-semibold">Turn Your Site Into Store</h3>
+            </div>
+            <div class="flip-card-back p-6">
+                <p class="text-gray-300 text-sm">It’s time for you to turn your normal site into an online store. The WordPress Themes and WordPress Plugins will help you convert your simple site into an Online Store. All with Free WordPress Hosting.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Flip Card 4 -->
+    <div class="flip-card">
+        <div class="flip-card-inner">
+            <div class="flip-card-front p-6">
+                <img src="depends/wordpress-icons/rank.png" class="w-12 mb-4">
+                <h3 class="text-xl font-semibold">Easy Rank On Google</h3>
+            </div>
+            <div class="flip-card-back p-6">
+                <p class="text-gray-300 text-sm">With the help of this Free Hosting Service, you will get a better rank on search engines like Google, Yahoo, Bing. The Free Domains are also easy to remember and they will also play a vital role in the ranking of your site.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
 <!-- Grow Without Resistance  -->
-<div class="container-fluid p-0 ">
+<!-- <div class="container-fluid p-0 ">
     <h2 class="mb-4 text-center fw-bold">Grow Without Resistance →</h2>
     <p class="text-center">Its time for you to grow without limits with FREE WordPress Hosting</p>
 
@@ -253,14 +316,11 @@ include 'inc/header.php'; ?>
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 <!-- Grow Without Resistance -->
 
-<!-- block-single section  -->
-<?php include 'inc/single-features.php' ?>
 
-<!-- / block-single section  -->
 <!-- faq section  -->
 <div class="container mt-5 faq mb-5">
     <h2 class="text-center mb-5 fw-bold">Frequently Asked Questions</h2>
@@ -417,7 +477,10 @@ include 'inc/header.php'; ?>
     </div>
 </div>
 <!-- /faq section  -->
+<!-- block-single section  -->
+<?php include 'inc/single-features.php' ?>
 
+<!-- / block-single section  -->
 <!-- Footer start  -->
 <?php include 'inc/footer.php' ?>
 <!-- Footer end -->
