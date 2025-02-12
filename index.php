@@ -22,7 +22,7 @@ include 'inc/header.php'; ?>
                 </div>
             </div>
             <div class="hero-image-section col-md-6">
-                <img src="img/GoogiehostHeroImage.png" width="550px" height="420px" alt="GoogieHost Logo" class="img-fluid">
+                <img src="img/GoogiehostHeroImage.png" alt="GoogiehostHeroImage" class="img-fluid">
             </div>
         </div>
     </div>
@@ -36,7 +36,7 @@ include 'inc/header.php'; ?>
 <div class="container">
     <div class="banner d-flex align-items-center justify-content-between  rounded">
         <div class="row w-100 align-items-center">
-            <div class="d-flex align-items-center col-md-8">
+            <div class="d-flex align-items-center col-md-9">
                 <span class="heart">&#129293;</span>
                 <div>
                     <h2 class="text-white mb-2 ">
@@ -49,7 +49,7 @@ include 'inc/header.php'; ?>
                     </p>
                 </div>
             </div>
-            <div class="col-md-4 text-md-right text-center mt-3 mt-md-0">
+            <div class="col-md-3 text-md-right text-center mt-3 mt-md-0">
                 <a href="#" class="btn ">GET FREE HOSTING <i class="fa-solid fa-angle-right"></i></a>
             </div>
         </div>
@@ -68,14 +68,14 @@ include 'inc/header.php'; ?>
         <div class="row g-4 mt-4">
             <!-- Feature 1 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center ">
-                    <div class="feature-icon">
+                <div class="text-center ">
+                    <div class="mx-auto">
                         <img src="depends/01.png" alt="Control Panel">
                         <h5 class="card-title">Integrated Control Panel</h5>
                     </div>
-                    <div class="card-body ">
+                    <div class="">
 
-                        <p class="card-text">We provide 100% Cloud Based super fast GoogieHostPanel <a href="">free web hosting</a> service for everyone across the globe. You'll also get <strong> WordPress Manager</strong> to manage WordPress websites.</p>
+                        <p class="card-text text-white p-3">We provide 100% Cloud Based super fast GoogieHostPanel <a href="">free web hosting</a> service for everyone across the globe. You'll also get <strong> WordPress Manager</strong> to manage WordPress websites.</p>
                         <a href="#" class="btn buttom-ffd700 shadow w-100 fw-bold">Know More <i class="fa-solid fa-angle-right"></i></a>
                     </div>
                 </div>
@@ -83,14 +83,13 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 2 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class="text-center">
+                    <div class=" mx-auto">
                         <img src="depends/02.png" alt="SitePad Builder">
                         <h5 class="card-title">Free SitePad Builder</h5>
                     </div>
-                    <div class="card-body">
-
-                        <p class="card-text">Create your website with an easy drag and drop option without having special programming knowledge. Start building your online platform with <a href="">SitePad website Builder.</a> </p>
+                    <div class="">
+                        <p class="card-text text-white p-3">Create your website with an easy drag and drop option without having special programming knowledge. Start building your online platform with <a href="">SitePad website Builder.</a> </p>
                         <a href="#" class="btn buttom-ffd700 shadow w-100 fw-bold">Know More <i class="fa-solid fa-angle-right"></i></a>
                     </div>
                 </div>
@@ -98,14 +97,14 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 3 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class="text-center">
+                    <div class=" mx-auto">
                         <img src="depends/03.png" alt="cPanel">
                         <h5 class="card-title">Easy to Use cPanel</h5>
                     </div>
-                    <div class="card-body">
+                    <div class="">
 
-                        <p class="card-text">We provide the most effective and user-friendly cPanel (Direct Admin). Free users get the most loved <span style="color: red;">♥</span> cPanel preferred by industry-leading hosting platforms.</p>
+                        <p class="card-text text-white p-3">We provide the most effective and user-friendly cPanel (Direct Admin). Free users get the most loved <span style="color: red;">♥</span> cPanel preferred by industry-leading hosting platforms.</p>
                         <a href="#" class="btn buttom-ffd700 shadow w-100 fw-bold">Know More <i class="fa-solid fa-angle-right"></i></a>
                     </div>
                 </div>
@@ -113,13 +112,13 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 4 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class="text-center">
+                    <div class=" mx-auto">
                         <img src="depends/04.png" alt="Free Sub-Domain">
                         <h5 class="card-title">Free Sub-Domain</h5>
                     </div>
-                    <div class="card-body">
-                        <p class="card-text">If you don't have your own domain name, you can use our <a href="">free sub-domains</a> to create your instant website. Ex: yourname.cu.ma & yourname.thats.im</p>
+                    <div class="">
+                        <p class="card-text text-white p-3">If you don't have your own domain name, you can use our <a href="">free sub-domains</a> to create your instant website. Ex: yourname.cu.ma & yourname.thats.im</p>
                         <a href="#" class="btn buttom-ffd700 shadow w-100 fw-bold">Know More <i class="fa-solid fa-angle-right"></i></a>
                     </div>
                 </div>
@@ -127,14 +126,13 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 5 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class="text-center">
+                    <div class=" mx-auto">
                         <img src="depends/05.png" alt="Softaculous">
                         <h5 class="card-title">Softaculous Auto Installer</h5>
                     </div>
-                    <div class="card-body">
-
-                        <p class="card-text">Install more than 380+ popular scripts with a single click and get your website online in a few minutes using our Free <a href=""> Softaculous Auto Installer option.</a></p>
+                    <div class="">
+                        <p class="card-text text-white p-3">Install more than 380+ popular scripts with a single click and get your website online in a few minutes using our Free <a href=""> Softaculous Auto Installer option.</a></p>
                         <a href="#" class="btn buttom-ffd700 shadow w-100 fw-bold">Know More <i class="fa-solid fa-angle-right"></i></a>
                     </div>
                 </div>
@@ -142,14 +140,13 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 6 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class="text-center">
+                    <div class=" mx-auto">
                         <img src="depends/06.png" alt="24/7 Support">
                         <h5 class="card-title">24/7 Support</h5>
                     </div>
-                    <div class="card-body">
-
-                        <p class="card-text">We believe in 100% customer satisfaction. You can get help from our <a href="">Knowledgebase</a> and Blog tutorial. For instant help, you can also contact us via <a href="">email.</a> </p>
+                    <div class="">
+                        <p class="card-text text-white p-3">We believe in 100% customer satisfaction. You can get help from our <a href="">Knowledgebase</a> and Blog tutorial. For instant help, you can also contact us via <a href="">email.</a> </p>
                         <a href="#" class="btn buttom-ffd700 shadow w-100 fw-bold ">Know More <i class="fa-solid fa-angle-right"></i></a>
                     </div>
                 </div>
@@ -163,7 +160,7 @@ include 'inc/header.php'; ?>
 <div class="container">
     <div class="banner d-flex align-items-center justify-content-between  rounded">
         <div class="row w-100 align-items-center">
-            <div class="d-flex align-items-center col-md-8">
+            <div class="d-flex align-items-center col-md-9">
                 <span class="heart">&#129293;</span>
                 <div>
                     <h2 class="text-white mb-2 ">
@@ -174,7 +171,7 @@ include 'inc/header.php'; ?>
                     </p>
                 </div>
             </div>
-            <div class="col-md-4 text-md-right text-center mt-3 mt-md-0">
+            <div class="col-md-3 text-md-right text-center mt-3 mt-md-0">
                 <a href="#" class="btn ">SIGNUP NOW<i class="fa-solid fa-angle-right"></i></a>
             </div>
         </div>
@@ -204,73 +201,73 @@ include 'inc/header.php'; ?>
             <tbody>
                 <tr>
                     <td>NVMe SSD</td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
                 </tr>
                 <tr>
                     <td>Business Emails</td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-check-circle check"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
                 </tr>
                 <tr>
                     <td>LiteSpeed</td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
                 </tr>
                 <tr>
                     <td>Cloudflare</td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
                 </tr>
                 <tr>
                     <td>Control Panel</td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
                 </tr>
                 <tr>
                     <td>1-Click Installer</td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
                 </tr>
                 <tr>
                     <td>Malware Protection</td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
                 </tr>
                 <tr>
                     <td>SSL Certificate</td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
                 </tr>
                 <tr>
                     <td>SitePad Website Builder</td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
                 </tr>
                 <tr>
                     <td>No Forced Ads</td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
                 </tr>
             </tbody>
         </table>
@@ -285,7 +282,7 @@ include 'inc/header.php'; ?>
             <div class="card-header text-center">
                 <h6> Learn How To Create A Free Website With GoogieHost</h6>
             </div>
-            <div class="card-body">
+            <div class="">
                 <p class="intro ps-5 pe-5">
                     Follow the steps given below to create a free website. <a href="freehosting.html">GoogieHost offers free hosting </a>to all of its users with no forced advertisements.
                 </p>

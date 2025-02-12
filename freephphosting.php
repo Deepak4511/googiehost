@@ -1,6 +1,6 @@
 <!-- header start  -->
-<?php 
-$page ='freephphosting';
+<?php
+$page = 'freephphosting';
 include 'inc/header.php'; ?>
 <!-- header end -->
 
@@ -44,7 +44,7 @@ include 'inc/header.php'; ?>
 <div class="container">
     <div class="banner d-flex align-items-center justify-content-between  rounded">
         <div class="row w-100 align-items-center">
-            <div class="d-flex align-items-center col-md-8">
+            <div class="d-flex align-items-center col-md-9">
                 <span class="heart">&#129293;</span>
                 <div>
                     <h2 class="text-white mb-2 ">
@@ -54,7 +54,7 @@ include 'inc/header.php'; ?>
                     </p>
                 </div>
             </div>
-            <div class="col-md-4 text-md-right text-center mt-3 mt-md-0">
+            <div class="col-md-3 text-md-right text-center mt-3 mt-md-0">
                 <a href="signup.php" class="btn ">Signup Now <i class="fa-solid fa-angle-right"></i></a>
             </div>
         </div>
@@ -70,8 +70,8 @@ include 'inc/header.php'; ?>
         <div class="row g-4 mt-4">
             <!-- Feature 1 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/php-icons/optimazation.png" alt="optimization">
                         <h5 class="card-title">PHP Optimization</h5>
                     </div>
@@ -85,8 +85,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 2 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/php-icons/extension.png" alt="extension">
                         <h5 class="card-title">PHP Extensions</h5>
                     </div>
@@ -100,8 +100,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 3 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/php-icons/control.png" alt="control">
                         <h5 class="card-title">Full Control</h5>
                     </div>
@@ -115,8 +115,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 4 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/php-icons/scripts.png" alt="scripts">
                         <h5 class="card-title">Multiple PHP Scripts Supported</h5>
                     </div>
@@ -129,8 +129,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 5 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/php-icons/support.png" alt="support">
                         <h5 class="card-title">24/7 Support Team</h5>
                     </div>
@@ -144,8 +144,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 6 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/php-icons/no-ads.png" alt="no-ads">
                         <h5 class="card-title">No Forced Ads</h5>
                     </div>

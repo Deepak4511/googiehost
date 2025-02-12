@@ -1,5 +1,5 @@
-<?php 
-$page ='freedomains';
+<?php
+$page = 'freedomains';
 include 'inc/header.php'; ?>
 <style>
     .hero-section {
@@ -57,7 +57,7 @@ include 'inc/header.php'; ?>
                 <div class="fw-normal">
                     <p>Get a free domain name forever Looking for a domain? Grab it for free at GoogieHost with no hidden charges or conditions applied. Just click on the button mentioned below, enter your details, hit enter and Tada! Your free domain is ready to use.</p>
                     <div class="text-center  mt-5">
-                        <a href="signup.php" class="button_orange p-4 col-12 col-lg-6  rounded-0">Sign-up for Free Domain
+                        <a href="signup.php" class="button_orange p-3 col-12 col-lg-6  rounded-0">Sign-up for Free Domain
                             <i class="fa-solid fa-angle-right"></i></a>
                     </div>
                 </div>
@@ -82,7 +82,7 @@ include 'inc/header.php'; ?>
                         <li>Create Email Accounts for professionalism.</li>
                     </ul>
                     <div class="text-center  mt-5">
-                        <a href="signup.php" class="button_orange p-4 col-12 col-lg-6  rounded-0">Sign-up for Free Domain
+                        <a href="signup.php" class="button_orange p-3 col-12 col-lg-6  rounded-0">Sign-up for Free Domain
                             <i class="fa-solid fa-angle-right"></i></a>
                     </div>
                 </div>
@@ -107,7 +107,7 @@ include 'inc/header.php'; ?>
                 <div class="fw-normal">
                     <p>At GoogieHost, we believe in cost transparency, and if we promise to give a free domain along with free hosting, we fulfill it. We have hosted numerous customers for free domain and hosting, and they are proud of our hosting.</p>
                     <div class="text-center  mt-5">
-                        <a href="signup.php" class="button_orange p-4 col-12 col-lg-6  rounded-0">Sign-up for Free Domain
+                        <a href="signup.php" class="button_orange p-3 col-12 col-lg-6  rounded-0">Sign-up for Free Domain
                             <i class="fa-solid fa-angle-right"></i></a>
                     </div>
                 </div>
@@ -280,7 +280,7 @@ include 'inc/header.php'; ?>
 <div class="container">
     <div class="banner d-flex align-items-center justify-content-between  rounded">
         <div class="row w-100 align-items-center">
-            <div class="d-flex align-items-center col-md-8">
+            <div class="d-flex align-items-center col-md-9">
                 <span class="heart">&#129293;</span>
                 <div>
                     <h2 class="text-white mb-2 ">
@@ -290,7 +290,7 @@ include 'inc/header.php'; ?>
                     </p>
                 </div>
             </div>
-            <div class="col-md-4 text-md-right text-center mt-3 mt-md-0">
+            <div class="col-md-3 text-md-right text-center mt-3 mt-md-0">
                 <a href="freedomains.php" class="btn ">Activate Free Domain<i class="fa-solid fa-angle-right"></i></a>
             </div>
         </div>
@@ -311,8 +311,8 @@ include 'inc/header.php'; ?>
         <div class="row g-4 mt-4">
             <!-- Feature 1 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/01.png" alt="Free Web Hosting">
                         <h5 class="card-title">Free Web Hosting</h5>
                     </div>
@@ -326,8 +326,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 2 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/02.png" alt="Free Site.pro Builder">
                         <h5 class="card-title">Free Site.pro Builder</h5>
                     </div>
@@ -341,8 +341,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 3 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/03.png" alt="03">
                         <h5 class="card-title">Easy to use cPanel</h5>
                     </div>
@@ -357,8 +357,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 4 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/04.png" alt="04">
                         <h5 class="card-title">Free Sub-Domain name</h5>
                     </div>
@@ -371,8 +371,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 5 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/05.png" alt="05">
                         <h5 class="card-title">Softaculous Auto Installer</h5>
                     </div>
@@ -386,8 +386,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 6 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/06.png" alt="24/7">
                         <h5 class="card-title">24/7 Support</h5>
                     </div>
@@ -428,10 +428,10 @@ include 'inc/header.php'; ?>
             <tbody>
                 <tr>
                     <td>Free Subdomain</td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-check-circle check"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
                 </tr>
                 <tr>
                     <td>Website/User</td>
@@ -457,51 +457,51 @@ include 'inc/header.php'; ?>
                 <tr>
                     <td>Business Email</td>
                     <td>2</td>
-                    <td><i class="fas fa-check-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
                 </tr>
                 <tr>
                     <td>SSL Certificates</td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
                 </tr>
                 <tr>
                     <td>CloudFlare</td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
                 </tr>
                 <tr>
                     <td>cPanel</td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-check-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
                 </tr>
                 <tr>
                     <td>Cloud Linux</td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
                 </tr>
                 <tr>
                     <td>Website Builder</td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle check"></i></td>
-                    <td><i class="fas fa-times-circle check"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
                 </tr>
                 <tr>
                     <td>No Ads</td>
-                    <td><i class="fas fa-check-circle check"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
-                    <td><i class="fas fa-times-circle cross"></i></td>
+                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td><i class="fa-solid fa-xmark cross"></i></td>
                 </tr>
             </tbody>
         </table>

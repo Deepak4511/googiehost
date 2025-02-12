@@ -1,6 +1,6 @@
 <!-- header start  -->
-<?php 
-$page ='free-mysql-hosting';
+<?php
+$page = 'free-mysql-hosting';
 include 'inc/header.php'; ?>
 <!-- header end -->
 
@@ -44,7 +44,7 @@ include 'inc/header.php'; ?>
 <div class="container">
     <div class="banner d-flex align-items-center justify-content-between  rounded">
         <div class="row w-100 align-items-center">
-            <div class="d-flex align-items-center col-md-8">
+            <div class="d-flex align-items-center col-md-9">
                 <span class="heart">&#129293;</span>
                 <div>
                     <h2 class="text-white mb-2 ">
@@ -54,7 +54,7 @@ include 'inc/header.php'; ?>
                     </p>
                 </div>
             </div>
-            <div class="col-md-4 text-md-right text-center mt-3 mt-md-0">
+            <div class="col-md-3 text-md-right text-center mt-3 mt-md-0">
                 <a href="signup.php" class="btn ">Get MySQL Hosting <i class="fa-solid fa-angle-right"></i></a>
             </div>
         </div>
@@ -72,8 +72,8 @@ include 'inc/header.php'; ?>
         <div class="row g-4 mt-4">
             <!-- Feature 1 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class="mx-auto">
                         <img src="depends/phpmyadmin2.png" alt="phpMyAdmin">
                         <h5 class="card-title">phpMyAdmin</h5>
                     </div>
@@ -87,8 +87,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 2 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class="mx-auto">
                         <img src="depends/04.png" alt="ssl">
                         <h5 class="card-title">Free Sub-Domain</h5>
                     </div>
@@ -102,8 +102,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 3 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class="mx-auto">
                         <img src="depends/ssl1.png" alt="certificates">
                         <h5 class="card-title">Free SSL certificates</h5>
                     </div>
@@ -117,8 +117,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 4 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class="mx-auto">
                         <img src="depends/02.png" alt="Free Builder">
                         <h5 class="card-title">Free Site.pro Builder</h5>
                     </div>
@@ -131,8 +131,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 5 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class="mx-auto">
                         <img src="depends/03.png" alt="control panel">
                         <h5 class="card-title">Direct Admin control panel</h5>
                     </div>
@@ -146,8 +146,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 6 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class="mx-auto">
                         <img src="depends/06.png" alt="Support">
                         <h5 class="card-title">24/7 Support</h5>
                     </div>
@@ -165,7 +165,7 @@ include 'inc/header.php'; ?>
 <div class="container">
     <div class="banner d-flex align-items-center justify-content-between  rounded">
         <div class="row w-100 align-items-center">
-            <div class="d-flex align-items-center col-md-8">
+            <div class="d-flex align-items-center col-md-9">
                 <span class="heart">&#129293;</span>
                 <div>
                     <h2 class="text-white mb-2 ">
@@ -175,7 +175,7 @@ include 'inc/header.php'; ?>
                     </p>
                 </div>
             </div>
-            <div class="col-md-4 text-md-right text-center mt-3 mt-md-0">
+            <div class="col-md-3 text-md-right text-center mt-3 mt-md-0">
                 <a href="signup.php" class="btn ">Free MySQL Hosting<i class="fa-solid fa-angle-right"></i></a>
             </div>
         </div>
@@ -198,7 +198,7 @@ include 'inc/header.php'; ?>
                         Easily explore the databases and get the best guide for SQL queries. Some of them are employed functions and operators.
                     </p>
                     <div class="text-left  mt-5">
-                        <a href="signup.php" class="button_orange p-4 col-12 col-lg-6  rounded-0">Host Your MySQL Site! <i class="fa-solid fa-angle-right"></i></a>
+                        <a href="signup.php" class="button_orange p-3 col-12 col-lg-6  rounded-0">Host Your MySQL Site! <i class="fa-solid fa-angle-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -220,7 +220,7 @@ include 'inc/header.php'; ?>
                     </p>
                     <p>With the most advanced features, the management became so easy, and the tools help you reach the best levels of MySQL security reliability and excellent Uptime.</p>
                     <div class="text-left  mt-5">
-                        <a href="signup.php" class="button_orange p-4 col-12 col-lg-6  rounded-0">Host Your MySQL Site! <i class="fa-solid fa-angle-right"></i></a>
+                        <a href="signup.php" class="button_orange p-3 col-12 col-lg-6  rounded-0">Host Your MySQL Site! <i class="fa-solid fa-angle-right"></i></a>
                     </div>
                 </div>
             </div>

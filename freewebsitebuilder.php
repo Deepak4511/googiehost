@@ -1,6 +1,6 @@
 <!-- header start  -->
-<?php 
-$page ='freewebsitebuilder';
+<?php
+$page = 'freewebsitebuilder';
 include 'inc/header.php'; ?>
 <!-- header end -->
 
@@ -42,7 +42,7 @@ include 'inc/header.php'; ?>
 <div class="container">
     <div class="banner d-flex align-items-center justify-content-between  rounded">
         <div class="row w-100 align-items-center">
-            <div class="d-flex align-items-center col-md-8">
+            <div class="d-flex align-items-center col-md-9">
                 <span class="heart">&#129293;</span>
                 <div>
 
@@ -51,7 +51,7 @@ include 'inc/header.php'; ?>
                     </p>
                 </div>
             </div>
-            <div class="col-md-4 text-md-right text-center mt-3 mt-md-0">
+            <div class="col-md-3 text-md-right text-center mt-3 mt-md-0">
                 <a href="signup.php" class="btn ">Signup Now <i class="fa-solid fa-angle-right"></i></a>
             </div>
         </div>
@@ -65,12 +65,12 @@ include 'inc/header.php'; ?>
     <p class="text-center pb-5">You will get nearly 70% rise with the completely free website templates for your site. Scroll through 500+ astonishing Free Website Templates and drive high traffic.</p>
 </div>
 
-<div class="grow-free">
+<div class="features">
     <div class="container">
         <div class="row grow-free-block g-3">
             <div class="col-12 col-md-6 col-lg-3">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto ">
+                <div class=" text-center">
+                    <div class=" mx-auto ">
                         <img src="depends/easy-to-use.svg" alt="easy-to-use">
                         <h5 class="card-title">Easy to Use</h5>
                     </div>
@@ -83,8 +83,8 @@ include 'inc/header.php'; ?>
             </div>
 
             <div class="col-12 col-md-6 col-lg-3">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto ">
+                <div class=" text-center">
+                    <div class=" mx-auto ">
                         <img src="depends/onne-click.svg" alt="one click">
                         <h5 class="card-title">One-Click Publish</h5>
                     </div>
@@ -97,8 +97,8 @@ include 'inc/header.php'; ?>
             </div>
 
             <div class="col-12 col-md-6 col-lg-3">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto ">
+                <div class=" text-center">
+                    <div class=" mx-auto ">
                         <img src="depends/sitepad.svg" alt="sitepad">
                         <h5 class="card-title">SitePad Awesome Widgets</h5>
                     </div>
@@ -111,8 +111,8 @@ include 'inc/header.php'; ?>
             </div>
 
             <div class=" col-12 col-md-6 col-lg-3">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto ">
+                <div class=" text-center">
+                    <div class=" mx-auto ">
                         <img src="depends/theme.svg" alt="theme">
                         <h5 class="card-title">500+ Professional Themes</h5>
                     </div>
@@ -131,7 +131,7 @@ include 'inc/header.php'; ?>
 <div class="container">
     <div class="banner d-flex align-items-center justify-content-between  rounded">
         <div class="row w-100 align-items-center">
-            <div class="d-flex align-items-center col-md-8">
+            <div class="d-flex align-items-center col-md-9">
                 <span class="heart">&#129293;</span>
                 <div>
 
@@ -140,7 +140,7 @@ include 'inc/header.php'; ?>
                     </p>
                 </div>
             </div>
-            <div class="col-md-4 text-md-right text-center mt-3 mt-md-0">
+            <div class="col-md-3 text-md-right text-center mt-3 mt-md-0">
                 <a href="signup.php" class="btn ">Signup Now <i class="fa-solid fa-angle-right"></i></a>
             </div>
         </div>
@@ -158,8 +158,8 @@ include 'inc/header.php'; ?>
         <div class="row g-4 mt-4">
             <!-- Feature 1 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/builder-icons/drag.png" alt="drag">
                         <h5 class="card-title">Drag and drop to build</h5>
                     </div>
@@ -173,8 +173,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 2 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/builder-icons/ssl.png" alt="ssl">
                         <h5 class="card-title">Free SSL certificates</h5>
                     </div>
@@ -188,8 +188,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 3 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/builder-icons/mobile.png" alt="mobile">
                         <h5 class="card-title">Mobile-Friendly Interface</h5>
                     </div>
@@ -203,8 +203,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 4 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/builder-icons/unlimited.png" alt="unlimited">
                         <h5 class="card-title">Unlimited Template</h5>
                     </div>
@@ -217,8 +217,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 5 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/builder-icons/ready.png" alt="ready">
                         <h5 class="card-title">Ready For Ecommerce Store</h5>
                     </div>
@@ -232,8 +232,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 6 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/builder-icons/map.png" alt="map">
                         <h5 class="card-title">Google Map Integration</h5>
                     </div>

@@ -1,6 +1,6 @@
 <!-- header start  -->
-<?php 
-$page ='free-hosting-for-ngo';
+<?php
+$page = 'free-hosting-for-ngo';
 include 'inc/header.php'; ?>
 <!-- header end -->
 
@@ -44,7 +44,7 @@ include 'inc/header.php'; ?>
 <div class="container">
     <div class="banner d-flex align-items-center justify-content-between  rounded">
         <div class="row w-100 align-items-center">
-            <div class="d-flex align-items-center col-md-8">
+            <div class="d-flex align-items-center col-md-9">
                 <span class="heart">&#129293;</span>
                 <div>
                     <h2 class="text-white mb-2 ">
@@ -55,7 +55,7 @@ include 'inc/header.php'; ?>
                     </p>
                 </div>
             </div>
-            <div class="col-md-4 text-md-right text-center mt-3 mt-md-0">
+            <div class="col-md-3 text-md-right text-center mt-3 mt-md-0">
                 <a href="signup.php" class="btn ">GET FREE HOSTING <i class="fa-solid fa-angle-right"></i></a>
             </div>
         </div>
@@ -75,8 +75,8 @@ include 'inc/header.php'; ?>
         <div class="row g-4 mt-4">
             <!-- Feature 1 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/01.png" alt="web hosting">
                         <h5 class="card-title">Free Web Hosting</h5>
                     </div>
@@ -90,8 +90,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 2 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/04.png" alt="Free Sub-Domain">
                         <h5 class="card-title">Free Sub-Domain</h5>
                     </div>
@@ -105,8 +105,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 3 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/ssl1.png" alt="ssl1">
                         <h5 class="card-title">Free SSL certificates</h5>
                     </div>
@@ -120,8 +120,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 4 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/02.png" alt="Site.pro">
                         <h5 class="card-title">Free Site.pro Builder</h5>
                     </div>
@@ -134,8 +134,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 5 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/03.png" alt="Direct Admin">
                         <h5 class="card-title">Direct Admin control panel</h5>
                     </div>
@@ -149,8 +149,8 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 6 -->
             <div class="col-md-6 col-lg-4">
-                <div class="card feature-card text-center">
-                    <div class="feature-icon mx-auto">
+                <div class=" text-center">
+                    <div class=" mx-auto">
                         <img src="depends/06.png" alt="24/7 Support">
                         <h5 class="card-title">24/7 Support</h5>
                     </div>
@@ -170,7 +170,7 @@ include 'inc/header.php'; ?>
 <div class="container">
     <div class="banner d-flex align-items-center justify-content-between  rounded">
         <div class="row w-100 align-items-center">
-            <div class="d-flex align-items-center col-md-8">
+            <div class="d-flex align-items-center col-md-9">
                 <span class="heart">&#129293;</span>
                 <div>
                     <h2 class="text-white mb-2 ">
@@ -181,7 +181,7 @@ include 'inc/header.php'; ?>
                     </p>
                 </div>
             </div>
-            <div class="col-md-4 text-md-right text-center mt-3 mt-md-0">
+            <div class="col-md-3 text-md-right text-center mt-3 mt-md-0">
                 <a href="signup.php" class="btn ">Get Free Hosting<i class="fa-solid fa-angle-right"></i></a>
             </div>
         </div>
@@ -205,7 +205,7 @@ include 'inc/header.php'; ?>
                         With Free NGO Hosting Service, you can educate the backward and rural areas, not only from India but from all around the world.</p>
                     <p>Step Up towards bettering the human mind, we hope that everyone out there gets the opportunity to build and grow.</p>
                     <div class="text-center  mt-5">
-                        <a href="signup.php" class="button_orange p-4 col-12 col-lg-6  rounded-0">Design Your FREE Website Now! <i class="fa-solid fa-angle-right"></i></a>
+                        <a href="signup.php" class="button_orange p-3 col-12 col-lg-6  rounded-0">Design Your FREE Website Now! <i class="fa-solid fa-angle-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -231,7 +231,7 @@ include 'inc/header.php'; ?>
                         </strong> for your website. All you will have to do is provide the content that you want to appear on your website.</p>
                     <p><em>Like we mentioned, </em> YOU CREATE, WE PROVIDE!</p>
                     <div class="text-center  mt-5">
-                        <a href="signup.php" class="button_orange p-4 col-12 col-lg-6  rounded-0">Design Your FREE Website Now! <i class="fa-solid fa-angle-right"></i></a>
+                        <a href="signup.php" class="button_orange p-3 col-12 col-lg-6  rounded-0">Design Your FREE Website Now! <i class="fa-solid fa-angle-right"></i></a>
                     </div>
                 </div>
             </div>

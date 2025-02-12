@@ -20,9 +20,12 @@ if (!isset($page)) {
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
     <script src="https://kit.fontawesome.com/97ebc2bc67.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <title>Header</title>
-    <link href="assets/css/stylesheet.css" rel="stylesheet" />
+    <link href="/googiehost/assets/css/stylesheet.css" rel="stylesheet" />
 </head>
 
 <body>
@@ -35,8 +38,8 @@ if (!isset($page)) {
     <header class="header p-2">
         <nav class="navbar navbar-expand-lg navbar-dark">
             <div class="container ps-0 pe-0">
-                <a class="navbar-brand header-logo" href="/googiehost/googiehost/index.php">
-                    <img src="/googiehost/googiehost/depends/logo.png" alt="Googiehost" width="250">
+                <a class="navbar-brand header-logo" href="/googiehost/index.php">
+                    <img src="/googiehost/depends/logo.png" alt="Googiehost" width="250">
                 </a>
                 <!-- Offcanvas Trigger Button -->
                 <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#navbarOffcanvas"
@@ -53,11 +56,11 @@ if (!isset($page)) {
                     <div class="offcanvas-body">
                         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                             <li class="nav-item">
-                                <a class="nav-link text-white" href="freehosting.php">Free Hosting</a>
+                                <a class="nav-link text-white" href="/googiehost/freehosting.php">Free Hosting</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link text-white"
-                                    href="web-hosting-sale-coupons.php">Paid
+                                    href="/googiehost/web-hosting-sale-coupons.php">Paid
                                     Hosting <span class="badge">Save 90%*</span></a>
                             </li>
 
@@ -66,8 +69,8 @@ if (!isset($page)) {
                                     Servers <i class="fa-solid fa-angle-down  dropdown-icon"></i>
                                 </a>
                                 <div class="dropdown-menu rounded" aria-labelledby="serversDropdown" id="serversDropdown">
-                                    <a class="dropdown-item text-white" href="cheap-vps-hosting.php">VPS Hosting</a>
-                                    <a class="dropdown-item text-white" href="#">Dedicated Servers</a>
+                                    <a class="dropdown-item text-white" href="/googiehost/cheap-vps-hosting.php">VPS Hosting</a>
+                                    <a class="dropdown-item text-white" href="/googiehost/cheap-dedicated-server.php">Dedicated Servers</a>
                                 </div>
                             </li>
 
@@ -129,7 +132,7 @@ if (!isset($page)) {
                                     <a class="dropdown-item text-white"
                                         href="https://client.googiehost.com/clientarea.php">Account
                                         Login</a>
-                                    <a class="dropdown-item text-white mb-0" href="signup.php">Create
+                                    <a class="dropdown-item text-white mb-0" href="/googiehost/signup.php">Create
                                         Account</a>
                                 </div>
                             </li>
@@ -145,7 +148,7 @@ if (!isset($page)) {
     <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-    <script src="/googiehost/googiehost/assets/js/script.js"></script>
+    <script src="/googiehost/assets/js/script.js"></script>
     <script>
         AOS.init();
     </script>

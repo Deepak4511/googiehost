@@ -1,6 +1,6 @@
 <!-- header start  -->
-<?php 
-$page ='support';
+<?php
+$page = 'support';
 include 'inc/header.php'; ?>
 <!-- header end -->
 
@@ -15,7 +15,7 @@ include 'inc/header.php'; ?>
                         Account Management </div>
                     <div class="card-body">
                         <ul class="list-group">
-                            <li class="list-group-item  rounded-0"><a href="/googiehost/googiehost/support/free-hosting-account-not-yet-activated.php" class="text-decoration-none">Why is my Free Hosting account not yet activated?</a></li>
+                            <li class="list-group-item  rounded-0"><a href="/googiehost/support/free-hosting-account-not-yet-activated.php" class="text-decoration-none">Why is my Free Hosting account not yet activated?</a></li>
                             <li class="list-group-item "><a href="#" class="text-decoration-none">My account was suspended / terminated for no reason!</a></li>
                             <li class="list-group-item "><a href="#" class="text-decoration-none">How to Upgrade Free Hosting to Premium Hosting?</a></li>
                             <li class="list-group-item "><a href="#" class="text-decoration-none">How to delete a Googiehost hosting account?</a></li>
