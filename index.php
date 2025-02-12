@@ -21,12 +21,12 @@ include 'inc/header.php'; ?>
                     </span>No Credit Card required
                 </div>
             </div>
-            <div class="hero-image-section col-md-6">
+            <div class="hero-image-section col-md-6 text-center">
                 <img src="img/GoogiehostHeroImage.png" alt="GoogiehostHeroImage" class="img-fluid">
             </div>
         </div>
     </div>
-    <div class="inner container" style="padding-top: 0 !important;">
+    <div class="inner container " style="padding-top: 0 !important;">
         <img loading="lazy" alt="featured on logos" class="img-fluid" data-cfsrc="depends/featured-logos2.png" src="depends/featured-logos2.png">
     </div>
 </div>
@@ -61,7 +61,7 @@ include 'inc/header.php'; ?>
 
     <div class="container py-5 ">
         <h2 class="text-center">WEB HOSTING TO BOOST YOUR BUSINESS PRESENCE</h2>
-        <p class="w-75 text-center mx-auto p-3">
+        <p class=" text-center mx-auto p-3">
             Googiehost gives you most useful <strong>Web Hosting features</strong> that can help you to build your business or personal website with just few easy clicks. Get your business on Google, Yahoo & Bing today.
         </p>
 
@@ -181,7 +181,7 @@ include 'inc/header.php'; ?>
 
 <!-- comparision table -->
 <div class="container my-5 comparison-table">
-    <h2 class="text-center ">Why GoogieHost Is The Best Free Hosting <br> Provider Over The Internet</h2>
+    <h2 class="text-center ">Why GoogieHost Is The Best Free Hosting Provider Over The Internet</h2>
 
     <div class="text-center my-3">
         <span class="best-free-hosting">Best Free Hosting</span>
@@ -282,8 +282,8 @@ include 'inc/header.php'; ?>
             <div class="card-header text-center">
                 <h6> Learn How To Create A Free Website With GoogieHost</h6>
             </div>
-            <div class="">
-                <p class="intro ps-5 pe-5">
+            <div class="pb-3">
+                <p class="intro px-3">
                     Follow the steps given below to create a free website. <a href="freehosting.html">GoogieHost offers free hosting </a>to all of its users with no forced advertisements.
                 </p>
                 <ol class="list styled large mt-5">
@@ -297,9 +297,9 @@ include 'inc/header.php'; ?>
                         Publish your website and make it visible to the world wide web in the blink of an eye.
                     </li>
                 </ol>
-                <div class="d-flex justify-content-between mt-5">
+                <div class=" mt-5 grp-btn">
                     <a href="#">
-                        SIGN UP FOR FREE <i class="fa-solid fa-angle-right"></i>
+                        SIGN UP FOR FREE <i class="fa-solid fa-angle-right me-2"></i>
                     </a>
                     <a href="#">
                         HOW TO CREATE A BLOG <i class="fa-solid fa-angle-right"></i>
