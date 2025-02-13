@@ -2,6 +2,7 @@
 <?php
 $page = 'freephphosting';
 include 'inc/header.php'; ?>
+<script src="https://cdn.tailwindcss.com"></script>
 <!-- header end -->
 
 <!-- hero section  -->
@@ -172,65 +173,60 @@ include 'inc/header.php'; ?>
 
 
 <!-- Why PHP Hosting  -->
-<div class="container-fluid p-0 ">
-    <h2 class="mb-4 text-center fw-bold">Why PHP Hosting →</h2>
-    <p class="w-75 mx-auto mb-4 text-center">When you can Host Your PHP Site for FREE why wasting money on Premium Hosting Service. Take a Look at the Special Features For Your PHP Site</p>
+<section class="text-center py-10">
+    <h2 class="text-3xl fw-bold mb-2">Why PHP Hosting →</h2>
+    <p class="text-gray-300 text-dark">When you can Host Your PHP Site for FREE why wasting money on Premium Hosting Service. Take a Look at the Special Features For Your PHP Site</p>
+</section>
 
-</div>
-
-<div class="grow-free">
-    <div class="container">
-        <div class="row grow-free-block">
-            <div class="col-lg-6 img-container" data-aos="zoom-in" data-aos-duration="1200">
-                <img src="depends/wordpress-icons/infinite.png" alt="infinite" class="img-fluid animated-img" width="260px">
+<div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8 max-w-6xl mx-auto text-center">
+    <!-- Flip Card 1 -->
+    <div class="flip-card">
+        <div class="flip-card-inner ">
+            <div class="flip-card-front p-6">
+                <img src="depends/wordpress-icons/infinite.png" class="w-12 mb-4">
+                <h3 class="font-semibold"> Supports MySQL 8.0</h3>
             </div>
-            <div class="col-lg-6 text-container" data-aos="fade-up" data-aos-duration="1400">
-                <h2 class="text-white animated-text">
-                    Supports MySQL 8.0
-                </h2>
-                <p class="text-white animated-text">
-                    Best security and account management with Free PHP Hosting. Atomic data definition statements. Feel the best performance tuning with legit security optimizations. Avail now to Feel the speed.
-                </p>
+            <div class="flip-card-back p-6">
+                <p class="text-gray-300 text-sm">Best security and account management with Free PHP Hosting. Atomic data definition statements. Feel the best performance tuning with legit security optimizations. Avail now to Feel the speed.</p>
             </div>
         </div>
+    </div>
 
-        <div class="row grow-free-block">
-            <div class="col-lg-6 text-container" data-aos="fade-up" data-aos-duration="1400">
-                <h2 class="text-white animated-text">
-                    PHP Version: 8, 7, 6, 5.6 </h2>
-                <p class="text-white animated-text">
-                    Get the best optimizations of PHP 8 with GoogieHost’s Free PHP Hosting and lesser the errors faster the response rate. With the best efficiency performance enhancer available for you.
-                </p>
+    <!-- Flip Card 2 -->
+    <div class="flip-card">
+        <div class="flip-card-inner">
+            <div class="flip-card-front p-6">
+                <img src="depends/wordpress-icons/unlimited.png" class="w-12 mb-4">
+                <h3 class="font-semibold">PHP Version: 8, 7, 6, 5.6</h3>
             </div>
-            <div class="col-lg-6 img-container text-end " data-aos="zoom-in" data-aos-duration="1200">
-                <img src="depends/wordpress-icons/unlimited.png" alt="infinite" class="img-fluid animated-img" width="260px">
-            </div>
-
-        </div>
-        <div class="row grow-free-block" data-aos="fade-right">
-            <div class="col-lg-6 img-container" data-aos="zoom-in" data-aos-duration="1200">
-                <img src="depends/wordpress-icons/turn.png" alt="infinite" class="img-fluid animated-img" width="260px">
-            </div>
-            <div class="col-lg-6 text-container" data-aos="fade-up" data-aos-duration="1400">
-                <h2 class=" text-white animated-text">
-                    Cloudflare CDN
-                </h2>
-                <p class="text-white animated-text">
-                    You will get a Blazing fast performance no matter from where you will request with the Free CDN from Cloudflare. Grab the Free PHP Hosting Now and get the best hosting service.
-                </p>
+            <div class="flip-card-back p-6">
+                <p class="text-gray-300 text-sm">Get the best optimizations of PHP 8 with GoogieHost’s Free PHP Hosting and lesser the errors faster the response rate. With the best efficiency performance enhancer available for you.</p>
             </div>
         </div>
-        <div class="row grow-free-block" data-aos="fade-right">
-            <div class="col-lg-6 text-container" data-aos="fade-up" data-aos-duration="1400">
-                <h2 class="text-white animated-text">
-                    Immense Hosting Experience
-                </h2>
-                <p class="text-white animated-text">
-                    All the plugins and special features will give you a flawless hosting experience and your PHP site will become slowly start to rank better on search engines. Just grab the Best PHP Hosting for your Website.
-                </p>
+    </div>
+
+    <!-- Flip Card 3 -->
+    <div class="flip-card">
+        <div class="flip-card-inner">
+            <div class="flip-card-front p-6">
+                <img src="depends/wordpress-icons/turn.png" class="w-12 mb-4">
+                <h3 class="font-semibold">Turn Your Site Into Store</h3>
             </div>
-            <div class="col-lg-6 img-container text-end" data-aos="zoom-in" data-aos-duration="1200">
-                <img src="depends/wordpress-icons/rank.png" alt="infinite" class="img-fluid animated-img" width="260px">
+            <div class="flip-card-back p-6">
+                <p class="text-gray-300 text-sm">It’s time for you to turn your normal site into an online store. The WordPress Themes and WordPress Plugins will help you convert your simple site into an Online Store. All with Free WordPress Hosting.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Flip Card 4 -->
+    <div class="flip-card">
+        <div class="flip-card-inner">
+            <div class="flip-card-front p-6">
+                <img src="depends/wordpress-icons/rank.png" class="w-12 mb-4">
+                <h3 class="font-semibold">Cloudflare CDN</h3>
+            </div>
+            <div class="flip-card-back p-6">
+                <p class="text-gray-300 text-sm">You will get a Blazing fast performance no matter from where you will request with the Free CDN from Cloudflare. Grab the Free PHP Hosting Now and get the best hosting service.</p>
             </div>
         </div>
     </div>
@@ -238,10 +234,7 @@ include 'inc/header.php'; ?>
 
 <!-- Grow Without Resistance -->
 
-<!-- block-single section  -->
-<?php include 'inc/single-features.php' ?>
 
-<!-- / block-single section  -->
 
 <!-- faq section  -->
 <div class="container mt-5 faq mb-5">
@@ -320,7 +313,10 @@ include 'inc/header.php'; ?>
     </div>
 </div>
 <!-- /faq section  -->
+<!-- block-single section  -->
+<?php include 'inc/single-features.php' ?>
 
+<!-- / block-single section  -->
 <!-- Footer start  -->
 <?php include 'inc/footer.php' ?>
 <!-- Footer end -->
