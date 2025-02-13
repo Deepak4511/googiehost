@@ -1621,6 +1621,7 @@ header .nav-item .dropdown-item {
   border-top: 4px solid #6c45c6;
   border-radius: 3px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
   background-color: var(--white);
 }
 
