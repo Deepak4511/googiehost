@@ -239,7 +239,7 @@ include 'inc/header.php'; ?>
 <!-- faq section  -->
 <div class="container mt-5 faq mb-5">
     <h2 class="text-center mb-5 fw-bold">Frequently Asked Questions</h2>
-    <div class="accordion shadow p-5 bg-white" id="accordionExample">
+    <div class="accordion shadow p-md-5 bg-white" id="accordionExample">
         <!-- Section 1 -->
         <div class="accordion-item ">
             <h2 class="accordion-header " id="headingOne">

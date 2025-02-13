@@ -60,7 +60,7 @@ include 'inc/header.php'; ?>
 
 <div class="container mt-5 faq mb-5">
     <h2 class="text-center mb-5 fw-bold ">Frequently Asked Questions</h2>
-    <div class="accordion shadow bg-white p-5" id="accordionExample">
+    <div class="accordion shadow bg-white p-md-5" id="accordionExample">
         <!-- Section 1 -->
         <div class="accordion-item ">
             <h2 class="accordion-header " id="headingOne">

@@ -543,6 +543,42 @@ header .nav-item .dropdown-item {
     margin-bottom: 26px;
     font-size: 18px;
   }
+
+
+
+  .footer .footer-copy {
+    width: 100% !important;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 15px;
+  }
+
+.list.styled.large li span {
+  font-size: 20px !important;
+}
+
+
+  .list.styled.large li span {
+    font-size: 20px;
+  }
+
+.hero-section .hero-left-section p {
+  margin-bottom: 26px;
+  font-size: 18px;
+}
+.stat-card {
+  padding: 8px;
+}
+.stat-value h3 {
+  font-size: 16px !important;
+  padding: 10px 8px !important;
+}
+.stat-text {
+  font-size: 14px !important;
+}
+
 }
 
 /* Ensures elements stay aligned on larger screens */
@@ -551,6 +587,13 @@ header .nav-item .dropdown-item {
     display: flex;
     align-items: center;
   }
+
+  .pricing-header {
+    font-size: 24px;
+}
+.pricing-subheader {
+  font-size: 20px;
+}
 }
 
 
@@ -924,6 +967,10 @@ header .nav-item .dropdown-item {
   padding: 50px 0;
 }
 
+.free-button{
+  font-size: 1.2rem;
+}
+
 .pricing-section h2 {
   font-size: 45px;
 }
@@ -977,20 +1024,15 @@ header .nav-item .dropdown-item {
   align-items: center;
 }
 
-.feature-list li i {
-  color: green;
-  font-weight: bold;
-  margin-right: 10px;
+
+.pro-pricing-card{
+  background: linear-gradient(180deg, rgba(166, 106, 255, 0.2) 0%, #FFFFFF 100%);
 }
 
-.row>.col-md-4:nth-child(2) .pricing-card {
-  background: linear-gradient(180deg, rgba(166, 106, 255, 0.2) 0%, var(--white) 100%);
-}
-
-.row>.col-md-4:nth-child(2) .pricing-button {
-  background-color: var(--secondary);
-  border-color: var(--secondary);
-  color: var(--white);
+.pricing-button {
+  background-color: #2B0075;
+  border-color: #2B0075;
+  color: #ffffff;
 }
 
 .pricing-card:nth-child(1) .pricing-button:hover {
@@ -1442,6 +1484,7 @@ header .nav-item .dropdown-item {
 }
 
 
+
 .social-links a:hover {
   transform: translateY(-3px);
 }
@@ -1493,7 +1536,6 @@ header .nav-item .dropdown-item {
   color: #fff;
   margin-bottom: 28px;
 }
-
 
 .footer .col-lg-9 .footer-title:after {
   content: "";
@@ -2003,7 +2045,4 @@ textarea {
   transform: scale(1.03);
 }
 
-/* .nav-pills .notice-btn.active, .nav-pills .show>.notice-btn {
-  color: var(--black);
-  background-color: var(--white);
-} */
+

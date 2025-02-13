@@ -39,7 +39,7 @@ include 'inc/header.php'; ?>
 <!-- plan section  -->
 <div class="container pricing-section ">
     <h2 class="mb-4 text-center fw-bold">Choose Your Web Hosting Plan</h2>
-    <p class="w-75 mx-auto mb-5 text-center">GoogieHost offers best free hosting with added features to help you reach new heights. Get free website migration when switching to a premium hosting provider.</p>
+    <p class=" mx-auto mb-5 text-center">GoogieHost offers best free hosting with added features to help you reach new heights. Get free website migration when switching to a premium hosting provider.</p>
     <!-- hosting plan  -->
     <?php include 'inc/hosting-plan.php' ?>
     <!-- hosting plan  -->
@@ -301,7 +301,7 @@ include 'inc/header.php'; ?>
 <!-- faq section  -->
 <div class="container mt-5 faq mb-5">
     <h2 class="text-center mb-5 fw-bold">Free Hosting FAQ</h2>
-    <div class="accordion shadow bg-white p-5" id="accordionExample">
+    <div class="accordion shadow bg-white p-md-5" id="accordionExample">
         <!-- Section 1 -->
         <div class="accordion-item ">
             <h2 class="accordion-header " id="headingOne">
