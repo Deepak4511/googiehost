@@ -2,7 +2,6 @@
 <?php
 $page = 'freephphosting';
 include 'inc/header.php'; ?>
-<script src="https://cdn.tailwindcss.com"></script>
 <!-- header end -->
 
 <!-- hero section  -->
@@ -178,55 +177,82 @@ include 'inc/header.php'; ?>
     <p class="text-gray-300 text-dark">When you can Host Your PHP Site for FREE why wasting money on Premium Hosting Service. Take a Look at the Special Features For Your PHP Site</p>
 </section>
 
-<div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8 max-w-6xl mx-auto text-center">
-    <!-- Flip Card 1 -->
-    <div class="flip-card">
-        <div class="flip-card-inner ">
-            <div class="flip-card-front p-6">
-                <img src="depends/wordpress-icons/infinite.png" class="w-12 mb-4">
-                <h3 class="font-semibold"> Supports MySQL 8.0</h3>
-            </div>
-            <div class="flip-card-back p-6">
-                <p class="text-gray-300 text-sm">Best security and account management with Free PHP Hosting. Atomic data definition statements. Feel the best performance tuning with legit security optimizations. Avail now to Feel the speed.</p>
-            </div>
-        </div>
-    </div>
-
-    <!-- Flip Card 2 -->
-    <div class="flip-card">
-        <div class="flip-card-inner">
-            <div class="flip-card-front p-6">
-                <img src="depends/wordpress-icons/unlimited.png" class="w-12 mb-4">
-                <h3 class="font-semibold">PHP Version: 8, 7, 6, 5.6</h3>
-            </div>
-            <div class="flip-card-back p-6">
-                <p class="text-gray-300 text-sm">Get the best optimizations of PHP 8 with GoogieHost’s Free PHP Hosting and lesser the errors faster the response rate. With the best efficiency performance enhancer available for you.</p>
+<div class="container ">
+    <div class="row g-4">
+        <!-- Flip Card 1 -->
+        <div class="col-md-6 col-lg-3">
+            <div class="flip-card">
+                <div class="flip-card-inner ">
+                    <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
+                        <img src="depends/wordpress-icons/infinite.png" class="w-25 mb-3">
+                        <h5 class="fw-bold"> Supports MySQL 8.0</h5>
+                    </div>
+                    <div class="flip-card-back d-flex align-items-center justify-content-center">
+                        <p>Best security and account management with Free PHP Hosting.
+                            Atomic
+                            data definition statements. Feel the best performance tuning with legit security
+                            optimizations.
+                            Avail now to Feel the speed.</p>
+                    </div>
+                </div>
             </div>
         </div>
-    </div>
 
-    <!-- Flip Card 3 -->
-    <div class="flip-card">
-        <div class="flip-card-inner">
-            <div class="flip-card-front p-6">
-                <img src="depends/wordpress-icons/turn.png" class="w-12 mb-4">
-                <h3 class="font-semibold">Turn Your Site Into Store</h3>
-            </div>
-            <div class="flip-card-back p-6">
-                <p class="text-gray-300 text-sm">It’s time for you to turn your normal site into an online store. The WordPress Themes and WordPress Plugins will help you convert your simple site into an Online Store. All with Free WordPress Hosting.</p>
+
+        <!-- Flip Card 2 -->
+        <div class="col-md-6 col-lg-3">
+            <div class="flip-card">
+                <div class="flip-card-inner">
+                    <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
+                        <img src="depends/wordpress-icons/unlimited.png" class="w-25 mb-3">
+                        <h5 class="fw-bold">PHP Version: 8, 7, 6, 5.6</h5>
+                    </div>
+                    <div class="flip-card-back d-flex align-items-center justify-content-center">
+                        <p>Get the best optimizations of PHP 8 with GoogieHost’s Free PHP
+                            Hosting and lesser the errors faster the response rate. With the best efficiency performance
+                            enhancer available for you.</p>
+                    </div>
+                </div>
             </div>
         </div>
-    </div>
 
-    <!-- Flip Card 4 -->
-    <div class="flip-card">
-        <div class="flip-card-inner">
-            <div class="flip-card-front p-6">
-                <img src="depends/wordpress-icons/rank.png" class="w-12 mb-4">
-                <h3 class="font-semibold">Cloudflare CDN</h3>
+
+        <!-- Flip Card 3 -->
+        <div class="col-md-6 col-lg-3">
+            <div class="flip-card">
+                <div class="flip-card-inner">
+                    <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
+                        <img src="depends/wordpress-icons/turn.png" class="w-25 mb-3">
+                        <h5 class="fw-bold">Turn Your Site Into Store</h5>
+                    </div>
+                    <div class="flip-card-back d-flex align-items-center justify-content-center">
+                        <p>It’s time for you to turn your normal site into an online
+                            store.
+                            The WordPress Themes and WordPress Plugins will help you convert your simple site into an
+                            Online
+                            Store. All with Free WordPress Hosting.</p>
+                    </div>
+                </div>
             </div>
-            <div class="flip-card-back p-6">
-                <p class="text-gray-300 text-sm">You will get a Blazing fast performance no matter from where you will request with the Free CDN from Cloudflare. Grab the Free PHP Hosting Now and get the best hosting service.</p>
+        </div>
+
+
+        <!-- Flip Card 4 -->
+        <div class="col-md-6 col-lg-3">
+            <div class="flip-card">
+                <div class="flip-card-inner">
+                    <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
+                        <img src="depends/wordpress-icons/rank.png" class="w-25 mb-3">
+                        <h5 class="fw-bold">Cloudflare CDN</h5>
+                    </div>
+                    <div class="flip-card-back d-flex align-items-center justify-content-center">
+                        <p>You will get a Blazing fast performance no matter from where
+                            you
+                            will request with the Free CDN from Cloudflare. Grab the Free PHP Hosting Now and get the
+                            best
+                            hosting service.</p>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
