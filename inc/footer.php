@@ -5,7 +5,7 @@
                 <div class="col-12 col-lg-3">
                     <div class="widget ">
                         <h3 class="footer-title text-white">
-                            <img src="/googiehost/depends/logo.png" alt="footer-logo" width="200px">
+                            <img src="https://googiehost.com/blog/wp-content/uploads/2025/02/ghblog-logo-white-300x60.png" alt="footer-logo" width="200px">
                         </h3>
                         <div class="textwidget">
                             <div class="list text-white ">
@@ -15,13 +15,13 @@
                             </div>
                             <div class="social-links">
                                 <a title="Facebook" class="facebook" href="https://www.facebook.com/GoogieHost"
-                                    rel="nofollow"> <i class="fab fa-facebook-f"></i></a>
+                                    rel="nofollow"> <img src="https://googiehost.com/blog/wp-content/themes/googiehost-blog/assets/img/facebook.svg" alt=""></a>
                                 <a title="Instagram" class="instagram" href="https://www.instagram.com/googiehost/"
-                                    rel="nofollow"><i class="fab fa-instagram"></i></a>
+                                    rel="nofollow"><img src="https://googiehost.com/blog/wp-content/themes/googiehost-blog/assets/img/instagram.svg" alt=""></a>
                                 <a title="Twitter" class="twitter" href="https://twitter.com/GoogieHost"
-                                    rel="nofollow"><i class="fab fa-x-twitter"></i></a>
+                                    rel="nofollow"><img src="https://googiehost.com/blog/wp-content/themes/googiehost-blog/assets/img/twitter-x.svg" alt=""></a>
                                 <a title="Youtube" class="youtube"
-                                    href="https://www.youtube.com/user/GoogieHostFree" rel="nofollow"> <i class="fab fa-youtube"></i></a>
+                                    href="https://www.youtube.com/user/GoogieHostFree" rel="nofollow"> <img src="https://googiehost.com/blog/wp-content/themes/googiehost-blog/assets/img/youtube.svg" alt=""></a>
                             </div>
                             <div class="gtranslate_wrapper"></div>
                             <script>
@@ -69,7 +69,7 @@
                         </div>
                         <div class="col-6 col-lg-3">
                             <div class="widget ">
-                                <h3 class="footer-title text-white">Top Hosting Review</h3>
+                                <h3 class="footer-title text-white">Hosting Review</h3>
                                 <div class="textwidget">
                                     <ul class="list">
                                         <li>
@@ -147,15 +147,9 @@
         </div>
 
         <div class="footer-copy">
-            <div class="inner">
-                <div id="text-10" class="widget ">
-                    <div class="textwidget">
-                        <div class="aligncenter text-white"><a class="text-white" href="" class="text-white">© 2012 -
-                                2024 GoogieHost.</a><span> All Rights Reserved</span> — Made with <span
-                                style="color:red;font-size:20px;">&#9829;</span> in India.</div>
-                    </div>
-                </div>
-            </div>
+            <div class="aligncenter text-white"><a class="text-white" href="" class="text-white">© 2012 -
+                    <?php echo date('Y') ?> GoogieHost.</a><span> All Rights Reserved</span> — Made with <span
+                    style="color:#fff;font-size:15px;">&#9829;</span> in India.</div>
         </div>
     </div>
 </footer>
