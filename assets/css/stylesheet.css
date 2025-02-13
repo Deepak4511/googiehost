@@ -1494,6 +1494,7 @@ header .nav-item .dropdown-item {
   margin-bottom: 28px;
 }
 
+
 .footer .col-lg-9 .footer-title:after {
   content: "";
   width: 60px;
@@ -1502,6 +1503,8 @@ header .nav-item .dropdown-item {
   background: var(--purple);
   margin-top: 8px;
 }
+
+
 
 .large-title {
   font-size: 36px;
