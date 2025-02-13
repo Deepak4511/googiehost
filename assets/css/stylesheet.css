@@ -13,7 +13,6 @@
 * {
   margin: 0;
   padding: 0;
-  text-decoration: none;
 }
 
 body {
@@ -315,6 +314,10 @@ header .nav-item .dropdown-item {
   .hero-section {
     padding: 0px 0px 40px 0px
   }
+
+  .row {
+    margin-right: 0px !important;
+  }
 }
 
 .hero-section .hero-list {
@@ -555,29 +558,32 @@ header .nav-item .dropdown-item {
     font-size: 15px;
   }
 
-.list.styled.large li span {
-  font-size: 20px !important;
-}
+  .list.styled.large li span {
+    font-size: 20px !important;
+  }
 
 
   .list.styled.large li span {
     font-size: 20px;
   }
 
-.hero-section .hero-left-section p {
-  margin-bottom: 26px;
-  font-size: 18px;
-}
-.stat-card {
-  padding: 8px;
-}
-.stat-value h3 {
-  font-size: 16px !important;
-  padding: 10px 8px !important;
-}
-.stat-text {
-  font-size: 14px !important;
-}
+  .hero-section .hero-left-section p {
+    margin-bottom: 26px;
+    font-size: 18px;
+  }
+
+  .stat-card {
+    padding: 8px;
+  }
+
+  .stat-value h3 {
+    font-size: 16px !important;
+    padding: 10px 8px !important;
+  }
+
+  .stat-text {
+    font-size: 14px !important;
+  }
 
 }
 
@@ -590,10 +596,11 @@ header .nav-item .dropdown-item {
 
   .pricing-header {
     font-size: 24px;
-}
-.pricing-subheader {
-  font-size: 20px;
-}
+  }
+
+  .pricing-subheader {
+    font-size: 20px;
+  }
 }
 
 
@@ -967,7 +974,7 @@ header .nav-item .dropdown-item {
   padding: 50px 0;
 }
 
-.free-button{
+.free-button {
   font-size: 1.2rem;
 }
 
@@ -1025,7 +1032,7 @@ header .nav-item .dropdown-item {
 }
 
 
-.pro-pricing-card{
+.pro-pricing-card {
   background: linear-gradient(180deg, rgba(166, 106, 255, 0.2) 0%, #FFFFFF 100%);
 }
 
@@ -2034,5 +2041,3 @@ textarea {
   opacity: 1;
   transform: scale(1.03);
 }
-
-
