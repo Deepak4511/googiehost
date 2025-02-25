@@ -410,7 +410,7 @@ include 'inc/header.php'; ?>
                 <div class="feature-opt">
                     <h5>Response Time</h5>
                     <p>208.18 ms to load</p>
-                    
+
                     <h5>Server Uptime</h5>
                     <p>99.99%</p>
                     <h5>Live Status</h5>
@@ -1285,78 +1285,72 @@ include 'inc/header.php'; ?>
 <!-- / feature section  -->
 
 
+<div class="container tech-specification mt-5">
+    <h2 class="text-center">Technical Specifications to keep in mind while choosing The Best Dedicated Server Hosting</h2>
+    <p class="w-75 text-center mx-auto p-1">
+        If you are planning to rent your first dedicated server, we are here to ensure that you realize the crucial factors before making any such decision. Here are the few technical specifications you should keep in mind in order to choose the best cheap Dedicated server hosting:
+    </p>
 
-<section>
-    <div>
-
-        <div class="container py-5 tech-specification">
-            <h2 class="text-center">Technical Specifications to keep in mind while choosing The Best Dedicated Server Hosting</h2>
-            <p class="w-75 text-center mx-auto p-1">
-                If you are planning to rent your first dedicated server, we are here to ensure that you realize the crucial factors before making any such decision. Here are the few technical specifications you should keep in mind in order to choose the best cheap Dedicated server hosting:
-            </p>
-
-            <div class="row g-4 mt-4">
-                <!-- Feature 1 -->
-                <div class="col-md-6">
-                    <div class=" text-center">
-                        <div class=" mx-auto">
-                            <img src="https://googiehost.com/depends/chip-01.png" alt="1000MB SSD Storage">
-                            <h5 class="card-title">CPU</h5>
-                        </div>
-                        <div class="card-body">
-                            <p class="card-text ">CPU is one of the major components of your server, and so is the core that gives it power and handles all requests. So if you want your projects to grow bigger and run faster, you must opt for more CPUs.</p>
-
-                        </div>
-                    </div>
+    <div class="row g-4 mb-3">
+        <!-- Feature 1 -->
+        <div class="col-md-3">
+            <div class=" feature-card text-center">
+                <div class="feature-icon mx-auto">
+                    <img src="https://googiehost.com/depends/chip-01.png" alt="1000MB SSD Storage">
+                    <h5 class="card-title">CPU</h5>
                 </div>
+                <div class="card-body">
+                    <p class="card-text ">CPU is one of the major components of your server, and so is the core that gives it power and handles all requests. So if you want your projects to grow bigger and run faster, you must opt for more CPUs.</p>
 
-                <!-- Feature 2 -->
-                <div class="col-md-6">
-                    <div class=" text-center">
-                        <div class=" mx-auto">
-                            <img src="https://googiehost.com/depends/RAM-01.png" alt="100GB Bandwidth">
-                            <h5 class="card-title">RAM</h5>
-                        </div>
-                        <div class="card-body">
-
-                            <p class="card-text ">The random-access memory (RAM), is yet another crucial server configuration that helps” the CPU execute multiple requests without affecting their speed.</p>
-                        </div>
-                    </div>
                 </div>
-
-                <!-- Feature 3 -->
-                <div class="col-md-6">
-                    <div class=" text-center">
-                        <div class=" mx-auto">
-                            <img src="https://googiehost.com/depends/harddisk-01.png" alt="Hotlink Protection">
-                            <h5 class="card-title">Storage</h5>
-                        </div>
-                        <div class="card-body">
-
-                            <p class="card-text ">The technology behind your disk is as important as its capacity. While SSD has limited write cycles, compared to traditional HDD, solid-state drives are much faster and more reliable. We advise you to prefer SSD over HDD.</p>
-
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Feature 4 -->
-                <div class="col-md-6">
-                    <div class=" text-center">
-                        <div class=" mx-auto">
-                            <img src="https://googiehost.com/depends/bandwidth-01.png" alt="2 MySQL Databases">
-                            <h5 class="card-title">Bandwidth</h5>
-                        </div>
-                        <div class="card-body">
-                            <p class="card-text ">With every visitor and action performed on your website, a bit of bandwidth is utilized. Generally speaking, most of the websites consume less than 5GB a month, so the few terabytes that most dedicated hosting providers give you is more than sufficient.</p>
-                        </div>
-                    </div>
-                </div>
-
-
             </div>
         </div>
+
+        <!-- Feature 2 -->
+        <div class="col-md-3">
+            <div class="feature-card text-center">
+                <div class="feature-icon mx-auto">
+                    <img src="https://googiehost.com/depends/RAM-01.png" alt="100GB Bandwidth">
+                    <h5 class="card-title">RAM</h5>
+                </div>
+                <div class="card-body">
+
+                    <p class="card-text ">The random-access memory (RAM), is yet another crucial server configuration that helps” the CPU execute multiple requests without affecting their speed.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Feature 3 -->
+        <div class="col-md-3">
+            <div class=" feature-card text-center">
+                <div class="feature-icon mx-auto">
+                    <img src="https://googiehost.com/depends/harddisk-01.png" alt="Hotlink Protection">
+                    <h5 class="card-title">Storage</h5>
+                </div>
+                <div class="card-body">
+
+                    <p class="card-text ">The technology behind your disk is as important as its capacity. While SSD has limited write cycles, compared to traditional HDD, solid-state drives are much faster and more reliable. We advise you to prefer SSD over HDD.</p>
+
+                </div>
+            </div>
+        </div>
+
+        <!-- Feature 4 -->
+        <div class="col-md-3">
+            <div class=" feature-card text-center">
+                <div class="feature-icon mx-auto">
+                    <img src="https://googiehost.com/depends/bandwidth-01.png" alt="2 MySQL Databases">
+                    <h5 class="card-title">Bandwidth</h5>
+                </div>
+                <div class="card-body">
+                    <p class="card-text ">With every visitor and action performed on your website, a bit of bandwidth is utilized. Generally speaking, most of the websites consume less than 5GB a month, so the few terabytes that most dedicated hosting providers give you is more than sufficient.</p>
+                </div>
+            </div>
+        </div>
+
+
     </div>
-</section>
+</div>
 
 
 
