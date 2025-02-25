@@ -52,7 +52,7 @@ include 'inc/header.php'; ?>
 <div class="features">
     <div class="container py-5 ">
         <h2 class="text-center text-white">Web Hosting Features →</h2>
-        <p class="w-75 text-center mx-auto p-1 text-white">
+        <p class="w-md-75 text-center mx-auto p-1 text-white">
             We offer ultimate free hosting services packed with our most popular cPanel "DirectAdmin" to manage your free web hosting.
             Along with our <a href="freewebsitebuilder.php">free web hosting Website builder</a> you get free webmail access, SSD boosted drives, a fast MySQL database and much more.
         </p>

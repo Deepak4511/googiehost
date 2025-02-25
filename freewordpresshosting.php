@@ -3,6 +3,7 @@
 $page = 'freewordpresshosting';
 include 'inc/header.php'; ?>
 
+
 <!-- header end -->
 
 <!-- hero section  -->
@@ -10,7 +11,7 @@ include 'inc/header.php'; ?>
     <div class="container">
         <div class="row">
             <div class="hero-left-section col-md-6">
-                <h1 class="entry-title">WordPress Hosting Now Easy & Free!</h1>
+                <h1 class="entry-title mb-3">WordPress Hosting Now Easy & Free!</h1>
                 <p>We offer ultimate free wordpress hosting services packed with our most popular cPanel to manage your files, along with our free Website builder, Webmail, SSD boosted, Attracta SEO Tools, Fast MySQL Databases and Much more unique things.</p>
                 <ul class="hero-list mt-3">
                     <li>Short sub-domain name</li>
@@ -27,7 +28,7 @@ include 'inc/header.php'; ?>
                     </span>No Credit Card required
                 </div>
             </div>
-            <div class="hero-image-section col-md-6">
+            <div class="hero-image-section col-md-6 text-center">
                 <img src="depends/free-hosting-mascot.svg" width="550px" height="420px" alt="GoogieHost Logo" class="img-fluid">
             </div>
         </div>
@@ -161,8 +162,8 @@ include 'inc/header.php'; ?>
 
 <!-- plan section  -->
 <div class="container pricing-section ">
-    <h2 class="mb-4 text-center fw-bold">Give More Power To Your WordPress Site →</h2>
-    <p class="w-75 mx-auto mb-5 text-center">You will get the best Free WordPress Hosting Features which will help you grow more and GoogieHost also helps you to migrate your Data to any Premium Hosting Provider.</p>
+    <h2 class="mb-4 text-center fw-bold mt-5">Give More Power To Your WordPress Site →</h2>
+    <p class="w-md-75 mx-auto mb-5 text-center">You will get the best Free WordPress Hosting Features which will help you grow more and GoogieHost also helps you to migrate your Data to any Premium Hosting Provider.</p>
     <!-- hosting plan  -->
     <?php include 'inc/hosting-plan.php' ?>
     <!-- hosting plan  -->

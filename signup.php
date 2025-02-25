@@ -26,7 +26,7 @@ include 'inc/header.php'; ?>
                     </span>No Credit Card required
                 </div>
             </div>
-            <div class="hero-image-section col-md-6">
+            <div class="hero-image-section col-md-6 text-center">
                 <img src="depends/free-hosting-mascot.svg" width="550px" height="420px" alt="GoogieHost Logo" class="img-fluid">
             </div>
         </div>

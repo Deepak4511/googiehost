@@ -75,7 +75,7 @@ include 'inc/header.php'; ?>
                     </div>
                     <div class="">
 
-                        <p class="card-text text-white p-3">We provide 100% Cloud Based super fast GoogieHostPanel <a href="">free web hosting</a> service for everyone across the globe. You'll also get <strong> WordPress Manager</strong> to manage WordPress websites.</p>
+                        <p class="card-text text-white p-md-3">We provide 100% Cloud Based super fast GoogieHostPanel <a href="">free web hosting</a> service for everyone across the globe. You'll also get <strong> WordPress Manager</strong> to manage WordPress websites.</p>
                         <a href="#" class="btn buttom-ffd700  w-100 fw-bold"><svg>
                                 <rect x="0" y="0" fill="none" width="100%" height="100%" />
                             </svg>Know More <i class="fa-solid fa-angle-right"></i></a>
@@ -91,7 +91,7 @@ include 'inc/header.php'; ?>
                         <h5 class="card-title">Free SitePad Builder</h5>
                     </div>
                     <div class="">
-                        <p class="card-text text-white p-3">Create your website with an easy drag and drop option without having special programming knowledge. Start building your online platform with <a href="">SitePad website Builder.</a> </p>
+                        <p class="card-text text-white p-md-3">Create your website with an easy drag and drop option without having special programming knowledge. Start building your online platform with <a href="">SitePad website Builder.</a> </p>
                         <a href="#" class="btn buttom-ffd700  w-100 fw-bold"><svg>
                                 <rect x="0" y="0" fill="none" width="100%" height="100%" />
                             </svg>Know More <i class="fa-solid fa-angle-right"></i></a>
@@ -108,7 +108,7 @@ include 'inc/header.php'; ?>
                     </div>
                     <div class="">
 
-                        <p class="card-text text-white p-3">We provide the most effective and user-friendly cPanel (Direct Admin). Free users get the most loved <span style="color: red;">♥</span> cPanel preferred by industry-leading hosting platforms.</p>
+                        <p class="card-text text-white p-md-3">We provide the most effective and user-friendly cPanel (Direct Admin). Free users get the most loved <span style="color: red;">♥</span> cPanel preferred by industry-leading hosting platforms.</p>
                         <a href="#" class="btn buttom-ffd700  w-100 fw-bold"><svg>
                                 <rect x="0" y="0" fill="none" width="100%" height="100%" />
                             </svg>Know More <i class="fa-solid fa-angle-right"></i></a>
@@ -124,7 +124,7 @@ include 'inc/header.php'; ?>
                         <h5 class="card-title">Free Sub-Domain</h5>
                     </div>
                     <div class="">
-                        <p class="card-text text-white p-3">If you don't have your own domain name, you can use our <a href="">free sub-domains</a> to create your instant website. Ex: yourname.cu.ma & yourname.thats.im</p>
+                        <p class="card-text text-white p-md-3">If you don't have your own domain name, you can use our <a href="">free sub-domains</a> to create your instant website. Ex: yourname.cu.ma & yourname.thats.im</p>
                         <a href="#" class="btn buttom-ffd700  w-100 fw-bold"><svg>
                                 <rect x="0" y="0" fill="none" width="100%" height="100%" />
                             </svg>Know More <i class="fa-solid fa-angle-right"></i></a>
@@ -140,7 +140,7 @@ include 'inc/header.php'; ?>
                         <h5 class="card-title">Softaculous Auto Installer</h5>
                     </div>
                     <div class="">
-                        <p class="card-text text-white p-3">Install more than 380+ popular scripts with a single click and get your website online in a few minutes using our Free <a href=""> Softaculous Auto Installer option.</a></p>
+                        <p class="card-text text-white p-md-3">Install more than 380+ popular scripts with a single click and get your website online in a few minutes using our Free <a href=""> Softaculous Auto Installer option.</a></p>
                         <a href="#" class="btn buttom-ffd700  w-100 fw-bold">
                             <svg>
                                 <rect x="0" y="0" fill="none" width="100%" height="100%" />
@@ -158,7 +158,7 @@ include 'inc/header.php'; ?>
                         <h5 class="card-title">24/7 Support</h5>
                     </div>
                     <div class="">
-                        <p class="card-text text-white p-3">We believe in 100% customer satisfaction. You can get help from our <a href="">Knowledgebase</a> and Blog tutorial. For instant help, you can also contact us via <a href="">email.</a> </p>
+                        <p class="card-text text-white p-md-3">We believe in 100% customer satisfaction. You can get help from our <a href="">Knowledgebase</a> and Blog tutorial. For instant help, you can also contact us via <a href="">email.</a> </p>
                         <a href="#" class="btn buttom-ffd700  w-100 fw-bold ">
                             <svg>
                                 <rect x="0" y="0" fill="none" width="100%" height="100%" />
