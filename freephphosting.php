@@ -163,8 +163,8 @@ include 'inc/header.php'; ?>
 
 <!-- plan section  -->
 <div class="container pricing-section ">
-    <h2 class="mb-4 text-center fw-bold">Give More Power To Your PHP Site →</h2>
-    <p class="w-75 mx-auto mb-5 text-center">You will get the best Free PHP Hosting Features which will help you grow more and GoogieHost also helps you to migrate your Data to any Premium Hosting Provider.</p>
+    <h2 class="mb-4 text-center fw-bold mt-4">Give More Power To Your PHP Site →</h2>
+    <p class="w-md-75 mx-auto mb-5 text-center">You will get the best Free PHP Hosting Features which will help you grow more and GoogieHost also helps you to migrate your Data to any Premium Hosting Provider.</p>
     <!-- hosting plan  -->
     <?php include 'inc/hosting-plan.php' ?>
     <!-- hosting plan  -->

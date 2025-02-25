@@ -42,6 +42,10 @@ ul {
   list-style: none;
 }
 
+img{
+  display: unset !important;
+}
+
 
 p.ylw-highlight {
   background-color: var(--white)BCC;
@@ -326,7 +330,7 @@ header .nav-item .dropdown-item {
   flex-wrap: wrap;
   list-style: none;
   padding: 0;
-  gap: 15px;
+  gap: 4px;
 }
 
 .hero-section .hero-list li {
@@ -579,6 +583,15 @@ header .nav-item .dropdown-item {
   font-size: 14px !important;
 }
 
+.top-bar {
+  padding: 8px 4px;
+}
+
+.policy-sec {
+  padding: 39px 14px !important;
+
+}
+
 }
 
 /* Ensures elements stay aligned on larger screens */
@@ -594,6 +607,7 @@ header .nav-item .dropdown-item {
 .pricing-subheader {
   font-size: 20px;
 }
+
 }
 
 
@@ -608,7 +622,7 @@ header .nav-item .dropdown-item {
 }
 
 .features img {
-  width: 128px;
+  width: 35%;
 }
 
 .feature .feature-card {
@@ -706,6 +720,10 @@ header .nav-item .dropdown-item {
     font-size: 26px;
     font-weight: bold;
   }
+
+  .card-text:last-child {
+    margin-bottom: 18px;
+}
 
 
 }
@@ -964,7 +982,7 @@ header .nav-item .dropdown-item {
 /* freehosing  */
 
 .pricing-section {
-  padding: 50px 0;
+  padding: 0;
 }
 
 .free-button{
@@ -1792,13 +1810,37 @@ blockquote:before,
 
   .feature-list {
     border-radius: 10px;
-    padding: 25px;
-    margin: 8px 10px;
-  }
+    padding: 3px;
+    margin: 8px 0px;
+}
+
+.pricing-card {
+  padding: 35px 20px;
+}
+
+.pricing-header {
+  font-size: 26px;
+}
+
+.pricing-subheader {
+  font-size: 22px;
+
+}
 
   .feature-list h3 {
     font-size: 20px;
   }
+
+  .notice-box {
+    padding: 30px 14px;
+}
+
+.best-free-hosting {
+  display: none;
+}
+.pricing-section h2 {
+  font-size: 32px;
+}
 }
 
 .contact-form-sec {
@@ -1995,6 +2037,7 @@ textarea {
   border-radius: 10px;
   padding: 50px;
   background-color: var(--white);
+  font-size: 16px;
 }
 
 .policy-list {
@@ -2043,6 +2086,10 @@ textarea {
 .pure-button-primary:hover {
   opacity: 1;
   transform: scale(1.03);
+}
+
+.collapse {
+  visibility: visible !important;
 }
 
 

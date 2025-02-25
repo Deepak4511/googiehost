@@ -27,7 +27,7 @@ include 'inc/header.php'; ?>
                     </span>No Credit Card required
                 </div>
             </div>
-            <div class="hero-image-section col-md-6">
+            <div class="hero-image-section col-md-6 text-center">
                 <img src="depends/hero/landing-hero.svg" width="550px" height="420px" alt="GoogieHost Logo" class="img-fluid">
             </div>
         </div>
@@ -152,7 +152,7 @@ include 'inc/header.php'; ?>
 
     <div class="container py-5 ">
         <h2 class="text-center">Everything you need to create your free website →</h2>
-        <p class="w-75 text-center mx-auto p-1">
+        <p class="w-md-75 text-center mx-auto p-1">
             Firstly this a completely free website builder and the ingredient will make your website earnestly mushy and will help you engage more audience.
         </p>
         <div class="row g-4 mt-4">
@@ -250,8 +250,8 @@ include 'inc/header.php'; ?>
 
 <!-- plan section  -->
 <div class="container pricing-section ">
-    <h2 class="mb-4 text-center fw-bold">Get Free Templates And Build Your Website →</h2>
-    <p class="w-75 mx-auto mb-5 text-center">Build a professional website with easy drag and drop feature with free website builder and many amazing templates that give your website a stunning look.</p>
+    <h2 class="mb-4 text-center fw-bold mt-5">Get Free Templates And Build Your Website →</h2>
+    <p class="w-md-75 mx-auto mb-5 text-center">Build a professional website with easy drag and drop feature with free website builder and many amazing templates that give your website a stunning look.</p>
     <!-- hosting plan  -->
     <?php include 'inc/hosting-plan.php' ?>
     <!-- hosting plan  -->

@@ -33,11 +33,13 @@ if (!isset($page)) {
     <!-- top header -->
 
     <div class="top-bar">
-        <div class="top-bar-text">Unlimited Hosting, Unmatched Performance</div>
-        <div class="btn">
+        <div class="top-bar-text">Unlimited Hosting, Unmatched Performance  <div class="btn">
             <a href="https://googiehost.com/blog/go/interserver/" target="_blank">Start at $0.01 Now</a>
-        </div>
+        </div></div>
+        
     </div>
+
+
 
     <header class="header p-2">
         <nav class="navbar navbar-expand-lg navbar-dark">
