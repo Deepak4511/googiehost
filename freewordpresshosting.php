@@ -197,55 +197,65 @@ include 'inc/header.php'; ?>
     <p class="text-gray-300 text-dark">It's time for you to grow without limits with FREE WordPress Hosting</p>
 </section>
 
-<div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8 max-w-6xl mx-auto text-center">
-    <!-- Flip Card 1 -->
-    <div class="flip-card">
-        <div class="flip-card-inner ">
-            <div class="flip-card-front p-6">
-                <img src="depends/wordpress-icons/infinite.png" class="w-12 mb-4">
-                <h3 class="text-xl font-semibold">Infinite WordPress Themes</h3>
-            </div>
-            <div class="flip-card-back p-6">
-                <p class="text-gray-300 text-sm">Scroll through the infinite Exciting WordPress Themes which will give your site a More Amazing and optimized look. You can opt for the theme of your choice and attract more audiences. WordPress consists of millions of themes and you can access them all with FREE WordPress Hosting.</p>
-            </div>
-        </div>
-    </div>
-
-    <!-- Flip Card 2 -->
-    <div class="flip-card">
-        <div class="flip-card-inner">
-            <div class="flip-card-front p-6">
-                <img src="depends/wordpress-icons/unlimited.png" class="w-12 mb-4">
-                <h3 class="text-xl font-semibold">Unlimited Premium Plugins</h3>
-            </div>
-            <div class="flip-card-back p-6">
-                <p class="text-gray-300 text-sm">The site needs plugins for better performance and the output will be quite smooth and flawless. Even with free WordPress Hosting, you will get the best and the Most famous WordPress Plugins. The Plugins will help you reach your optimization goals.</p>
+<div class="container ">
+    <div class="row g-4">
+        <!-- Flip Card 1 -->
+        <div class="col-md-6 col-lg-3">
+            <div class="flip-card">
+                <div class="flip-card-inner">
+                    <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
+                        <img src="depends/wordpress-icons/infinite.png" class="w-25 mb-3">
+                        <h5 class="fw-bold">Infinite WordPress Themes</h5>
+                    </div>
+                    <div class="flip-card-back d-flex align-items-center justify-content-center">
+                        <p>Scroll through the infinite exciting WordPress themes to optimize your site's look.</p>
+                    </div>
+                </div>
             </div>
         </div>
-    </div>
 
-    <!-- Flip Card 3 -->
-    <div class="flip-card">
-        <div class="flip-card-inner">
-            <div class="flip-card-front p-6">
-                <img src="depends/wordpress-icons/turn.png" class="w-12 mb-4">
-                <h3 class="text-xl font-semibold">Turn Your Site Into Store</h3>
-            </div>
-            <div class="flip-card-back p-6">
-                <p class="text-gray-300 text-sm">It’s time for you to turn your normal site into an online store. The WordPress Themes and WordPress Plugins will help you convert your simple site into an Online Store. All with Free WordPress Hosting.</p>
+        <!-- Flip Card 2 -->
+        <div class="col-md-6 col-lg-3">
+            <div class="flip-card">
+                <div class="flip-card-inner">
+                    <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
+                        <img src="depends/wordpress-icons/unlimited.png" class="w-25 mb-3">
+                        <h5 class="fw-bold">Unlimited Premium Plugins</h5>
+                    </div>
+                    <div class="flip-card-back d-flex align-items-center justify-content-center">
+                        <p>Access the best WordPress plugins for free to optimize your website's performance.</p>
+                    </div>
+                </div>
             </div>
         </div>
-    </div>
 
-    <!-- Flip Card 4 -->
-    <div class="flip-card">
-        <div class="flip-card-inner">
-            <div class="flip-card-front p-6">
-                <img src="depends/wordpress-icons/rank.png" class="w-12 mb-4">
-                <h3 class="text-xl font-semibold">Easy Rank On Google</h3>
+        <!-- Flip Card 3 -->
+        <div class="col-md-6 col-lg-3">
+            <div class="flip-card">
+                <div class="flip-card-inner">
+                    <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
+                        <img src="depends/wordpress-icons/turn.png" class="w-25 mb-3">
+                        <h5 class="fw-bold">Turn Your Site Into Store</h5>
+                    </div>
+                    <div class="flip-card-back d-flex align-items-center justify-content-center">
+                        <p>Transform your simple website into an online store with WordPress themes & plugins.</p>
+                    </div>
+                </div>
             </div>
-            <div class="flip-card-back p-6">
-                <p class="text-gray-300 text-sm">With the help of this Free Hosting Service, you will get a better rank on search engines like Google, Yahoo, Bing. The Free Domains are also easy to remember and they will also play a vital role in the ranking of your site.</p>
+        </div>
+
+        <!-- Flip Card 4 -->
+        <div class="col-md-6 col-lg-3">
+            <div class="flip-card">
+                <div class="flip-card-inner">
+                    <div class="flip-card-front d-flex flex-column align-items-center justify-content-center">
+                        <img src="depends/wordpress-icons/rank.png" class="w-25 mb-3">
+                        <h5 class="fw-bold">Easy Rank On Google</h5>
+                    </div>
+                    <div class="flip-card-back d-flex align-items-center justify-content-center">
+                        <p>Boost your ranking on search engines with optimized themes and free domains.</p>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
