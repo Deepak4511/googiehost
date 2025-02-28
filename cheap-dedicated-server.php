@@ -431,7 +431,7 @@ include 'inc/header.php'; ?>
                             <span class="rating-sec fw-bold">9.9</span><span class="fw-bold fs-5">/10</span>
                             <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
                             </div>
-                            <a href="#" class="best-deal-btn hide-btn1">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                            <a href="https://googiehost.com/blog/go/youstable-dedicated/" class="best-deal-btn hide-btn1">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                        
                         <div class="mt-3 stats-box">
@@ -441,7 +441,7 @@ include 'inc/header.php'; ?>
                         </div>
                     </div>
                     <div class="col-lg-3">
-                        <a href="#" class="best-deal-btn hide-btn">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                        <a href="https://googiehost.com/blog/go/youstable-dedicated/" class="best-deal-btn hide-btn">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>
 
@@ -496,8 +496,821 @@ include 'inc/header.php'; ?>
             </div>
         </div>
 
+        <div class="custom-review-card">
+            <div class="d-flex justify-content-between align-items-center card-heading-sec">
+                <h5 class="fw-bold">2. InterServer- Best for Resources Website</h5>
+                <span class="fw-bold">$45/mo</span>
+            </div>
+            <div class="p-4">
+                <div class="row mt-3">
+                    <div class="col-md-6">
+                        <img src="https://googiehost.com/depends/interserver%20hosting%20provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded">
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div>
+                            <span class="rating-sec fw-bold">9.9</span><span class="fw-bold fs-5">/10</span>
+                            <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
+                            </div>
+                            <a href="https://googiehost.com/blog/go/interserver-dedicated/" class="best-deal-btn hide-btn1">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                        </div>
+                       
+                        <div class="mt-3 stats-box">
+                            <div class="d-flex justify-content-between"><span>Performance</span> <strong>4.9/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Speed </span><strong>4.9/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Support </span><strong>4.7/5</strong></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <a href="https://googiehost.com/blog/go/interserver-dedicated/" class="best-deal-btn hide-btn">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+
+                    <p class="">InterServer, known for its Floating Dedicated IP Address and Improved Hardware like AMD RYZEN Processor & 1 to 10 Gbps of Network Connectivity, offers Cheap Dedicated Server Hosting services to companies with Greater website needs. 100% Power supply to Data Centers with 99.90% Guaranteed Uptime ensures maximum regional redundancy and quick accessibility of the websites.</p>
+                    <p>InterServer even offers Fully Managed Bare Metal and Dedicated servers for users with zero technical knowledge about handling the configurations of the servers all by themselves. InterServer, one of the low cost Dedicated servers, offers 24/7 Support services to new users.</p>
+                </div>
+
+                <div class="row text-center mt-3 p-2">
+                    <div class="col-md-4 review-feature">
+                        <span class="">Response Time</span><br>
+                        <strong>208.18 ms to load</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Server Uptime</span><br>
+                        <strong>99.99%</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Live Status</span><br>
+                        <strong class="online">Online</strong>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+                    <div class="accordion" id="accordionExample2">
+                        <div class="accordion-item key-feature-sec">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature2" aria-expanded="false" aria-controls="collapseFeature2">
+                                Specifications that InterServer has reserved for you:
+                                </button>
+                            </h2>
+                            <div id="collapseFeature2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                                <div class="accordion-body">
+                                    <div class="hosting-key-features">
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>1 to 10 Gbps Uplink Guaranteed1 to 10 Gbps Uplink Guaranteed</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Servers are Fully Managed</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>99.90% of Committed Uptime</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Zero Hidden Cost & Instant Server Deployment</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>24/7 Support via LiveChat and Ticket system</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Integrated DDoS Protected Server</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Full Root access to the Dedicated server.</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Ryzen CPU Processor</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
 
 
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="custom-review-card">
+            <div class="d-flex justify-content-between align-items-center card-heading-sec">
+                <h5 class="fw-bold">3. UltaHost- Best for Cheap High Storage Servers</h5>
+                <span class="fw-bold">$129/mo</span>
+            </div>
+            <div class="p-4">
+                <div class="row mt-3">
+                    <div class="col-md-6">
+                        <img src="https://googiehost.com/depends/ultahost%20hosting%20provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded">
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div>
+                            <span class="rating-sec fw-bold">9.8</span><span class="fw-bold fs-5">/10</span>
+                            <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
+                            </div>
+                            <a href="https://googiehost.com/blog/go/ultahostdedicated/" class="best-deal-btn hide-btn1">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                        </div>
+                       
+                        <div class="mt-3 stats-box">
+                            <div class="d-flex justify-content-between"><span>Performance</span> <strong>4.6/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Speed </span><strong>4.6/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Support </span><strong>4.8/5</strong></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <a href="https://googiehost.com/blog/go/ultahostdedicated/" class="best-deal-btn hide-btn">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+
+                    <p class="">Famous for its Ultra-Optimized Bare Metal Servers, UltaHost, one of the cheap Dedicated Server providers, offers Dedicated FireWalls, BitNinja Security, IP WhiteListing, Free SSL Certificates for all the domains, Multiple OS Choices from among various options, Round the clock Monitoring and a lot more web related solutions to keep your websites online.</p>
+                    <p>UltaHost also offers 99.99% guaranteed Uptime, ensuring the site is running and accessible by your website visitors at all times. For Better performance of your sites, UltaHost provides Apache/ Nginx- backed-Web Servers with MySQL/ MariaDB as a database option. A long with that, even get incredible database security to prevent unauthorized access.</p>
+                </div>
+
+                <div class="row text-center mt-3 p-2">
+                    <div class="col-md-4 review-feature">
+                        <span class="">Response Time</span><br>
+                        <strong>204.89 ms to load</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Server Uptime</span><br>
+                        <strong>99.99%</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Live Status</span><br>
+                        <strong class="online">Online</strong>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+                    <div class="accordion" id="accordionExample3">
+                        <div class="accordion-item key-feature-sec">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature3" aria-expanded="false" aria-controls="collapseFeature3">
+                                Want to know the key features of Dedicated servers by UltaHost:
+                                </button>
+                            </h2>
+                            <div id="collapseFeature3" class="accordion-collapse collapse" data-bs-parent="#accordionExample3">
+                                <div class="accordion-body">
+                                    <div class="hosting-key-features">
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Firewall, Database security & IP WhiteListing</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Choice for Different Programming Lang</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Multiple OS options (Windows/Linux/)</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Servers with Varnish & MemCached</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Zero hidden Setup Fee</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Instant Server Setup</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Add-ons Support</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>NVMe SSD-backed Dedicated Server</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="custom-review-card">
+            <div class="d-flex justify-content-between align-items-center card-heading-sec">
+                <h5 class="fw-bold">4. LiquidWeb- Best for Cheap Cloud Dedicated servers</h5>
+                <span class="fw-bold">$75/mo</span>
+            </div>
+            <div class="p-4">
+                <div class="row mt-3">
+                    <div class="col-md-6">
+                        <img src="https://googiehost.com/depends/liquidweb%20hosting%20provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded">
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div>
+                            <span class="rating-sec fw-bold">9.9</span><span class="fw-bold fs-5">/10</span>
+                            <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
+                            </div>
+                            <a href="https://googiehost.com/blog/go/liquidwebdedicated/" class="best-deal-btn hide-btn1">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                        </div>
+                       
+                        <div class="mt-3 stats-box">
+                            <div class="d-flex justify-content-between"><span>Performance</span> <strong>4.7/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Speed </span><strong>4.8/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Support </span><strong>4.6/5</strong></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <a href="https://googiehost.com/blog/go/liquidwebdedicated/" class="best-deal-btn hide-btn">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+
+                    <p class="">LiquidWeb offers 100% Network connectivity to your websites, and the data servers are fully backed by a dedicated Power Supply, making your website run online 24/7 and remain accessible round the clock. LiquidWeb, one of the Low Cost Dedicated server hosting providers, also offers Managed cloud dedicated services for users who can’t operate & configure the server on their own.</p>
+                    <p>Along with that, LiquidWeb also offers effortless website migration for users who have a website registered with some other hosting service provider.Furthermore, LiquidWeb even provides highly scalable plans, letting the users choose the dedicated web resources as per the requirements of the websites.</p>
+                </div>
+
+                <div class="row text-center mt-3 p-2">
+                    <div class="col-md-4 review-feature">
+                        <span class="">Response Time</span><br>
+                        <strong>204.05 ms to load</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Server Uptime</span><br>
+                        <strong>99.78%</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Live Status</span><br>
+                        <strong class="online">Online</strong>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+                    <div class="accordion" id="accordionExample2">
+                        <div class="accordion-item key-feature-sec">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature2" aria-expanded="false" aria-controls="collapseFeature2">
+                                Key takeaways that LiquidWeb offers its Dedicated Server Users:
+                                </button>
+                            </h2>
+                            <div id="collapseFeature2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                                <div class="accordion-body">
+                                    <div class="hosting-key-features">
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Multiple Data Centers</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>IPMI Access.</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Highly Scalable Servers</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>InterWorx, Plesk & cPanel</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>CloudFlare CDN</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Full Root Access</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>1 Dedicated IP Address</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>24/7 Expert Support.</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+        <div class="custom-review-card">
+            <div class="d-flex justify-content-between align-items-center card-heading-sec">
+                <h5 class="fw-bold">5. A2Hosting- Best for Unmanaged Dedicated Servers</h5>
+                <span class="fw-bold">$79.99/mo</span>
+            </div>
+            <div class="p-4">
+                <div class="row mt-3">
+                    <div class="col-md-6">
+                        <img src="https://googiehost.com/depends/a2hosting%20hosting%20provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded">
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div>
+                            <span class="rating-sec fw-bold">9.8</span><span class="fw-bold fs-5">/10</span>
+                            <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
+                            </div>
+                            <a href="https://googiehost.com/blog/go/interserver-dedicated/" class="best-deal-btn hide-btn1">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                        </div>
+                       
+                        <div class="mt-3 stats-box">
+                            <div class="d-flex justify-content-between"><span>Performance</span> <strong>4.8/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Speed </span><strong>4.6/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Support </span><strong>4.8/5</strong></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <a href="https://googiehost.com/blog/go/interserver-dedicated/" class="best-deal-btn hide-btn">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+
+                    <p class="">A2Hosting, One of the Best cheap dedicated server hosting providers, offers separate plans for Managed Dedicated servers for users who are new to the web hosting world & UnManaged Dedicated servers for those who already have the idea about how to handle and configure the servers as per the need of the websites. Apart from that, the dedicated servers are Turbo Fast and have SSD NVMe Storage plans, ensuring quicker website loading speed.</p>
+                    <p>Moreover, the dedicated server hosting services have built-in Intel Xeon/ AMD EPYC/ Ryzen Core CPU and other Advanced Hardware, boosting the overall performance of all the websites. With 24/7 support services & Fully managed Dedicated servers, A2Hosting troubleshoots every inch of the technical doubts arising from server issues.</p>
+                </div>
+
+                <div class="row text-center mt-3 p-2">
+                    <div class="col-md-4 review-feature">
+                        <span class="">Response Time</span><br>
+                        <strong>183.10 ms to load</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Server Uptime</span><br>
+                        <strong>99.94%</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Live Status</span><br>
+                        <strong class="online">Online</strong>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+                    <div class="accordion" id="accordionExample2">
+                        <div class="accordion-item key-feature-sec">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature2" aria-expanded="false" aria-controls="collapseFeature2">
+                                Features that Dedicated server hosting of A2Hosting offers:
+                                </button>
+                            </h2>
+                            <div id="collapseFeature2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                                <div class="accordion-body">
+                                    <div class="hosting-key-features">
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Managed/UnManaged servers</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>High Performance Reliable Servers</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>CPU Processor of your choice</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>NVMe SSD Backed web servers</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Multiple Data Server</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Get Full Root Access</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Dedicated Support Services</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Free 1TB BackUp Plan</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="custom-review-card">
+            <div class="d-flex justify-content-between align-items-center card-heading-sec">
+                <h5 class="fw-bold">6. HostGator- Best For Semi-Managed Dedicated Servers</h5>
+                <span class="fw-bold">$91.99/mo</span>
+            </div>
+            <div class="p-4">
+                <div class="row mt-3">
+                    <div class="col-md-6">
+                        <img src="https://googiehost.com/depends/hostgator%20hosting%20provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded">
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div>
+                            <span class="rating-sec fw-bold">9.7</span><span class="fw-bold fs-5">/10</span>
+                            <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
+                            </div>
+                            <a href="https://googiehost.com/blog/go/hostgator-dedicated/" class="best-deal-btn hide-btn1">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                        </div>
+                       
+                        <div class="mt-3 stats-box">
+                            <div class="d-flex justify-content-between"><span>Performance</span> <strong>4.9/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Speed </span><strong>4.9/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Support </span><strong>4.7/5</strong></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <a href="https://googiehost.com/blog/go/hostgator-dedicated/" class="best-deal-btn hide-btn">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+
+                    <p class="">HostGator, one of the Finest Low Cost dedicated server hosting firms, offers Managed Dedicated servers, Linux and Windows Dedicated servers for those users who specifically demand to work using Windows or Linux OS.</p>
+                    <p>Furthermore, HostGator comprises highly trained Technician staff that offers 24/7 support services via LiveChat and Ticketing system.</p>
+                </div>
+
+                <div class="row text-center mt-3 p-2">
+                    <div class="col-md-4 review-feature">
+                        <span class="">Response Time</span><br>
+                        <strong>187.30 ms to load</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Server Uptime</span><br>
+                        <strong>99.96%</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Live Status</span><br>
+                        <strong class="online">Online</strong>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+                    <div class="accordion" id="accordionExample2">
+                        <div class="accordion-item key-feature-sec">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature2" aria-expanded="false" aria-controls="collapseFeature2">
+                                Want to know the key features of Dedicated servers by UltaHost:
+                                </button>
+                            </h2>
+                            <div id="collapseFeature2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                                <div class="accordion-body">
+                                    <div class="hosting-key-features">
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Premium CloudFlare Configuration</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Server Hardening and DDoS Protection</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Highly Optimized MySQL database</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Effortless Migration process</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Advanced 24/7 Support Services</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Back-to-Back Server Monitoring</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Full Root Access</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Ultra-Reliable Scalable Servers</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="custom-review-card">
+            <div class="d-flex justify-content-between align-items-center card-heading-sec">
+                <h5 class="fw-bold">7. BlueHost- Best for Budget Customers</h5>
+                <span class="fw-bold">$91.99/mo</span>
+            </div>
+            <div class="p-4">
+                <div class="row mt-3">
+                    <div class="col-md-6">
+                        <img src="https://googiehost.com/depends/bluehost%20hosting%20provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded">
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div>
+                            <span class="rating-sec fw-bold">9.7</span><span class="fw-bold fs-5">/10</span>
+                            <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
+                            </div>
+                            <a href="https://googiehost.com/blog/go/bluehostdedicated/" class="best-deal-btn hide-btn1">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                        </div>
+                       
+                        <div class="mt-3 stats-box">
+                            <div class="d-flex justify-content-between"><span>Performance</span> <strong>4.6/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Speed </span><strong>4.5/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Support </span><strong>4.8/5</strong></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <a href="https://googiehost.com/blog/go/bluehostdedicated/" class="best-deal-btn hide-btn">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+
+                    <p class="">BlueHost has a lot of surprises stuffed into its Dedicated servers Exclusively for you. BlueHost offers a minimum of 5 cPanel accounts and even a Free Domain name with its dedicated server hosting plans.</p>
+                    <p>BlueHost also offers Free website Migration and a 30-day guaranteed money-back policy, making it one of the Best Cheap Dedicated Server hosting providers. Bluehost’s dedicated servers are Fully assisted by highly technical staff that lets you upscale or downscale the dedicated web resources as per the site's requirement. BlueHost also readily helps its clients in times of emergency via 24/7 LiveChat support and ticketing.</p>
+                </div>
+
+                <div class="row text-center mt-3 p-2">
+                    <div class="col-md-4 review-feature">
+                        <span class="">Response Time</span><br>
+                        <strong>258.32 ms to load</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Server Uptime</span><br>
+                        <strong>99.89%</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Live Status</span><br>
+                        <strong class="online">Online</strong>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+                    <div class="accordion" id="accordionExample2">
+                        <div class="accordion-item key-feature-sec">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature2" aria-expanded="false" aria-controls="collapseFeature2">
+                                Features that BlueHost offers its Dedicated Server clients:
+                                </button>
+                            </h2>
+                            <div id="collapseFeature2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                                <div class="accordion-body">
+                                    <div class="hosting-key-features">
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>RAID Storage Technology</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Multi-Server Management</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Complete Server Control Access</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Manage your site with cPanel</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Fully managed Dedicated servers</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Minimum 1TB HDD Storage</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>24/7 Support Services</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>30-Days Money back policy</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="custom-review-card">
+            <div class="d-flex justify-content-between align-items-center card-heading-sec">
+                <h5 class="fw-bold">8. TMDHosting- Best for Managed Linux Dedicated Servers</h5>
+                <span class="fw-bold">$79.99/mo</span>
+            </div>
+            <div class="p-4">
+                <div class="row mt-3">
+                    <div class="col-md-6">
+                        <img src="https://googiehost.com/depends/tmdhosting%20hosting%20provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded">
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div>
+                            <span class="rating-sec fw-bold">9.7</span><span class="fw-bold fs-5">/10</span>
+                            <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
+                            </div>
+                            <a href="https://googiehost.com/blog/go/tmdhosting-dedicated/" class="best-deal-btn hide-btn1">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                        </div>
+                       
+                        <div class="mt-3 stats-box">
+                            <div class="d-flex justify-content-between"><span>Performance</span> <strong>4.4/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Speed </span><strong>4.6/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Support </span><strong>4.8/5</strong></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <a href="https://googiehost.com/blog/go/tmdhosting-dedicated/" class="best-deal-btn hide-btn">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+
+                    <p class="">TMDHosting, one of the most Reliable and Low cost Linux Dedicated server hosting providers, offers TopNotch security features right from SSL Certificates to 24/7 close server monitoring, ensuring the protection of your website's data. Moreover, TMDHosting also offers you a Customized Hosting infrastructure and Management for Custom websites and Projects.</p>
+                    <p>With remarkable High-performance hardware and cutting-edge infrastructure like DDR4 RAM, RAID 10 Storage mechanism, unmetered Network connectivity, and cPanel/WHM for effortless website management application, BlueHost provides greater website loading speed and enhanced server performance. Users with server configuration-related issues can connect with the TMDHosting support staff via Ticketing and LiveChat support for Quick issue resolution.</p>
+                </div>
+
+                <div class="row text-center mt-3 p-2">
+                    <div class="col-md-4 review-feature">
+                        <span class="">Response Time</span><br>
+                        <strong>247.05 ms to load</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Server Uptime</span><br>
+                        <strong>99.94%</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Live Status</span><br>
+                        <strong class="online">Online</strong>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+                    <div class="accordion" id="accordionExample2">
+                        <div class="accordion-item key-feature-sec">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature2" aria-expanded="false" aria-controls="collapseFeature2">
+                                Specifications offered by TMDHosting's Cheap Dedicated Server:
+                                </button>
+                            </h2>
+                            <div id="collapseFeature2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                                <div class="accordion-body">
+                                    <div class="hosting-key-features">
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Fully Managed Infrastructure</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>24/7/365 Support services</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>DDoS Protection & Free SSL</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Full Root Access servers</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Dedicated IP, enhanced security</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Highly Scalable Plans</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Manage your Server with cPanel/ WHM</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Offers simple TMD Dashboard Portal</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="custom-review-card">
+            <div class="d-flex justify-content-between align-items-center card-heading-sec">
+                <h5 class="fw-bold">9. HostWinds- Cheap Dedicated Server for Custom Configurations</h5>
+                <span class="fw-bold">$122.00/mo</span>
+            </div>
+            <div class="p-4">
+                <div class="row mt-3">
+                    <div class="col-md-6">
+                        <img src="https://googiehost.com/depends/hostwinds%20hosting%20provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded">
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div>
+                            <span class="rating-sec fw-bold">9.6</span><span class="fw-bold fs-5">/10</span>
+                            <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
+                            </div>
+                            <a href="https://googiehost.com/blog/go/hostwinds-dedicated/" class="best-deal-btn hide-btn1">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                        </div>
+                       
+                        <div class="mt-3 stats-box">
+                            <div class="d-flex justify-content-between"><span>Performance</span> <strong>4.8/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Speed </span><strong>4.6/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Support </span><strong>4.8/5</strong></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <a href="https://googiehost.com/blog/go/hostwinds-dedicated/" class="best-deal-btn hide-btn">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+
+                    <p class="">HostWinds, known for its RAID Storage technology, Nightly BackUp plans, and 24/7 Server Monitoring, is one of the Best Cheap & budget-friendly dedicated server hosting services providers.</p>
+                    <p>HostWinds also offers multiple server locations, giving the users a wide range of server location options to choose the one near to its targeted viewers. Dedicated servers of HostWinds give full IPMI access to control the servers and manage them as per the website's demand. HostWinds also provides seamless and consistent dedicated support services to users facing technical doubts while configuring the server.</p>
+                </div>
+
+                <div class="row text-center mt-3 p-2">
+                    <div class="col-md-4 review-feature">
+                        <span class="">Response Time</span><br>
+                        <strong>191.84 ms to load</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Server Uptime</span><br>
+                        <strong>99.67%</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Live Status</span><br>
+                        <strong class="online">Online</strong>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+                    <div class="accordion" id="accordionExample2">
+                        <div class="accordion-item key-feature-sec">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature2" aria-expanded="false" aria-controls="collapseFeature2">
+                                Let’s see the Key Features of the Dedicated servers by Hostwinds
+                                </button>
+                            </h2>
+                            <div id="collapseFeature2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                                <div class="accordion-body">
+                                    <div class="hosting-key-features">
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>24*7 Assistance Services</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Managed Web servers that are completely</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Complete Root Access Plans</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Highly Scalable Dedicated Server</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Ultra-Reliable & Scalable Web Servers</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Nightly Backup Plans</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Easy-to-use Migration Procedure</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Sequential Server Observation</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="custom-review-card">
+            <div class="d-flex justify-content-between align-items-center card-heading-sec">
+                <h5 class="fw-bold">10. Vultr- Best For Budget Friendly Cloud Servers</h5>
+                <span class="fw-bold">$90.0/mo</span>
+            </div>
+            <div class="p-4">
+                <div class="row mt-3">
+                    <div class="col-md-6">
+                        <img src="https://googiehost.com/depends/vultr%20hosting%20provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded">
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div>
+                            <span class="rating-sec fw-bold">9.5</span><span class="fw-bold fs-5">/10</span>
+                            <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
+                            </div>
+                            <a href="https://googiehost.com/blog/go/vultr/" class="best-deal-btn hide-btn1">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                        </div>
+                       
+                        <div class="mt-3 stats-box">
+                            <div class="d-flex justify-content-between"><span>Performance</span> <strong>4.8/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Speed </span><strong>4.6/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Support </span><strong>4.8/5</strong></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <a href="https://googiehost.com/blog/go/vultr/" class="best-deal-btn hide-btn">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+
+                    <p class="">Vultr, famous for providing containerization & Kubernetes services to web developers, also offers Fully managed Bare Metal servers to users wanting greater dedicated web resources for high-performing applications and sites.</p>
+                    <p>Vult offers highly advanced GPU servers run on NVIDIA & Intel CPU processor that lets your sites work at all times, and your sites are able to handle all sorts of vulnerable web situations. Vultr offers a minimum of 25 Gbps of network connectivity, ensuring maximum regional redundancy and low latency among visitors. Back-to-back Dedicated support also ensures true Expert opinion and issue resolutions at all times when users face tech-related doubts.</p>
+                </div>
+
+                <div class="row text-center mt-3 p-2">
+                    <div class="col-md-4 review-feature">
+                        <span class="">Response Time</span><br>
+                        <strong>185.60 ms to load</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Server Uptime</span><br>
+                        <strong>99.34%</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Live Status</span><br>
+                        <strong class="online">Online</strong>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+                    <div class="accordion" id="accordionExample2">
+                        <div class="accordion-item key-feature-sec">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature2" aria-expanded="false" aria-controls="collapseFeature2">
+                                Key features offered by Best Dedicated servers of Vultr
+                                </button>
+                            </h2>
+                            <div id="collapseFeature2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                                <div class="accordion-body">
+                                    <div class="hosting-key-features">
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Offers Docker & Kubernetes Solutions</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>24/7 Dedicated Support</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>GPU NVIDIA Hardware and Intel.</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Highly Scalable Plans</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Full Root Access</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Hourly billing option</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Completely Managed Web servers</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>A minimum of 25 Gbps of network Connectivity</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="custom-review-card">
+            <div class="d-flex justify-content-between align-items-center card-heading-sec">
+                <h5 class="fw-bold">11. DreamHost- Best For Fully Managed Dedicated Servers</h5>
+                <span class="fw-bold">$149.00/mo</span>
+            </div>
+            <div class="p-4">
+                <div class="row mt-3">
+                    <div class="col-md-6">
+                        <img src="https://googiehost.com/depends/dreamhost%20hosting%20provider%20copy-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded">
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div>
+                            <span class="rating-sec fw-bold">9.5</span><span class="fw-bold fs-5">/10</span>
+                            <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
+                            </div>
+                            <a href="https://googiehost.com/blog/go/dreamhost/" class="best-deal-btn hide-btn1">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                        </div>
+                       
+                        <div class="mt-3 stats-box">
+                            <div class="d-flex justify-content-between"><span>Performance</span> <strong>4.8/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Speed </span><strong>4.7/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Support </span><strong>4.4/5</strong></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <a href="https://googiehost.com/blog/go/dreamhost/" class="best-deal-btn hide-btn">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+
+                    <p class="">DreamHost, one of the Cheap Dedicated Server Hosting Providers, provides 100% Guaranteed Uptime and top-notch network connectivity. Get an IPv4 & IPv6, enhancing the server protections from online cyber threats and boosting performance.</p>
+                    <p>Even with DreamHost, Get a local MySQL Server with full root access and an advanced, easy-to-use cPanel. DreamHost provides dedicated back to back Server support services via LiveChat and the Ticketing system, helping users to resolve the issues right then and there.DreamHost offers a RAID1 Storage mechanism for increased reliability and greater server performance. Unmetered bandwidth helps the site remain online and accessible 24/7 as well.</p>
+                </div>
+
+                <div class="row text-center mt-3 p-2">
+                    <div class="col-md-4 review-feature">
+                        <span class="">Response Time</span><br>
+                        <strong>221.07 ms to load</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Server Uptime</span><br>
+                        <strong>99.98%</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Live Status</span><br>
+                        <strong class="online">Online</strong>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+                    <div class="accordion" id="accordionExample2">
+                        <div class="accordion-item key-feature-sec">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature2" aria-expanded="false" aria-controls="collapseFeature2">
+                                Some more features that DreamHost offers its Clients:
+                                </button>
+                            </h2>
+                            <div id="collapseFeature2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                                <div class="accordion-body">
+                                    <div class="hosting-key-features">
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Unmetered Bandwidth</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Multiple Data Center Locations</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Full Root Server Access</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Fully Managed Cloud Servers</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Easily Upscale & DownScale</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>MySQL with Full Root Access</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>RAID 1 Storage</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>User Friendly cPanel</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
     </div>
 </section>
@@ -680,12 +1493,11 @@ include 'inc/header.php'; ?>
 
 
 <!-- faq section  -->
+<Section>
 <div class="container mt-5 faq mb-5">
     <h2 class="text-center mb-5 fw-bold">Frequently Asked Questions</h2>
     <div class="accordion  bg-white" id="accordionExample1">
 
-    <div class="row">
-        <div class="col-lg-6">
              <!-- Section 1 -->
         <div class="accordion-item ">
             <h2 class="accordion-header " id="headingOne">
@@ -701,7 +1513,7 @@ include 'inc/header.php'; ?>
         </div>
 
         <!-- Section 2 -->
-        <Section>
+        
             <div class="accordion-item">
                 <h2 class="accordion-header" id="headingTwo">
                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
@@ -742,8 +1554,7 @@ include 'inc/header.php'; ?>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="col-lg-6">
+        
              <!-- Section 5 -->
              <div class="accordion-item">
                 <h2 class="accordion-header" id="headingFive">
@@ -751,7 +1562,7 @@ include 'inc/header.php'; ?>
                         What should be my main concerns when searching for a dedicated hosting provider?
                     </button>
                 </h2>
-                <div id="collapseFive" class="accordion-collapse collapse show" aria-labelledby="headingFive" data-bs-parent="#accordionExample1">
+                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample1">
                     <div class="accordion-body">
                         <p>Here are a few things you must keep in mind while searching for a dedicated hosting provider: Having a large enough website to justify the cost Prices Security of Data and Equipment High Bandwidth Knowledge and Integrity of the web hosting provider Technical support from the web hosting provider Server Reliability and Uptime</p>
                     </div>
@@ -798,8 +1609,7 @@ include 'inc/header.php'; ?>
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
+
        
 
            
