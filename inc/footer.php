@@ -73,30 +73,30 @@
                                 <div class="textwidget">
                                     <ul class="list">
                                         <li>
-                                            <a class="text-white" href="../blog/interserver-review/"> Interserver Review</a>
+                                            <a class="text-white" href="https://googiehost.com/blog/interserver-review/"> Interserver Review</a>
                                         </li>
                                         <li>
-                                            <a class="text-white" href="../blog/a2hosting-review/"> A2 Hosting Review</a>
+                                            <a class="text-white" href="https://googiehost.com/blog/a2hosting-review/"> A2 Hosting Review</a>
                                         </li>
                                         <li>
-                                            <a class="text-white" href="../blog/youstable-review/"> YouStable Review</a>
+                                            <a class="text-white" href="https://googiehost.com/blog/youstable-review/"> YouStable Review</a>
                                         </li>
                                         <li>
-                                            <a class="text-white" href="../blog/bluehost-review/"> BlueHost Review</a>
+                                            <a class="text-white" href="https://googiehost.com/blog/bluehost-review/"> BlueHost Review</a>
                                         </li>
                                         <li>
-                                            <a class="text-white" href="../blog/kamatera-review/"> Kamatera Review</a>
+                                            <a class="text-white" href="https://googiehost.com/blog/kamatera-review/"> Kamatera Review</a>
                                         </li>
-                                        <li><a class="text-white" href="../blog/tmd-hosting-review/"> TMD Hosting Review</a>
-                                        </li>
-                                        <li>
-                                            <a class="text-white" href="../blog/wpx-hosting-reviews/"> WPX Hosting Review</a>
+                                        <li><a class="text-white" href="https://googiehost.com/blog/tmd-hosting-review/"> TMD Hosting Review</a>
                                         </li>
                                         <li>
-                                            <a class="text-white" href="../blog/chemicloud-reviews/">Chemicloud Review</a>
+                                            <a class="text-white" href="https://googiehost.com/blog/wpx-hosting-reviews/"> WPX Hosting Review</a>
                                         </li>
                                         <li>
-                                            <a class="text-white" href="../blog/scalahosting-review/"> ScalaHosting Review</a>
+                                            <a class="text-white" href="https://googiehost.com/blog/chemicloud-reviews/">Chemicloud Review</a>
+                                        </li>
+                                        <li>
+                                            <a class="text-white" href="https://googiehost.com/blog/scalahosting-review/"> ScalaHosting Review</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -153,3 +153,31 @@
         </div>
     </div>
 </footer>
+
+
+
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="/googiehost/assets/js/script.js"></script>
+    <script>
+        AOS.init();
+    </script>
+    <script>
+        function showDropdown(element) {
+            let dropdownMenu = element.querySelector(".dropdown-menu");
+            dropdownMenu.classList.add("show");
+            icon.classList.remove("fa-angle-down");
+            icon.classList.add("fa-angle-up"); // Change icon when dropdown is shown
+        }
+
+        function hideDropdown(element) {
+            let dropdownMenu = element.querySelector(".dropdown-menu");
+            dropdownMenu.classList.remove("show");
+            icon.classList.remove("fa-angle-up");
+            icon.classList.add("fa-angle-down"); // Reset icon when dropdown is hidden
+        }
+    </script>
+</body>
+
+</html>

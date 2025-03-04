@@ -95,50 +95,44 @@ if (!isset($page)) {
                                             <h5 class="dropdown-header">
                                                 <i class="fa fa-wordpress"></i> Hosting
                                             </h5>
-                                            <a class="dropdown-item" href="#">YouStable</a>
-                                            <a class="dropdown-item" href="#">InterServer</a>
-                                            <a class="dropdown-item" href="#">A2 Hosting</a>
-                                            <a class="dropdown-item" href="#">UltaHost</a>
-                                            <a class="dropdown-item" href="#">Kamatera</a>
-                                            <a class="btn  btn-block mt-2" href="#">VIEW BEST HOSTS →</a>
+                                            <a class="dropdown-item" href="https://googiehost.com/blog/youstable-review/">YouStable</a>
+                                            <a class="dropdown-item" href="https://googiehost.com/blog/interserver-review/">InterServer</a>
+                                            <a class="dropdown-item" href="https://googiehost.com/blog/a2-hosting-review/">A2 Hosting</a>
+                                            <a class="dropdown-item" href="https://googiehost.com/blog/ultahost-review/">UltaHost</a>
+                                            <a class="dropdown-item" href="https://googiehost.com/blog/kamatera-review/">Kamatera</a>
+                                            <a class="btn  btn-block mt-2" href="https://googiehost.com/blog/hosting-reviews/">VIEW BEST HOSTS →</a>
                                         </div>
                                         <div class="col-md-4">
                                             <h5 class="dropdown-header">
                                                 <i class="fa fa-bolt"></i> VPN
                                             </h5>
-                                            <a class="dropdown-item" href="#">NordVPN</a>
-                                            <a class="dropdown-item" href="#">IvacyVPN</a>
-                                            <a class="dropdown-item" href="#">ExpressVPN</a>
-                                            <a class="dropdown-item" href="#">IPVanish</a>
-                                            <a class="dropdown-item" href="#">HotSpotShield</a>
-                                            <a class="btn btn-block mt-2" href="#">VIEW MORE VPN →</a>
+                                            <a class="dropdown-item" href="https://googiehost.com/blog/nordvpn-review/">NordVPN</a>
+                                            <a class="dropdown-item" href="https://googiehost.com/blog/ivacy-vpn-review/">IvacyVPN</a>
+                                            <a class="dropdown-item" href="https://googiehost.com/blog/go/expressvpn/">ExpressVPN</a>
+                                            <a class="dropdown-item" href="https://googiehost.com/blog/go/ipvanish/">IPVanish</a>
+                                            <a class="dropdown-item" href="https://googiehost.com/blog/go/hotspotshield/">HotSpotShield</a>
+                                            <a class="btn btn-block mt-2" href="https://googiehost.com/blog/vpn">VIEW MORE VPN →</a>
                                         </div>
                                         <div class="col-md-4">
                                             <h5 class="dropdown-header">
                                                 <i class="fa fa-rss"></i> SEO/Blogging
                                             </h5>
-                                            <a class="dropdown-item" href="#">Email Marketing Tools</a>
-                                            <a class="dropdown-item" href="#">Top LiveChat Apps</a>
-                                            <a class="dropdown-item" href="#">Best Blogging Tools</a>
-                                            <a class="dropdown-item" href="#">Blogging Tutorials</a>
-                                            <a class="dropdown-item" href="#">Top WordPress Plugins</a>
-                                            <a class="btn btn-block mt-2" href="#">VIEW MORE TOOLS →</a>
+                                            <a class="dropdown-item" href="https://googiehost.com/blog/best-email-marketing-software-tools/">Email Marketing Tools</a>
+                                            <a class="dropdown-item" href="https://googiehost.com/blog/best-live-chat-software/">Top LiveChat Apps</a>
+                                            <a class="dropdown-item" href="https://googiehost.com/blog/best-blogging-tools/">Best Blogging Tools</a>
+                                            <a class="dropdown-item" href="https://googiehost.com/blog/tutorials/">Blogging Tutorials</a>
+                                            <a class="dropdown-item" href="https://googiehost.com/blog/top-5-wordpress-plugins/">Top WordPress Plugins</a>
+                                            <a class="btn btn-block mt-2" href="https://googiehost.com/blog/blogging/">VIEW MORE TOOLS →</a>
                                         </div>
                                     </div>
                                 </div>
                             </li>
 
-                            <li class="nav-item dropdown" onmouseover="showDropdown(this)" onmouseout="hideDropdown(this)">
-                                <a class=" btn nav-link SignInUp" href="#" id="loginDropdown" role="button"
-                                    data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Login</a>
-                                <div class="dropdown-menu rounded mb-0   " aria-labelledby="loginDropdown"
-                                    id="loginDropdown">
-                                    <a class="dropdown-item"
-                                        href="https://client.googiehost.com/clientarea.php">Account
-                                        Login</a>
-                                    <a class="dropdown-item mb-0" href="/googiehost/signup.php">Create
-                                        Account</a>
-                                </div>
+                            <li class="nav-item dropdown me-lg-2">
+                                <a class=" btn nav-link SignInUp" href="https://client.googiehost.com/clientarea.php" id="loginDropdown" role="button">Sign In</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class=" btn nav-link SignUp" href="https://googiehost.com/signup.php" id="loginDropdown" role="button">Sign Up</a>
                             </li>
 
                         </ul>
@@ -148,29 +142,3 @@ if (!isset($page)) {
         </nav>
     </header>
 
-
-    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-    <script src="/googiehost/assets/js/script.js"></script>
-    <script>
-        AOS.init();
-    </script>
-    <script>
-        function showDropdown(element) {
-            let dropdownMenu = element.querySelector(".dropdown-menu");
-            dropdownMenu.classList.add("show");
-            icon.classList.remove("fa-angle-down");
-            icon.classList.add("fa-angle-up"); // Change icon when dropdown is shown
-        }
-
-        function hideDropdown(element) {
-            let dropdownMenu = element.querySelector(".dropdown-menu");
-            dropdownMenu.classList.remove("show");
-            icon.classList.remove("fa-angle-up");
-            icon.classList.add("fa-angle-down"); // Reset icon when dropdown is hidden
-        }
-    </script>
-</body>
-
-</html>

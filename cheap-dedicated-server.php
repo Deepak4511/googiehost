@@ -4,7 +4,9 @@ $page = 'cheap-dedicated-server';
 include 'inc/header.php'; ?>
 <!-- header end -->
 
-<div class="hero-section">
+<div class="hero-section position-relative">
+    <div class="blury-img"></div>
+    
     <div class="container">
         <div class="row">
             <div class="hero-left-section text-center">
@@ -14,29 +16,7 @@ include 'inc/header.php'; ?>
                 <p>
                     Explore Reliable & cheap dedicated server hosting for robust hosting solutions. Get top-notch website performance our low cost dedicated server with Additional Discount. Get started now!
                 </p>
-                <div class="container">
-                    <ul class="hero-list row list-unstyled g-3">
-                        <li class="col-md-3">
-                            <div class="hero-featur-list"><img src="./assets/images/icons/ip.png
-                        " alt=""> KVM over IP</div>
-                        </li>
-                        <li class="col-md-3">
-                            <div class="hero-featur-list"><img src="./assets/images/icons/ip.png
-                        " alt="">No Setup Cost</div>
-                        </li>
-                        <li class="col-md-3">
-                            <div class="hero-featur-list"><img src="./assets/images/icons/ip.png
-                        " alt="">Free Reboots</div>
-                        </li>
-                        <li class="col-md-3">
-                            <div class="hero-featur-list"><img src="./assets/images/icons/ip.png
-                        " alt="">Mulitple Server Locations</div>
-                        </li>
-                    </ul>
-                </div>
 
-
-                <a href="" class="button_orange">Deploy Free Server now <i class="fa-solid fa-angle-right ms-3"></i></a>
                 <div class="rated justify-content-center">
                     <span>
                         <svg xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20" fill="none">
@@ -44,8 +24,34 @@ include 'inc/header.php'; ?>
                         </svg>
                     </span>No Credit Card required
                 </div>
+                
+                    <ul class="hero-list row list-unstyled g-3">
+                        <li class="col-md-3 col-6">
+                            <div class="hero-featur-list"><img src="./assets/images/icons/kvm-over-ip.png
+                            " alt=""> KVM over IP</div>
+                        </li>
+                        <li class="col-md-3 col-6">
+                            <div class="hero-featur-list"><img src="./assets/images/icons/no-setup-cost.png
+                        " alt="">No Setup Cost</div>
+                        </li>
+                        <li class="col-md-3 col-6">
+                            <div class="hero-featur-list"><img src="./assets/images/icons/free-reboot.png
+                        " alt="">Free Reboots</div>
+                        </li>
+                        <li class="col-md-3 col-6">
+                            <div class="hero-featur-list"><img src="./assets/images/icons/Mulitple-Server-Locations.png
+                        " alt="">Mulitple Server Locations</div>
+                        </li>
+                    </ul>
+                    <div class="blury-img2"></div>
+
+                <a href="" class="button_orange">Deploy Free Server now <i class="fa-solid fa-angle-right ms-3"></i></a>
+                <div class="rated justify-content-center">
+                    Starting at $45/mo
+                </div>
             </div>
         </div>
+        
     </div>
     <h4 class="featured-on text-white text-center">Featured On</h4>
     <div class="inner container" style="padding-top: 0 !important;">
@@ -54,37 +60,36 @@ include 'inc/header.php'; ?>
 </div>
 
 
-<section class="py-5">
+<section class="py-5 position-relative bg-white z-1">
     <div class="container">
         <div class="inner text-center block-double-tb">
-            <h2 class=" mb-1 sec-heading">Buy Cheap Dedicated Server 2025</h2>
-            <span class="heading-4 blink-soft">Sale Live!</span>
+            <h2 class=" sec-heading">Buy Cheap Dedicated Server 2025</h2>
+            <!-- <span class="heading-4 blink-soft">Sale Live!</span> -->
             <p class="sec-subheading text-center">Googiehost is your one-stop solution to finding the <a href="https://googiehost.com/blog/best-web-hosting-services/" target="_blank">best web hosting services </a> for your website needs. Find out which top web hosts are the best at saving your money &amp; time. Get reliable facts and reviews for the top-rated hosting solutions.</p>
         </div>
 
-
-        <div class="row sale-row text-center mb-4">
+        
+        <div class="row sale-row text-center mb-4 cursor-pointer" onclick="window.location.href='https://googiehost.com/blog/go/youstable-dedicated/'">
             <div class="col-md-3 d-flex align-items-center justify-content-center">
-                <div class="d-grid"><a href="https://googiehost.com/blog/go/youstable-dedicated/"><img src="https://googiehost.com/img/youstable%20cheap%20dedicated%20Server.png"></a>
+                <div class="d-grid"><a href="https://googiehost.com/blog/go/youstable-dedicated/"><img src="./assets/images/logos/youstable-cheap-dedicated-Server.png"></a>
                     <a href="https://googiehost.com/blog/youstable-review/" target="_blank">Read review</a>
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex justify-content-center">
-                <div class="text-start">
+            <div class="col-md-3 deal-sec">
+                <div>
                     <h5 class="deal-heading">Whats the Deal</h5>
-                    <p class="mb-0">Starting From:</p>
-                    <p class="deal-price">$60/mo</p>
+                    <p class="mb-0">Starting From:<br class="remove-break"><span class="deal-price">$60/mo</span></p>
+                    
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex justify-content-center ">
-                <div class="text-start">
+            <div class="col-md-3 deal-sec">
+                <div>
                     <h5 class="deal-heading">Discount</h5>
                     <p class="discount-percent">Save 50% on Servers</p>
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex align-items-center justify-content-center">
+            <div class="col-md-3 p-2 d-flex align-items-center justify-content-center">
                 <div>
-
                     <a href="https://googiehost.com/blog/go/youstable-dedicated/" target="_blank" rel="noopener"><button class="grab-deal-btn">Grab
                             Deal <i class="fa-solid fa-arrow-right"></i>
                         </button></a>
@@ -93,30 +98,30 @@ include 'inc/header.php'; ?>
                 </div>
             </div>
         </div>
+        
 
 
-        <div class="row sale-row text-center mb-4">
+        <div class="row sale-row text-center mb-4"  onclick="window.location.href='https://googiehost.com/blog/go/interserver-dedicated/'">
             <div class="col-md-3 d-flex align-items-center justify-content-center">
-                <div class="d-grid"><a href="https://googiehost.com/blog/go/interserver-dedicated/"><img src="https://googiehost.com/img/interserver%20%20%20cheap%20dedicated%20Server.png"></a>
+                <div class="d-grid"><a href="https://googiehost.com/blog/go/interserver-dedicated/"><img src="./assets/images/logos/interserver-cheap-dedicated-Server.png"></a>
                     <a href="https://googiehost.com/blog/youstable-review/" target="_blank">Read review</a>
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex align-items-center justify-content-center">
-                <div class="text-start">
+            <div class="col-md-3 deal-sec">
+                <div>
                     <h5 class="deal-heading">Whats the Deal</h5>
-                    <p class="mb-0">Starting From: </p>
-                    <p class="deal-price">$45/mo</p>
+                    <p class="mb-0">Starting From: <br class="remove-break"><span class="deal-price">$45/mo</span></p>
+                    
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex justify-content-center ">
-                <div class="text-start">
+            <div class="col-md-3 deal-sec">
+                <div>
                     <h5 class="deal-heading">Discount</h5>
                     <p class="discount-percent">Save 50% on Servers</p>
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex justify-content-center">
+            <div class="col-md-3 p-2 d-flex align-items-center justify-content-center">
                 <div>
-
                     <a href="https://googiehost.com/blog/go/interserver-dedicated/" target="_blank" rel="noopener"><button class="grab-deal-btn">Grab
                             Deal <i class="fa-solid fa-arrow-right"></i>
                         </button></a>
@@ -125,26 +130,25 @@ include 'inc/header.php'; ?>
             </div>
         </div>
 
-        <div class="row sale-row text-center mb-4">
+        <div class="row sale-row text-center mb-4"  onclick="window.location.href='https://googiehost.com/blog/go/ultahostdedicated/'">
             <div class="col-md-3 d-flex align-items-center justify-content-center">
-                <div class="d-grid"><a href="https://googiehost.com/blog/go/ultahostdedicated/"><img src="https://googiehost.com/img/ultahost%20cheap%20dedicated%20Server.png"></a>
+                <div class="d-grid"><a href="https://googiehost.com/blog/go/ultahostdedicated/"><img src="./assets/images/logos/ultahost-cheap-dedicated-Server.png"></a>
                     <a href="https://googiehost.com/blog/ultahost-review/" target="_blank">Read review</a>
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex justify-content-center">
-                <div class="text-start">
+            <div class="col-md-3 deal-sec">
+                <div>
                     <h5 class="deal-heading">Whats the Deal</h5>
-                    <p class="mb-0">Starting From: </p>
-                    <p class="deal-price">$129.90/mo</p>
+                    <p class="mb-0">Starting From: <br class="remove-break"><span class="deal-price">$129.90/mo</span></p>
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex justify-content-center ">
-                <div class="text-start">
+            <div class="col-md-3 deal-sec">
+                <div>
                     <h5 class="deal-heading">Discount</h5>
                     <p class="discount-percent">Save 10% on Servers</p>
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex align-items-center justify-content-center">
+            <div class="col-md-3 p-2 d-flex align-items-center justify-content-center">
                 <div>
 
                     <a href="https://googiehost.com/blog/go/ultahostdedicated/" target="_blank" rel="noopener"><button class="grab-deal-btn">Grab
@@ -157,28 +161,27 @@ include 'inc/header.php'; ?>
         </div>
 
 
-        <div class="row sale-row text-center mb-4">
+        <div class="row sale-row text-center mb-4" onclick="window.location.href='https://googiehost.com/blog/go/liquidwebdedicated/'">
             <div class="col-md-3 d-flex align-items-center justify-content-center">
-                <div class="d-grid"><a href="https://googiehost.com/blog/go/liquidwebdedicated/"><img src="https://googiehost.com/img/liquidweb%20%20cheap%20dedicated%20Server.png"></a>
+                <div class="d-grid"><a href="https://googiehost.com/blog/go/liquidwebdedicated/"><img src="./assets/images/logos/liquidweb-cheap-dedicated-Server.png"></a>
                     <a href="https://googiehost.com/blog/liquid-web-review/" target="_blank">Read review</a>
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex justify-content-center">
-                <div class="text-start">
+            <div class="col-md-3 deal-sec">
+                <div>
                     <h5 class="deal-heading">Whats the Deal</h5>
-                    <p class="mb-0">Starting From: </p>
-                    <p class="deal-price">$75/mo</p>
+                    <p class="mb-0">Starting From: <br class="remove-break"><span class="deal-price">$75/mo</span></p>
+                    
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex justify-content-center ">
-                <div class="text-start">
+            <div class="col-md-3 deal-sec">
+                <div>
                     <h5 class="deal-heading">Discount</h5>
                     <p class="discount-percent">Save 50% on Servers</p>
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex align-items-center justify-content-center">
+            <div class="col-md-3 p-2 d-flex align-items-center justify-content-center">
                 <div>
-
                     <a href="https://googiehost.com/blog/go/liquidwebdedicated/" target="_blank" rel="noopener"><button class="grab-deal-btn">Grab
                             Deal <i class="fa-solid fa-arrow-right"></i>
                         </button></a>
@@ -188,28 +191,27 @@ include 'inc/header.php'; ?>
         </div>
 
 
-        <div class="row sale-row text-center mb-4">
+        <div class="row sale-row text-center mb-4" onclick="window.location.href='https://googiehost.com/blog/go/a2hosting/'">
             <div class="col-md-3 d-flex align-items-center justify-content-center">
-                <div class="d-grid"><a href="https://googiehost.com/blog/go/a2hosting/"><img src="https://googiehost.com/img/A2%20hosting%20cheap%20dedicated%20Server.png"></a>
+                <div class="d-grid"><a href="https://googiehost.com/blog/go/a2hosting/"><img src="./assets/images/logos/A2-hosting-cheap-dedicated-Server.png"></a>
                     <a href="https://googiehost.com/blog/a2hosting-review/" target="_blank">Read review</a>
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex align-items-center justify-content-center">
-                <div class="text-start">
+            <div class="col-md-3 deal-sec">
+                <div class="text-start ">
                     <h5 class="deal-heading">Whats the Deal</h5>
-                    <p class="mb-0">Starting From: </p>
-                    <p class="deal-price">$79.99/mo</p>
+                    <p class="mb-0">Starting From: <br class="remove-break"><span class="deal-price">$79.99/mo</span></p>
+                    
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex justify-content-center ">
-                <div class="text-start">
+            <div class="col-md-3 deal-sec">
+                <div>
                     <h5 class="deal-heading">Discount</h5>
                     <p class="discount-percent">Save 68% on Servers</p>
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex justify-content-center">
+            <div class="col-md-3 p-2 d-flex align-items-center justify-content-center">
                 <div>
-
                     <a href="https://googiehost.com/blog/go/a2hosting/" target="_blank" rel="noopener"><button class="grab-deal-btn">Grab
                             Deal <i class="fa-solid fa-arrow-right"></i>
                         </button></a>
@@ -219,26 +221,26 @@ include 'inc/header.php'; ?>
         </div>
 
 
-        <div class="row sale-row text-center mb-4">
+        <div class="row sale-row text-center mb-4" onclick="window.location.href='https://googiehost.com/blog/go/hostgator-dedicated/'">
             <div class="col-md-3 d-flex align-items-center justify-content-center">
-                <div class="d-grid"><a href="https://googiehost.com/blog/go/hostgator-dedicated/"><img src="https://googiehost.com/img/hostgator%20%20cheap%20dedicated%20Server.png"></a>
+                <div class="d-grid"><a href="https://googiehost.com/blog/go/hostgator-dedicated/"><img src="./assets/images/logos/hostgator-cheap-dedicated-Server.png"></a>
                     <a href="https://googiehost.com/blog/hostgator-review/" target="_blank">Read review</a>
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex justify-content-center">
-                <div class="text-start">
+            <div class="col-md-3 deal-sec">
+                <div>
                     <h5 class="deal-heading">Whats the Deal</h5>
-                    <p class="mb-0">Starting From: </p>
-                    <p class="deal-price">$91.98/mo</p>
+                    <p class="mb-0">Starting From: <br class="remove-break"> <span class="deal-price">$91.98/mo</span></p>
+                   
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex justify-content-center ">
-                <div class="text-start">
+            <div class="col-md-3 deal-sec">
+                <div>
                     <h5 class="deal-heading">Discount</h5>
                     <p class="discount-percent">Save 49% on Servers</p>
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex align-items-center justify-content-center">
+            <div class="col-md-3 p-2 d-flex align-items-center justify-content-center">
                 <div>
 
                     <a href="https://googiehost.com/blog/go/hostgator-dedicated/" target="_blank" rel="noopener"><button class="grab-deal-btn">Grab
@@ -250,26 +252,26 @@ include 'inc/header.php'; ?>
         </div>
 
 
-        <div class="row sale-row text-center mb-4">
+        <div class="row sale-row text-center mb-4" onclick="window.location.href='https://googiehost.com/blog/go/bluehostdedicated/'">
             <div class="col-md-3 d-flex align-items-center justify-content-center">
-                <div class="d-grid"><a href="https://googiehost.com/blog/go/bluehostdedicated/"><img src="https://googiehost.com/img/bluehost%20cheap%20dedicated%20Server.png"></a>
+                <div class="d-grid"><a href="https://googiehost.com/blog/go/bluehostdedicated/"><img src="./assets/images/logos/bluehost-cheap-dedicated-Server.png"></a>
                     <a href="https://googiehost.com/blog/bluehost-review/" target="_blank">Read review</a>
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex justify-content-center">
-                <div class="text-start">
+            <div class="col-md-3 deal-sec">
+                <div>
                     <h5 class="deal-heading">Whats the Deal</h5>
-                    <p class="mb-0">Starting From: </p>
-                    <p class="deal-price">$91.98/mo</p>
+                    <p class="mb-0">Starting From: <br class="remove-break"> <span class="deal-price">$91.98/mo</span></p>
+                   
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex justify-content-center ">
-                <div class="text-start">
+            <div class="col-md-3 deal-sec">
+                <div>
                     <h5 class="deal-heading">Discount</h5>
                     <p class="discount-percent">Save 53% on Servers</p>
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex align-items-center justify-content-center">
+            <div class="col-md-3 p-2 d-flex align-items-center justify-content-center">
                 <div>
 
                     <a href="https://googiehost.com/blog/go/bluehostdedicated/" target="_blank" rel="noopener"><button class="grab-deal-btn">Grab
@@ -281,26 +283,26 @@ include 'inc/header.php'; ?>
         </div>
 
 
-        <div class="row sale-row text-center mb-4">
+        <div class="row sale-row text-center mb-4" onclick="window.location.href='https://googiehost.com/blog/go/tmdhosting-dedicated/'">
             <div class="col-md-3 d-flex align-items-center justify-content-center">
-                <div class="d-grid"><a href="https://googiehost.com/blog/go/tmdhosting-dedicated/"><img src="https://googiehost.com/img/TMD%20hosting%20cheap%20dedicated%20Server.png"></a>
+                <div class="d-grid"><a href="https://googiehost.com/blog/go/tmdhosting-dedicated/"><img src="./assets/images/logos/TMD-hosting-cheap-dedicated-Server.png"></a>
                     <a href="https://googiehost.com/blog/bluehost-review/" target="_blank">Read review</a>
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex justify-content-center">
-                <div class="text-start">
+            <div class="col-md-3 deal-sec">
+                <div>
                     <h5 class="deal-heading">Whats the Deal</h5>
-                    <p class="mb-0">Starting From: </p>
-                    <p class="deal-price">$91.98/mo</p>
+                    <p class="mb-0">Starting From: <br class="remove-break"> <span class="deal-price">$91.98/mo</span></p>
+                   
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex justify-content-center ">
-                <div class="text-start">
+            <div class="col-md-3 deal-sec">
+                <div>
                     <h5 class="deal-heading">Discount</h5>
                     <p class="discount-percent">Save 53% on Servers</p>
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex align-items-center justify-content-center">
+            <div class="col-md-3 p-2 d-flex align-items-center justify-content-center">
                 <div>
 
                     <a href="https://googiehost.com/blog/go/tmdhosting-dedicated/" target="_blank" rel="noopener"><button class="grab-deal-btn">Grab
@@ -312,26 +314,26 @@ include 'inc/header.php'; ?>
         </div>
 
 
-        <div class="row sale-row text-center mb-4">
+        <div class="row sale-row text-center mb-4" onclick="window.location.href='https://googiehost.com/blog/go/hostwinds-dedicated/'">
             <div class="col-md-3 d-flex align-items-center justify-content-center">
-                <div class="d-grid"><a href="https://googiehost.com/blog/go/hostwinds-dedicated/"><img src="https://googiehost.com/img/hostwinds%20cheap%20dedicated%20Server.png"></a>
+                <div class="d-grid"><a href="https://googiehost.com/blog/go/hostwinds-dedicated/"><img src="./assets/images/logos/hostwinds-cheap-dedicated-Server.png"></a>
                     <a href="https://googiehost.com/blog/hostwinds-review/" target="_blank">Read review</a>
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex justify-content-center">
-                <div class="text-start">
+            <div class="col-md-3 deal-sec">
+                <div>
                     <h5 class="deal-heading">Whats the Deal</h5>
-                    <p class="mb-0">Starting From: </p>
-                    <p class="deal-price">$122/mo</p>
+                    <p class="mb-0">Starting From: <br class="remove-break"><span class="deal-price">$122/mo</span></p>
+                    
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex justify-content-center ">
-                <div class="text-start">
+            <div class="col-md-3 deal-sec">
+                <div>
                     <h5 class="deal-heading">Discount</h5>
                     <p class="discount-percent">Save 35% on Servers</p>
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex align-items-center justify-content-center">
+            <div class="col-md-3 p-2 d-flex align-items-center justify-content-center">
                 <div>
 
                     <a href="https://googiehost.com/blog/go/hostwinds-dedicated/" target="_blank" rel="noopener"><button class="grab-deal-btn">Grab
@@ -342,26 +344,26 @@ include 'inc/header.php'; ?>
             </div>
         </div>
 
-        <div class="row sale-row text-center mb-4">
+        <div class="row sale-row text-center mb-4" onclick="window.location.href='https://googiehost.com/blog/go/vultr/'">
             <div class="col-md-3 d-flex align-items-center justify-content-center">
-                <div class="d-grid"><a href="https://googiehost.com/blog/go/vultr/"><img src="https://googiehost.com/img/vultr%20cheap%20dedicated%20Server.png"></a>
+                <div class="d-grid"><a href="https://googiehost.com/blog/go/vultr/"><img src="./assets/images/logos/vultr-cheap-dedicated-Server.png"></a>
                     <a href="https://googiehost.com/blog/vultr-review/" target="_blank">Read review</a>
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex justify-content-center">
-                <div class="text-start">
+            <div class="col-md-3 deal-sec">
+                <div>
                     <h5 class="deal-heading">Whats the Deal</h5>
-                    <p class="mb-0">Starting From: </p>
-                    <p class="deal-price">$90/mo</p>
+                    <p class="mb-0">Starting From: <br class="remove-break"><span class="deal-price">$90/mo</span></p>
+                    
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex justify-content-center ">
-                <div class="text-start">
+            <div class="col-md-3 deal-sec">
+                <div>
                     <h5 class="deal-heading">Discount</h5>
                     <p class="discount-percent">Save 30% on Servers</p>
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex align-items-center justify-content-center">
+            <div class="col-md-3 p-2 d-flex align-items-center justify-content-center">
                 <div>
 
                     <a href="https://googiehost.com/blog/go/vultr/" target="_blank" rel="noopener"><button class="grab-deal-btn">Grab
@@ -372,26 +374,26 @@ include 'inc/header.php'; ?>
             </div>
         </div>
 
-        <div class="row sale-row text-center mb-4">
+        <div class="row sale-row text-center mb-4" onclick="window.location.href='https://googiehost.com/blog/go/dreamhost/'">
             <div class="col-md-3 d-flex align-items-center justify-content-center">
-                <div class="d-grid"><a href="https://googiehost.com/blog/go/dreamhost/"><img src="https://googiehost.com/img/dreamhost%20%20%20cheap%20dedicated%20Server.png"></a>
+                <div class="d-grid"><a href="https://googiehost.com/blog/go/dreamhost/"><img src="./assets/images/logos/dreamhost-cheap-dedicated-Server.png"></a>
                     <a href="https://googiehost.com/blog/vultr-review/" target="_blank">Read review</a>
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex  justify-content-center">
-                <div class="text-start">
+            <div class="col-md-3 deal-sec">
+                <div>
                     <h5 class="deal-heading">Whats the Deal</h5>
-                    <p class="mb-0">Starting From: </p>
-                    <p class="deal-price">$149/mo</p>
+                    <p class="mb-0">Starting From: <br class="remove-break"><span class="deal-price">$149/mo</span></p>
+                    
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex  justify-content-center ">
-                <div class="text-start">
+            <div class="col-md-3 deal-sec">
+                <div>
                     <h5 class="deal-heading">Discount</h5>
                     <p class="discount-percent">Save 30% on Servers</p>
                 </div>
             </div>
-            <div class="col-md-3 p-4 d-flex align-items-center justify-content-center">
+            <div class="col-md-3 p-2 d-flex align-items-center justify-content-center">
                 <div>
 
                     <a href="https://googiehost.com/blog/go/dreamhost/" target="_blank" rel="noopener"><button class="grab-deal-btn">Grab
@@ -423,7 +425,8 @@ include 'inc/header.php'; ?>
             <div class="p-4">
                 <div class="row mt-3">
                     <div class="col-md-6">
-                        <img src="https://googiehost.com/depends/youstable%20hosting%20provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded">
+                        <a href="https://googiehost.com/blog/go/youstable-dedicated/">
+                        <img src="./assets/images/affiliate/youstable-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="d-flex justify-content-between align-items-center">
@@ -490,7 +493,6 @@ include 'inc/header.php'; ?>
                             </div>
                         </div>
 
-
                     </div>
                 </div>
             </div>
@@ -504,7 +506,8 @@ include 'inc/header.php'; ?>
             <div class="p-4">
                 <div class="row mt-3">
                     <div class="col-md-6">
-                        <img src="https://googiehost.com/depends/interserver%20hosting%20provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded">
+                    <a href="https://googiehost.com/blog/go/interserver-dedicated/">
+                        <img src="./assets/images/affiliate/interserver-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="d-flex justify-content-between align-items-center">
@@ -586,7 +589,8 @@ include 'inc/header.php'; ?>
             <div class="p-4">
                 <div class="row mt-3">
                     <div class="col-md-6">
-                        <img src="https://googiehost.com/depends/ultahost%20hosting%20provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded">
+                    <a href="https://googiehost.com/blog/go/ultahostdedicated/">
+                        <img src="./assets/images/affiliate/ultahost-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="d-flex justify-content-between align-items-center">
@@ -668,7 +672,8 @@ include 'inc/header.php'; ?>
             <div class="p-4">
                 <div class="row mt-3">
                     <div class="col-md-6">
-                        <img src="https://googiehost.com/depends/liquidweb%20hosting%20provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded">
+                    <a href="https://googiehost.com/blog/go/liquidwebdedicated/">
+                        <img src="./assets/images/affiliate/liquidweb-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="d-flex justify-content-between align-items-center">
@@ -712,14 +717,14 @@ include 'inc/header.php'; ?>
                 </div>
 
                 <div class="mt-3">
-                    <div class="accordion" id="accordionExample2">
+                    <div class="accordion" id="accordionExample4">
                         <div class="accordion-item key-feature-sec">
                             <h2 class="accordion-header">
-                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature2" aria-expanded="false" aria-controls="collapseFeature2">
+                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature4" aria-expanded="false" aria-controls="collapseFeature4">
                                 Key takeaways that LiquidWeb offers its Dedicated Server Users:
                                 </button>
                             </h2>
-                            <div id="collapseFeature2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                            <div id="collapseFeature4" class="accordion-collapse collapse" data-bs-parent="#accordionExample4">
                                 <div class="accordion-body">
                                     <div class="hosting-key-features">
                                         <div><i class="fa-solid fa-check feature-check-symbol"></i>Multiple Data Centers</div>
@@ -752,7 +757,8 @@ include 'inc/header.php'; ?>
             <div class="p-4">
                 <div class="row mt-3">
                     <div class="col-md-6">
-                        <img src="https://googiehost.com/depends/a2hosting%20hosting%20provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded">
+                    <a href="https://googiehost.com/blog/go/a2hosting/">
+                        <img src="./assets/images/affiliate/a2hosting-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="d-flex justify-content-between align-items-center">
@@ -760,7 +766,7 @@ include 'inc/header.php'; ?>
                             <span class="rating-sec fw-bold">9.8</span><span class="fw-bold fs-5">/10</span>
                             <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
                             </div>
-                            <a href="https://googiehost.com/blog/go/interserver-dedicated/" class="best-deal-btn hide-btn1">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                            <a href="https://googiehost.com/blog/go/a2hosting/" class="best-deal-btn hide-btn1">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                        
                         <div class="mt-3 stats-box">
@@ -770,7 +776,7 @@ include 'inc/header.php'; ?>
                         </div>
                     </div>
                     <div class="col-lg-3">
-                        <a href="https://googiehost.com/blog/go/interserver-dedicated/" class="best-deal-btn hide-btn">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                        <a href="https://googiehost.com/blog/go/a2hosting/" class="best-deal-btn hide-btn">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>
 
@@ -796,14 +802,14 @@ include 'inc/header.php'; ?>
                 </div>
 
                 <div class="mt-3">
-                    <div class="accordion" id="accordionExample2">
+                    <div class="accordion" id="accordionExample5">
                         <div class="accordion-item key-feature-sec">
                             <h2 class="accordion-header">
-                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature2" aria-expanded="false" aria-controls="collapseFeature2">
+                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature5" aria-expanded="false" aria-controls="collapseFeature5">
                                 Features that Dedicated server hosting of A2Hosting offers:
                                 </button>
                             </h2>
-                            <div id="collapseFeature2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                            <div id="collapseFeature5" class="accordion-collapse collapse" data-bs-parent="#accordionExample5">
                                 <div class="accordion-body">
                                     <div class="hosting-key-features">
                                         <div><i class="fa-solid fa-check feature-check-symbol"></i>Managed/UnManaged servers</div>
@@ -835,9 +841,11 @@ include 'inc/header.php'; ?>
             <div class="p-4">
                 <div class="row mt-3">
                     <div class="col-md-6">
-                        <img src="https://googiehost.com/depends/hostgator%20hosting%20provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded">
+                    <a href="https://googiehost.com/blog/go/hostgator-dedicated/">
+                        <img src="./assets/images/affiliate/hostgator-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
                     </div>
                     <div class="col-lg-3 col-md-6">
+                        
                         <div class="d-flex justify-content-between align-items-center">
                             <div>
                             <span class="rating-sec fw-bold">9.7</span><span class="fw-bold fs-5">/10</span>
@@ -879,14 +887,14 @@ include 'inc/header.php'; ?>
                 </div>
 
                 <div class="mt-3">
-                    <div class="accordion" id="accordionExample2">
+                    <div class="accordion" id="accordionExample6">
                         <div class="accordion-item key-feature-sec">
                             <h2 class="accordion-header">
-                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature2" aria-expanded="false" aria-controls="collapseFeature2">
+                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature6" aria-expanded="false" aria-controls="collapseFeature6">
                                 Want to know the key features of Dedicated servers by UltaHost:
                                 </button>
                             </h2>
-                            <div id="collapseFeature2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                            <div id="collapseFeature6" class="accordion-collapse collapse" data-bs-parent="#accordionExample6">
                                 <div class="accordion-body">
                                     <div class="hosting-key-features">
                                         <div><i class="fa-solid fa-check feature-check-symbol"></i>Premium CloudFlare Configuration</div>
@@ -917,7 +925,8 @@ include 'inc/header.php'; ?>
             <div class="p-4">
                 <div class="row mt-3">
                     <div class="col-md-6">
-                        <img src="https://googiehost.com/depends/bluehost%20hosting%20provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded">
+                    <a href="https://googiehost.com/blog/go/bluehostdedicated/">
+                        <img src="./assets/images/affiliate/bluehost-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="d-flex justify-content-between align-items-center">
@@ -961,14 +970,14 @@ include 'inc/header.php'; ?>
                 </div>
 
                 <div class="mt-3">
-                    <div class="accordion" id="accordionExample2">
+                    <div class="accordion" id="accordionExample7">
                         <div class="accordion-item key-feature-sec">
                             <h2 class="accordion-header">
-                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature2" aria-expanded="false" aria-controls="collapseFeature2">
+                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature7" aria-expanded="false" aria-controls="collapseFeature7">
                                 Features that BlueHost offers its Dedicated Server clients:
                                 </button>
                             </h2>
-                            <div id="collapseFeature2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                            <div id="collapseFeature7" class="accordion-collapse collapse" data-bs-parent="#accordionExample7">
                                 <div class="accordion-body">
                                     <div class="hosting-key-features">
                                         <div><i class="fa-solid fa-check feature-check-symbol"></i>RAID Storage Technology</div>
@@ -1000,7 +1009,8 @@ include 'inc/header.php'; ?>
             <div class="p-4">
                 <div class="row mt-3">
                     <div class="col-md-6">
-                        <img src="https://googiehost.com/depends/tmdhosting%20hosting%20provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded">
+                    <a href="https://googiehost.com/blog/go/tmdhosting-dedicated/">
+                        <img src="./assets/images/affiliate/tmdhosting-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="d-flex justify-content-between align-items-center">
@@ -1044,14 +1054,14 @@ include 'inc/header.php'; ?>
                 </div>
 
                 <div class="mt-3">
-                    <div class="accordion" id="accordionExample2">
+                    <div class="accordion" id="accordionExample8">
                         <div class="accordion-item key-feature-sec">
                             <h2 class="accordion-header">
-                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature2" aria-expanded="false" aria-controls="collapseFeature2">
+                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature8" aria-expanded="false" aria-controls="collapseFeature8">
                                 Specifications offered by TMDHosting's Cheap Dedicated Server:
                                 </button>
                             </h2>
-                            <div id="collapseFeature2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                            <div id="collapseFeature8" class="accordion-collapse collapse" data-bs-parent="#accordionExample8">
                                 <div class="accordion-body">
                                     <div class="hosting-key-features">
                                         <div><i class="fa-solid fa-check feature-check-symbol"></i>Fully Managed Infrastructure</div>
@@ -1081,7 +1091,8 @@ include 'inc/header.php'; ?>
             <div class="p-4">
                 <div class="row mt-3">
                     <div class="col-md-6">
-                        <img src="https://googiehost.com/depends/hostwinds%20hosting%20provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded">
+                    <a href="https://googiehost.com/blog/go/hostwinds-dedicated/">
+                        <img src="./assets/images/affiliate/hostwinds-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="d-flex justify-content-between align-items-center">
@@ -1125,14 +1136,14 @@ include 'inc/header.php'; ?>
                 </div>
 
                 <div class="mt-3">
-                    <div class="accordion" id="accordionExample2">
+                    <div class="accordion" id="accordionExample9">
                         <div class="accordion-item key-feature-sec">
                             <h2 class="accordion-header">
-                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature2" aria-expanded="false" aria-controls="collapseFeature2">
+                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature9" aria-expanded="false" aria-controls="collapseFeature9">
                                 Let’s see the Key Features of the Dedicated servers by Hostwinds
                                 </button>
                             </h2>
-                            <div id="collapseFeature2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                            <div id="collapseFeature9" class="accordion-collapse collapse" data-bs-parent="#accordionExample9">
                                 <div class="accordion-body">
                                     <div class="hosting-key-features">
                                         <div><i class="fa-solid fa-check feature-check-symbol"></i>24*7 Assistance Services</div>
@@ -1160,7 +1171,8 @@ include 'inc/header.php'; ?>
             <div class="p-4">
                 <div class="row mt-3">
                     <div class="col-md-6">
-                        <img src="https://googiehost.com/depends/vultr%20hosting%20provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded">
+                    <a href="https://googiehost.com/blog/go/vultr/">
+                        <img src="./assets/images/affiliate/vultr-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="d-flex justify-content-between align-items-center">
@@ -1204,14 +1216,14 @@ include 'inc/header.php'; ?>
                 </div>
 
                 <div class="mt-3">
-                    <div class="accordion" id="accordionExample2">
+                    <div class="accordion" id="accordionExample10">
                         <div class="accordion-item key-feature-sec">
                             <h2 class="accordion-header">
-                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature2" aria-expanded="false" aria-controls="collapseFeature2">
+                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature10" aria-expanded="false" aria-controls="collapseFeature10">
                                 Key features offered by Best Dedicated servers of Vultr
                                 </button>
                             </h2>
-                            <div id="collapseFeature2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                            <div id="collapseFeature10" class="accordion-collapse collapse" data-bs-parent="#accordionExample10">
                                 <div class="accordion-body">
                                     <div class="hosting-key-features">
                                         <div><i class="fa-solid fa-check feature-check-symbol"></i>Offers Docker & Kubernetes Solutions</div>
@@ -1241,7 +1253,8 @@ include 'inc/header.php'; ?>
             <div class="p-4">
                 <div class="row mt-3">
                     <div class="col-md-6">
-                        <img src="https://googiehost.com/depends/dreamhost%20hosting%20provider%20copy-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded">
+                    <a href="https://googiehost.com/blog/go/dreamhost/">
+                        <img src="./assets/images/affiliate/dreamhost-hosting-provider-copy-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="d-flex justify-content-between align-items-center">
@@ -1285,14 +1298,14 @@ include 'inc/header.php'; ?>
                 </div>
 
                 <div class="mt-3">
-                    <div class="accordion" id="accordionExample2">
+                    <div class="accordion" id="accordionExample11">
                         <div class="accordion-item key-feature-sec">
                             <h2 class="accordion-header">
-                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature2" aria-expanded="false" aria-controls="collapseFeature2">
+                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature11" aria-expanded="false" aria-controls="collapseFeature11">
                                 Some more features that DreamHost offers its Clients:
                                 </button>
                             </h2>
-                            <div id="collapseFeature2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
+                            <div id="collapseFeature11" class="accordion-collapse collapse" data-bs-parent="#accordionExample11">
                                 <div class="accordion-body">
                                     <div class="hosting-key-features">
                                         <div><i class="fa-solid fa-check feature-check-symbol"></i>Unmetered Bandwidth</div>
@@ -1318,7 +1331,7 @@ include 'inc/header.php'; ?>
 <section>
     <!-- feature section  -->
 
-        <div class="container py-5 ">
+        <div class="container pb-5 ">
             <h2 class="text-center sec-heading">Why Buy Cheap Dedicated Server Hosting?</h2>
             <p class=" text-center  p-1 sec-subheading">
                 A cheap Dedicated Hosting Must be the Best Dedicated Hosting. It has the following features.
@@ -1329,7 +1342,8 @@ include 'inc/header.php'; ?>
                 <div class="col-md-6 col-lg-4">
                     <div class="feature-card">
                         <div class=" mx-auto">
-                            <img src="./assets/images/icons/icon.png" alt="1000MB SSD Storage" class="mb-3">
+                            <!-- <img src="./assets/images/icons/root-access.svg" alt="1000MB SSD Storage" class="mb-3"> -->
+                            <img src="./assets/images/icons/externded-security.svg" alt="Extended Security" class="mb-3">
                             <h5 class="card-title">Root Access</h5>
                         </div>
                         <div class="card-body">
@@ -1343,7 +1357,8 @@ include 'inc/header.php'; ?>
                 <div class="col-md-6 col-lg-4">
                     <div class="feature-card">
                         <div class=" mx-auto">
-                            <img src="./assets/images/icons/icon.png" alt="100GB Bandwidth" class="mb-3">
+                            <!-- <img src="./assets/images/icons/host-unlimited-website.svg" alt="100GB Bandwidth" class="mb-3"> -->
+                            <img src="./assets/images/icons/externded-security.svg" alt="Extended Security" class="mb-3">
                             <h5 class="card-title">Host Unlimited Websites</h5>
                         </div>
                         <div class="card-body">
@@ -1357,7 +1372,8 @@ include 'inc/header.php'; ?>
                 <div class="col-md-6 col-lg-4">
                     <div class="feature-card">
                         <div class=" mx-auto">
-                            <img src="./assets/images/icons/icon.png" alt="Hotlink Protection" class="mb-3">
+                            <!-- <img src="./assets/images/icons/dedicated-ip.svg" alt="Hotlink Protection" class="mb-3"> -->
+                            <img src="./assets/images/icons/externded-security.svg" alt="Extended Security" class="mb-3">
                             <h5 class="card-title">Dedicated IP</h5>
                         </div>
                         <div class="card-body">
@@ -1372,7 +1388,8 @@ include 'inc/header.php'; ?>
                 <div class="col-md-6 col-lg-4">
                     <div class="feature-card">
                         <div class=" mx-auto">
-                            <img src="./assets/images/icons/icon.png" alt="2 MySQL Databases" class="mb-3">
+                            <!-- <img src="./assets/images/icons/high-traffic-website.svg" alt="2 MySQL Databases" class="mb-3"> -->
+                            <img src="./assets/images/icons/externded-security.svg" alt="Extended Security" class="mb-3">
                             <h5 class="card-title">High Traffic Websites</h5>
                         </div>
                         <div class="card-body">
@@ -1385,7 +1402,7 @@ include 'inc/header.php'; ?>
                 <div class="col-md-6 col-lg-4">
                     <div class="feature-card">
                         <div class=" mx-auto">
-                            <img src="./assets/images/icons/icon.png" alt="2 FTP Accounts" class="mb-3">
+                            <img src="./assets/images/icons/advanced-firewall.svg" alt="2 FTP Accounts" class="mb-3">
                             <h5 class="card-title">Advanced firewall</h5>
                         </div>
                         <div class="card-body">
@@ -1399,7 +1416,7 @@ include 'inc/header.php'; ?>
                 <div class="col-md-6 col-lg-4">
                     <div class="feature-card">
                         <div class=" mx-auto">
-                            <img src="./assets/images/icons/icon.png" alt="Free Website Builder" class="mb-3">
+                            <img src="./assets/images/icons/externded-security.svg" alt="Extended Security" class="mb-3">
                             <h5 class="card-title">Extended Security</h5>
                         </div>
                         <div class="card-body">
@@ -1432,7 +1449,7 @@ include 'inc/header.php'; ?>
                 <div class="col-md-6">
                     <div class=" feature-card">
                         <div class=" mx-auto">
-                            <img src="./assets/images/icons/icon.png" alt="1000MB SSD Storage">
+                            <img src="./assets/images/icons/cpu.svg" alt="cpu" class="mb-3">
                             <h5 class="card-title">CPU</h5>
                         </div>
                         <div class="card-body">
@@ -1446,7 +1463,7 @@ include 'inc/header.php'; ?>
                 <div class="col-md-6">
                     <div class=" feature-card">
                         <div class=" mx-auto">
-                            <img src="./assets/images/icons/icon.png" alt="100GB Bandwidth">
+                            <img src="./assets/images/icons/ram.svg" alt="ssd" class="mb-3">
                             <h5 class="card-title">RAM</h5>
                         </div>
                         <div class="card-body">
@@ -1460,7 +1477,7 @@ include 'inc/header.php'; ?>
                 <div class="col-md-6">
                     <div class=" feature-card">
                         <div class=" mx-auto">
-                            <img src="./assets/images/icons/icon.png" alt="Hotlink Protection">
+                            <img src="./assets/images/icons/ssd.svg" alt="Storage" class="mb-3">
                             <h5 class="card-title">Storage</h5>
                         </div>
                         <div class="card-body">
@@ -1475,7 +1492,7 @@ include 'inc/header.php'; ?>
                 <div class="col-md-6">
                     <div class=" feature-card">
                         <div class=" mx-auto">
-                            <img src="./assets/images/icons/icon.png" alt="2 MySQL Databases">
+                            <img src="./assets/images/icons/bandwidth.svg" alt="Bandwidth" class="mb-3">
                             <h5 class="card-title">Bandwidth</h5>
                         </div>
                         <div class="card-body">

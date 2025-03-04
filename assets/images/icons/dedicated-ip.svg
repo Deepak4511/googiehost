@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="95" height="95" viewBox="0 0 95 95">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: AcuminConcept-Bold, 'Acumin Variable Concept';
+        font-size: 12px;
+        font-variation-settings: 'wght' 700, 'wdth' 100, 'slnt' 0;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #28006c;
+      }
+    </style>
+  </defs>
+  <circle class="cls-5" cx="47.5" cy="47.5" r="47.5"/>
+  <g>
+    <circle class="cls-3" cx="44.5" cy="47.4" r="24.5"/>
+    <path class="cls-3" d="M42.7,23s-12.5,5.4-10.8,25.3,9.9,23.5,9.9,23.5"/>
+    <path class="cls-3" d="M45.9,23s12.5,5.4,10.8,25.3-9.9,23.4-9.9,23.4"/>
+    <line class="cls-3" x1="44.5" y1="23.6" x2="44.5" y2="71.7"/>
+    <line class="cls-3" x1="21.7" y1="55" x2="68" y2="55"/>
+    <line class="cls-3" x1="21.7" y1="39.9" x2="67.3" y2="39.9"/>
+  </g>
+  <path class="cls-4" d="M78.7,48.8c0,2.4-.6,4.7-1.7,6.6l-1.9,2.6-10.3,14.7-9.7-14c-2.6-2.5-4.2-6-4.2-9.9,0-7.7,6.2-13.9,13.9-13.9s13.9,6.2,13.9,13.9Z"/>
+  <circle class="cls-3" cx="64.8" cy="47.9" r="8.9"/>
+  <text class="cls-1" transform="translate(59.7 52.2)"><tspan class="cls-2" x="0" y="0">I</tspan><tspan x="3.8" y="0">P</tspan></text>
+</svg>
