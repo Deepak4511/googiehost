@@ -3,43 +3,63 @@ $page = 'free hosting';
 
 include 'inc/header.php'; ?>
 <!-- hero section  -->
-<div class="hero-section">
+<div class="hero-section position-relative">
+    <div class="blury-img"></div>
+    <div class="blury-img2"></div>
     <div class="container">
         <div class="row">
-            <div class="hero-left-section col-md-6">
+            <div class="hero-left-section text-center">
                 <h1 class="entry-title">Host Your Website FREE</h1>
-                <ul class="hero-list mt-3">
-                    <li>Free Sub-Domains</li>
-                    <li>WordPress Installation</li>
-                    <li>Use your own Domain</li>
-                    <li>Upto 98% Server Uptime</li>
-                    <li>Limited Ticket Support</li>
-                </ul>
-                <a href="signup.php" class="button_orange">Start for Free </a>
-                <div class="rated">
+                <!-- <p class="mb-3">Explore our budget-friendly dedicated server hosting, starting at $45/month. Choose from unmanaged or managed bare metal with Free Control Panel, NVME SSDs, and Linux OS options.</p> -->
+
+                <div class="rated justify-content-center">
                     <span>
                         <svg xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20" fill="none">
                             <path d="M12.5 7.5L8 12L6.5 10.5M9 1L1 5C1 10.1932 3.78428 17.5098 9 19C14.2157 17.5098 17 10.1932 17 5L9 1Z" stroke="#F4FFF9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
                         </svg>
                     </span>No Credit Card required
                 </div>
-            </div>
-            <div class="hero-image-section col-md-6">
-                <img src="depends/free-hosting-mascot.svg" width="550px" height="420px" alt="GoogieHost Logo" class="img-fluid">
+
+                <div class="container">
+                    <ul class="hero-list row list-unstyled g-3">
+                        <li class="col-md-3">
+                            <div class="hero-featur-list"><img src="./assets/images/icons/ip.png
+                        " alt=""> Free Sub-Domains</div>
+                        </li>
+                        <li class="col-md-3">
+                            <div class="hero-featur-list"><img src="./assets/images/icons/ip.png
+                        " alt="">WordPress Installation</div>
+                        </li>
+                        <li class="col-md-3">
+                            <div class="hero-featur-list"><img src="./assets/images/icons/ip.png
+                        " alt="">Use your own Domain</div>
+                        </li>
+                        <li class="col-md-3">
+                            <div class="hero-featur-list"><img src="./assets/images/icons/ip.png
+                        " alt="">Upto 98% Server Uptime</div>
+                        </li>
+                    </ul>
+                </div>
+                <a href="" class="button_orange">Deploy Free Server now <i class="fa-solid fa-angle-right ms-3"></i></a>
+                <div class="rated justify-content-center">
+                    Starting at $45/mo
+                </div>
             </div>
         </div>
     </div>
+    <h4 class="featured-on text-white text-center">Featured On</h4>
     <div class="inner container" style="padding-top: 0 !important;">
-        <img loading="lazy" alt="featured on logos" class="img-fluid" data-cfsrc="depends/featured-logos2.png" src="depends/featured-logos2.png">
+        <img loading="lazy" alt="featured on logos" class="img-fluid" data-cfsrc="depends/featured-logos2.png" src="./assets/images/icons/featured-logos2.png">
     </div>
 </div>
+
 
 <!-- / hero section -->
 
 <!-- plan section  -->
-<div class="container pricing-section ">
-    <h2 class="mb-4 text-center fw-bold">Choose Your Web Hosting Plan</h2>
-    <p class=" mx-auto mb-5 text-center">GoogieHost offers best free hosting with added features to help you reach new heights. Get free website migration when switching to a premium hosting provider.</p>
+<div class="container pricing-section py-5">
+    <h2 class="sec-heading text-center">Choose Your Web Hosting Plan</h2>
+    <p class="sec-subheading text-center">GoogieHost offers best free hosting with added features to help you reach new heights. Get free website migration when switching to a premium hosting provider.</p>
     <!-- hosting plan  -->
     <?php include 'inc/hosting-plan.php' ?>
     <!-- hosting plan  -->
@@ -49,24 +69,26 @@ include 'inc/header.php'; ?>
 
 
 
-<div class="features">
-    <div class="container py-5 ">
-        <h2 class="text-center text-white">Web Hosting Features →</h2>
-        <p class="w-md-75 text-center mx-auto p-1 text-white">
-            We offer ultimate free hosting services packed with our most popular cPanel "DirectAdmin" to manage your free web hosting.
-            Along with our <a href="freewebsitebuilder.php">free web hosting Website builder</a> you get free webmail access, SSD boosted drives, a fast MySQL database and much more.
+<section>
+    <!-- feature section  -->
+
+    <div class="container pb-5 ">
+        <h2 class="text-center sec-heading">Web Hosting Features?</h2>
+        <p class=" text-center  p-1 sec-subheading">
+            We offer ultimate free hosting services packed with our most popular cPanel "DirectAdmin" to manage your free web hosting. Along with our <a href="/freewebsitebuilder.php">free web hosting Website builder</a> you get free webmail access, SSD boosted drives, a fast MySQL database and much more.
         </p>
 
         <div class="row g-4 mt-4">
             <!-- Feature 1 -->
             <div class="col-md-6 col-lg-4">
-                <div class="text-center">
+                <div class="feature-card">
                     <div class=" mx-auto">
-                        <img src="depends/free/1000mb.png" alt="1000MB SSD Storage">
+                        <!-- <img src="./assets/images/icons/root-access.svg" alt="1000MB SSD Storage" class="mb-3"> -->
+                        <img src="./assets/images/icons/externded-security.svg" alt="Extended Security" class="mb-3">
                         <h5 class="card-title">1000MB SSD Storage</h5>
                     </div>
-                    <div class="">
-                        <p class="card-text text-white p-3">Now you can host unlimited numbers of website files, every free hosting comes with 1000MB SSD boosted space.</p>
+                    <div class="card-body">
+                        <p class="card-text ">Now you can host unlimited numbers of website files, every free hosting comes with 1000MB SSD boosted space.</p>
 
                     </div>
                 </div>
@@ -74,28 +96,30 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 2 -->
             <div class="col-md-6 col-lg-4">
-                <div class="text-center">
+                <div class="feature-card">
                     <div class=" mx-auto">
-                        <img src="depends/free/100gb.png" alt="100GB Bandwidth">
+                        <!-- <img src="./assets/images/icons/host-unlimited-website.svg" alt="100GB Bandwidth" class="mb-3"> -->
+                        <img src="./assets/images/icons/externded-security.svg" alt="Extended Security" class="mb-3">
                         <h5 class="card-title">100GB Bandwidth</h5>
                     </div>
-                    <div class="">
+                    <div class="card-body">
 
-                        <p class="card-text text-white p-3">Don't worry even if you have good traffic on your website or blog, we offer Unlimited bandwidth with a 100MBPS uplink.</p>
+                        <p class="card-text ">Don't worry even if you have good traffic on your website or blog, we offer Unlimited bandwidth with a 100MBPS uplink.</p>
                     </div>
                 </div>
             </div>
 
             <!-- Feature 3 -->
             <div class="col-md-6 col-lg-4">
-                <div class=" text-center">
+                <div class="feature-card">
                     <div class=" mx-auto">
-                        <img src="depends/free/hotlink.png" alt="Hotlink Protection">
+                        <!-- <img src="./assets/images/icons/dedicated-ip.svg" alt="Hotlink Protection" class="mb-3"> -->
+                        <img src="./assets/images/icons/externded-security.svg" alt="Extended Security" class="mb-3">
                         <h5 class="card-title">Hotlink Protection</h5>
                     </div>
-                    <div class="">
+                    <div class="card-body">
 
-                        <p class="card-text text-white p-3">Protect your website files from being copied using our hotlink protection feature which normaly comes with premium hosting plans.</p>
+                        <p class="card-text ">Protect your website files from being copied using our hotlink protection feature which normaly comes with premium hosting plans.</p>
 
                     </div>
                 </div>
@@ -103,42 +127,43 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 4 -->
             <div class="col-md-6 col-lg-4">
-                <div class=" text-center">
+                <div class="feature-card">
                     <div class=" mx-auto">
-                        <img src="depends/free/mysql.png" alt="2 MySQL Databases">
+                        <!-- <img src="./assets/images/icons/high-traffic-website.svg" alt="2 MySQL Databases" class="mb-3"> -->
+                        <img src="./assets/images/icons/externded-security.svg" alt="Extended Security" class="mb-3">
                         <h5 class="card-title">2 MySQL Databases</h5>
                     </div>
-                    <div class="">
-                        <p class="card-text text-white p-3">Get the latest MySQL Database version with GoogieHost’s free web hosting account. We offer you 2 MySQL databases to keep your records at your fingertips.</p>
+                    <div class="card-body">
+                        <p class="card-text ">Get the latest MySQL Database version with GoogieHost’s free web hosting account. We offer you 2 MySQL databases to keep your records at your fingertips.</p>
                     </div>
                 </div>
             </div>
 
             <!-- Feature 5 -->
             <div class="col-md-6 col-lg-4">
-                <div class=" text-center">
+                <div class="feature-card">
                     <div class=" mx-auto">
-                        <img src="depends/free/ftp.png" alt="2 FTP Accounts">
-                        <h5 class="card-title">2 FTP Accounts</h5>
+                        <img src="./assets/images/icons/externded-security.svg" alt="2 FTP Accounts" class="mb-3">
+                        <h5 class="card-title">Free Website Builder</h5>
                     </div>
-                    <div class="">
+                    <div class="card-body">
 
-                        <p class="card-text text-white p-3">We offer 2 FTP accounts that help you manage your website files using FTP clients like FileZilla.</p>
+                        <p class="card-text ">Our <a href="/freewebsitebuilder.php">Site.pro Website Builder</a> helps you create a professional-looking website even if you have no prior knowledge of coding or programming.</p>
                     </div>
                 </div>
             </div>
 
             <!-- Feature 6 -->
             <div class="col-md-6 col-lg-4">
-                <div class=" text-center">
+                <div class="feature-card">
                     <div class=" mx-auto">
-                        <img src="depends/free/builder.png" alt="Free Website Builder">
-                        <h5 class="card-title">Free Website Builder</h5>
+                        <img src="./assets/images/icons/externded-security.svg" alt="Extended Security" class="mb-3">
+                        <h5 class="card-title">2 FTP Accounts</h5>
                     </div>
-                    <div class="">
+                    <div class="card-body">
 
-                        <p class="card-text text-white p-3">
-                            Our <a href="freewebsitebuilder.php">Site.pro Website Builder</a> helps you create a professional-looking website even if you have no prior knowledge of coding or programming.
+                        <p class="card-text ">
+                            We offer 2 FTP accounts that help you manage your website files using FTP clients like FileZilla.
                         </p>
                     </div>
                 </div>
@@ -146,31 +171,30 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 7 -->
             <div class="col-md-6 col-lg-4">
-                <div class=" text-center">
+                <div class="feature-card">
                     <div class=" mx-auto">
-                        <img src="depends/free/cms.png" alt="Free CMS Installers">
+                        <img src="./assets/images/icons/externded-security.svg" alt="Extended Security" class="mb-3">
                         <h5 class="card-title">Free CMS Installers</h5>
                     </div>
-                    <div class="">
+                    <div class="card-body">
 
-                        <p class="card-text text-white p-3">
+                        <p class="card-text ">
                             Our Softaculous Auto Installer comes with 380+ popular scripts. You can install WordPress, Joomla, SMF etc with just one click.
                         </p>
                     </div>
                 </div>
             </div>
 
-
             <!-- Feature 8 -->
             <div class="col-md-6 col-lg-4">
-                <div class=" text-center">
+                <div class="feature-card">
                     <div class=" mx-auto">
-                        <img src="depends/free/manager.png" alt="Online File Manager">
+                        <img src="./assets/images/icons/externded-security.svg" alt="Extended Security" class="mb-3">
                         <h5 class="card-title">Online File Manager</h5>
                     </div>
-                    <div class="">
+                    <div class="card-body">
 
-                        <p class="card-text text-white p-3">
+                        <p class="card-text ">
                             We have 2 different file managers that allow you to manage your files effectively. FileManager2 is featured by Net2FTP.
                         </p>
                     </div>
@@ -179,112 +203,118 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 9 -->
             <div class="col-md-6 col-lg-4">
-                <div class=" text-center">
+                <div class="feature-card">
                     <div class=" mx-auto">
-                        <img src="depends/free/php.png" alt="PHP all versions">
+                        <img src="./assets/images/icons/externded-security.svg" alt="Extended Security" class="mb-3">
                         <h5 class="card-title">PHP all versions</h5>
                     </div>
-                    <div class="">
+                    <div class="card-body">
 
-                        <p class="card-text text-white p-3">
+                        <p class="card-text ">
                             Choose from PHP version 5.3 to the latest version of PHP 8.0.12 to get better scalability, security and flexibility.
                         </p>
                     </div>
                 </div>
             </div>
+
         </div>
     </div>
-</div>
+
+</section>
+
 
 <!-- comparision table -->
 <div class="container my-5 comparison-table">
-    <h2 class="text-center ">Why GoogieHost Is The Best Free Hosting <br> Provider Over The Internet</h2>
+    <h2 class="text-center w-md-50 m-auto">Why GoogieHost Is The Best Free Hosting Provider Over The Internet</h2>
 
-    <div class="text-center my-3">
-        <span class="best-free-hosting">Best Free Hosting</span>
-    </div>
-
-    <div class="table-responsive  p-3">
-        <table class="table table-bordered text-center shadow">
+    <div class="table-responsive  py-3">
+        <table class="table table-bordered text-center hosting-comparison-table">
             <thead>
-                <tr>
+                <tr class="table-freeHosting-section">
                     <th></th>
-                    <th>GoogieHost</th>
-                    <th>InfinityFree</th>
-                    <th>Weebly</th>
-                    <th>Wix</th>
+                    <th class="best-free-hosting">Best Free Hosting</th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                </tr>
+                <tr class="table-heading-section">
+                    <th>Features</th>
+                    <th class=" googiehost-table-heading">GoogieHost</th>
+                    <th class="table-heading-sec">InfinityFree</th>
+                    <th class="table-heading-sec">Weebly</th>
+                    <th class="table-heading-sec">Wix</th>
                 </tr>
             </thead>
             <tbody>
-                <tr>
-                    <td>NVMe SSD</td>
-                    <td><i class="fa-solid fa-check check"></i></td>
-                    <td><i class="fa-solid fa-xmark cross"></i></td>
-                    <td><i class="fa-solid fa-xmark cross"></i></td>
-                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                <tr class="table-active">
+                    <td class="text-start">NVMe SSD</td>
+                    <td class="googiehost-table-col"><i class="fa-solid fa-check check compare-table-check"></i></td>
+                    <td><i class="fa-solid fa-minus compare-table-minus "></i></td>
+                    <td><i class="fa-solid fa-minus compare-table-minus"></i></td>
+                    <td><i class="fa-solid fa-minus compare-table-minus"></i></td>
                 </tr>
                 <tr>
-                    <td>Business Emails</td>
-                    <td><i class="fa-solid fa-check check"></i></td>
-                    <td><i class="fa-solid fa-check check"></i></td>
-                    <td><i class="fa-solid fa-check check"></i></td>
-                    <td><i class="fa-solid fa-check check"></i></td>
+                    <td class="text-start">Business Emails</td>
+                    <td class="googiehost-table-col1"><i class="fa-solid fa-check check compare-table-check"></i></td>
+                    <td><i class="fa-solid fa-check check compare-table-check"></i></td>
+                    <td><i class="fa-solid fa-check check compare-table-check"></i></td>
+                    <td><i class="fa-solid fa-check check compare-table-check"></i></td>
+                </tr>
+                <tr class="table-active">
+                    <td class="text-start">LiteSpeed</td>
+                    <td class="googiehost-table-col"><i class="fa-solid fa-check check compare-table-check"></i></td>
+                    <td><i class="fa-solid fa-minus compare-table-minus"></i></td>
+                    <td><i class="fa-solid fa-minus compare-table-minus"></i></td>
+                    <td><i class="fa-solid fa-minus compare-table-minus"></i></td>
                 </tr>
                 <tr>
-                    <td>LiteSpeed</td>
-                    <td><i class="fa-solid fa-check check"></i></td>
-                    <td><i class="fa-solid fa-xmark cross"></i></td>
-                    <td><i class="fa-solid fa-xmark cross"></i></td>
-                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td class="text-start">Cloudflare</td>
+                    <td class="googiehost-table-col1"><i class="fa-solid fa-check check compare-table-check"></i></td>
+                    <td><i class="fa-solid fa-minus compare-table-minus"></i></td>
+                    <td><i class="fa-solid fa-minus compare-table-minus"></i></td>
+                    <td><i class="fa-solid fa-minus compare-table-minus"></i></td>
+                </tr>
+                <tr class="table-active">
+                    <td class="text-start">Control Panel</td>
+                    <td class="googiehost-table-col"><i class="fa-solid fa-check check compare-table-check"></i></td>
+                    <td><i class="fa-solid fa-check check compare-table-check"></i></td>
+                    <td><i class="fa-solid fa-minus compare-table-minus"></i></td>
+                    <td><i class="fa-solid fa-minus compare-table-minus"></i></td>
                 </tr>
                 <tr>
-                    <td>Cloudflare</td>
-                    <td><i class="fa-solid fa-check check"></i></td>
-                    <td><i class="fa-solid fa-xmark cross"></i></td>
-                    <td><i class="fa-solid fa-xmark cross"></i></td>
-                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td class="text-start">1-Click Installer</td>
+                    <td class="googiehost-table-col1"><i class="fa-solid fa-check check compare-table-check"></i></td>
+                    <td><i class="fa-solid fa-check check compare-table-check"></i></td>
+                    <td><i class="fa-solid fa-minus compare-table-minus"></i></td>
+                    <td><i class="fa-solid fa-minus compare-table-minus"></i></td>
+                </tr>
+                <tr class="table-active">
+                    <td class="text-start">Malware Protection</td>
+                    <td class="googiehost-table-col"><i class="fa-solid fa-check check compare-table-check"></i></td>
+                    <td><i class="fa-solid fa-minus compare-table-minus"></i></td>
+                    <td><i class="fa-solid fa-minus compare-table-minus"></i></td>
+                    <td><i class="fa-solid fa-minus compare-table-minus"></i></td>
                 </tr>
                 <tr>
-                    <td>Control Panel</td>
-                    <td><i class="fa-solid fa-check check"></i></td>
-                    <td><i class="fa-solid fa-check check"></i></td>
-                    <td><i class="fa-solid fa-xmark cross"></i></td>
-                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td class="text-start">SSL Certificate</td>
+                    <td class="googiehost-table-col1"><i class="fa-solid fa-check check compare-table-check"></i></td>
+                    <td><i class="fa-solid fa-check check compare-table-check"></i></td>
+                    <td><i class="fa-solid fa-minus compare-table-minus"></i></td>
+                    <td><i class="fa-solid fa-minus compare-table-minus"></i></td>
+                </tr>
+                <tr class="table-active">
+                    <td class="text-start">SitePad Website Builder</td>
+                    <td class="googiehost-table-col"><i class="fa-solid fa-check check compare-table-check"></i></td>
+                    <td><i class="fa-solid fa-check check compare-table-check"></i></td>
+                    <td><i class="fa-solid fa-check check compare-table-check"></i></td>
+                    <td><i class="fa-solid fa-check check compare-table-check"></i></td>
                 </tr>
                 <tr>
-                    <td>1-Click Installer</td>
-                    <td><i class="fa-solid fa-check check"></i></td>
-                    <td><i class="fa-solid fa-check check"></i></td>
-                    <td><i class="fa-solid fa-xmark cross"></i></td>
-                    <td><i class="fa-solid fa-xmark cross"></i></td>
-                </tr>
-                <tr>
-                    <td>Malware Protection</td>
-                    <td><i class="fa-solid fa-check check"></i></td>
-                    <td><i class="fa-solid fa-xmark cross"></i></td>
-                    <td><i class="fa-solid fa-xmark cross"></i></td>
-                    <td><i class="fa-solid fa-xmark cross"></i></td>
-                </tr>
-                <tr>
-                    <td>SSL Certificate</td>
-                    <td><i class="fa-solid fa-check check"></i></td>
-                    <td><i class="fa-solid fa-check check"></i></td>
-                    <td><i class="fa-solid fa-xmark cross"></i></td>
-                    <td><i class="fa-solid fa-xmark cross"></i></td>
-                </tr>
-                <tr>
-                    <td>SitePad Website Builder</td>
-                    <td><i class="fa-solid fa-check check"></i></td>
-                    <td><i class="fa-solid fa-check check"></i></td>
-                    <td><i class="fa-solid fa-check check"></i></td>
-                    <td><i class="fa-solid fa-check check"></i></td>
-                </tr>
-                <tr>
-                    <td>No Forced Ads</td>
-                    <td><i class="fa-solid fa-check check"></i></td>
-                    <td><i class="fa-solid fa-xmark cross"></i></td>
-                    <td><i class="fa-solid fa-xmark cross"></i></td>
-                    <td><i class="fa-solid fa-xmark cross"></i></td>
+                    <td class="text-start">No Forced Ads</td>
+                    <td class="googiehost-table-col1"><i class="fa-solid fa-check check compare-table-check"></i></td>
+                    <td><i class="fa-solid fa-minus compare-table-minus"></i></td>
+                    <td><i class="fa-solid fa-minus compare-table-minus"></i></td>
+                    <td><i class="fa-solid fa-minus compare-table-minus"></i></td>
                 </tr>
             </tbody>
         </table>
@@ -301,7 +331,7 @@ include 'inc/header.php'; ?>
 <!-- faq section  -->
 <div class="container mt-5 faq mb-5">
     <h2 class="text-center mb-5 fw-bold">Free Hosting FAQ</h2>
-    <div class="accordion shadow bg-white p-md-5" id="accordionExample">
+    <div class="accordion bg-white" id="accordionExample">
         <!-- Section 1 -->
         <div class="accordion-item ">
             <h2 class="accordion-header " id="headingOne">
