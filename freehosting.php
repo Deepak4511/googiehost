@@ -10,7 +10,7 @@ include 'inc/header.php'; ?>
         <div class="row">
             <div class="hero-left-section text-center">
                 <h1 class="entry-title">Host Your Website FREE</h1>
-                <!-- <p class="mb-3">Explore our budget-friendly dedicated server hosting, starting at $45/month. Choose from unmanaged or managed bare metal with Free Control Panel, NVME SSDs, and Linux OS options.</p> -->
+                <p class="mb-3">Explore our budget-friendly dedicated server hosting, starting at $45/month. Choose from unmanaged or managed bare metal with Free Control Panel, NVME SSDs, and Linux OS options.</p>
 
                 <div class="rated justify-content-center">
                     <span>
@@ -332,7 +332,9 @@ include 'inc/header.php'; ?>
 <div class="container mt-5 faq mb-5">
     <h2 class="text-center mb-5 fw-bold">Free Hosting FAQ</h2>
     <div class="accordion bg-white" id="accordionExample">
-        <!-- Section 1 -->
+        <div class="row">
+            <div class="col-md-6">
+                 <!-- Section 1 -->
         <div class="accordion-item ">
             <h2 class="accordion-header " id="headingOne">
                 <button class="accordion-button border-bottom-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
@@ -390,14 +392,16 @@ include 'inc/header.php'; ?>
             </div>
         </div>
 
-        <!-- Section 5 -->
+            </div>
+            <div class="col-md-6">
+                 <!-- Section 5 -->
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingFive">
-                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
                     Is free web hosting secure?
                 </button>
             </h2>
-            <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+            <div id="collapseFive" class="accordion-collapse collapse " aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
                     <p>Yes it is… We offer almost everything to insure quality hosting, its FREE that doesn’t mean we use third class hardware or don’t care about your resecurity. All Server have CloudLinux, LiteSpeed, Firewall Setup, SSL Certificate etc.</p>
                 </div>
@@ -431,6 +435,11 @@ include 'inc/header.php'; ?>
                 </div>
             </div>
         </div>
+            </div>
+                <!-- Section 5 -->
+        </div>
+       
+       
     </div>
 </div>
 <!-- /faq section  -->

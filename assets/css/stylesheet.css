@@ -338,8 +338,8 @@ header .nav-item .dropdown-item {
 }
 
 .hero-featur-list {
-  border: 1px solid #2b0075;
-  background-color: #2b0075;
+  /* border: 1px solid #2b0075;
+  background-color: #2b0075; */
   border-radius: 16px;
   padding: 14px 11px;
   text-align: left;
@@ -350,8 +350,21 @@ header .nav-item .dropdown-item {
 
 }
 
+.hero-seprator{
+  border-right: 1px solid #fff;
+  padding: 10px 0px;
+  height: 21px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.hero-hide-seprator{
+  height: 21px;
+}
+
 .hero-featur-list img {
-  width: 15%;
+  width: 20%;
   margin-right: 10px;
 }
 
@@ -1190,9 +1203,9 @@ td:last-child, th:last-child {
 }
 
 
-.accordion-button {
+/* .accordion-button {
   background-color: unset !important;
-}
+} */
 
 .faq .accordion-item:first-of-type .accordion-button {
   border-top-left-radius: 0;
@@ -1207,12 +1220,13 @@ td:last-child, th:last-child {
 }
 
 .faq .accordion-item h2 button {
-  font-size: 20px;
+  font-size: 17px;
   color: var(--black);
   cursor: pointer;
   font-weight: 700;
   padding: 8px 31px;
   line-height: 32px;
+  border-radius: 10px;
 }
 
 .faq .accordion-item .accordion-body {
@@ -1226,6 +1240,20 @@ td:last-child, th:last-child {
 
 .faq .accordion-item .accordion-body p a {
   color: rgb(29, 114, 241);
+}
+
+.accordion-item:last-of-type .accordion-button.collapsed {
+ background-color: #fff;
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: #F9F5FF !important; /* Light purple for opened */
+  color: #28006C !important;
+}
+
+.accordion-button {
+  background-color: white; /* Default background */
+  color: #28006C;
 }
 
 
@@ -2451,14 +2479,4 @@ textarea {
 .pure-button-primary:hover {
   opacity: 1;
   transform: scale(1.03);
-}
-
-.collapse {
-  visibility: visible !important;
-}
-
-.accordion-item .accordion-collapse.show,
-.accordion-item .accordion-button:not(.collapsed) {
-  background: #F9F5FF;
-  /* Change this to your preferred color */
 }

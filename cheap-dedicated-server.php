@@ -6,7 +6,7 @@ include 'inc/header.php'; ?>
 
 <div class="hero-section position-relative">
     <div class="blury-img"></div>
-    
+
     <div class="container">
         <div class="row">
             <div class="hero-left-section text-center">
@@ -17,41 +17,44 @@ include 'inc/header.php'; ?>
                     Explore Reliable & cheap dedicated server hosting for robust hosting solutions. Get top-notch website performance our low cost dedicated server with Additional Discount. Get started now!
                 </p>
 
-                <div class="rated justify-content-center">
+                <div class="rated justify-content-center mb-4">
                     <span>
                         <svg xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20" fill="none">
                             <path d="M12.5 7.5L8 12L6.5 10.5M9 1L1 5C1 10.1932 3.78428 17.5098 9 19C14.2157 17.5098 17 10.1932 17 5L9 1Z" stroke="#F4FFF9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
                         </svg>
                     </span>No Credit Card required
                 </div>
-                
-                    <ul class="hero-list row list-unstyled g-3">
-                        <li class="col-md-3 col-6">
-                            <div class="hero-featur-list"><img src="./assets/images/icons/kvm-over-ip.png
-                            " alt=""> KVM over IP</div>
-                        </li>
-                        <li class="col-md-3 col-6">
-                            <div class="hero-featur-list"><img src="./assets/images/icons/no-setup-cost.png
-                        " alt="">No Setup Cost</div>
-                        </li>
-                        <li class="col-md-3 col-6">
-                            <div class="hero-featur-list"><img src="./assets/images/icons/free-reboot.png
-                        " alt="">Free Reboots</div>
-                        </li>
-                        <li class="col-md-3 col-6">
-                            <div class="hero-featur-list"><img src="./assets/images/icons/Mulitple-Server-Locations.png
-                        " alt="">Mulitple Server Locations</div>
-                        </li>
-                    </ul>
-                    <div class="blury-img2"></div>
 
-                <a href="" class="button_orange">Deploy Free Server now <i class="fa-solid fa-angle-right ms-3"></i></a>
+                <ul class="hero-list row list-unstyled">
+                    <li class="col-md-3 col-6 hero-seprator">
+                        <div class="hero-featur-list"><img src="./assets/images/icons/kvm-over-ip.png
+                            " alt=""> KVM over IP</div>
+                        <!-- <div class="hero-seprator"></div> -->
+                    </li>
+                    <li class="col-md-3 col-6 hero-seprator">
+                        <div class="hero-featur-list"><img src="./assets/images/icons/no-setup-cost.png
+                        " alt="">No Setup Cost</div>
+                        <!-- <div class="hero-seprator"></div> -->
+                    </li>
+                    <li class="col-md-3 col-6 hero-seprator">
+                        <div class="hero-featur-list"><img src="./assets/images/icons/free-reboot.png
+                        " alt="">Free Reboots</div>
+                        <!-- <div class="hero-seprator"></div> -->
+                    </li>
+                    <li class="col-md-3 col-6 ">
+                        <div class="hero-featur-list hero-hide-seprator"><img src="./assets/images/icons/Mulitple-Server-Locations.png
+                        " alt="">Mulitple Server Locations</div>
+                    </li>
+                </ul>
+                <div class="blury-img2"></div>
+
+                <a href="" class="button_orange mt-4">Deploy Free Server now <i class="fa-solid fa-angle-right ms-3"></i></a>
                 <div class="rated justify-content-center">
                     Starting at $45/mo
                 </div>
             </div>
         </div>
-        
+
     </div>
     <h4 class="featured-on text-white text-center">Featured On</h4>
     <div class="inner container" style="padding-top: 0 !important;">
@@ -68,7 +71,7 @@ include 'inc/header.php'; ?>
             <p class="sec-subheading text-center">Googiehost is your one-stop solution to finding the <a href="https://googiehost.com/blog/best-web-hosting-services/" target="_blank">best web hosting services </a> for your website needs. Find out which top web hosts are the best at saving your money &amp; time. Get reliable facts and reviews for the top-rated hosting solutions.</p>
         </div>
 
-        
+
         <div class="row sale-row text-center mb-4 cursor-pointer" onclick="window.location.href='https://googiehost.com/blog/go/youstable-dedicated/'">
             <div class="col-md-3 d-flex align-items-center justify-content-center">
                 <div class="d-grid"><a href="https://googiehost.com/blog/go/youstable-dedicated/"><img src="./assets/images/logos/youstable-cheap-dedicated-Server.png"></a>
@@ -79,7 +82,7 @@ include 'inc/header.php'; ?>
                 <div>
                     <h5 class="deal-heading">Whats the Deal</h5>
                     <p class="mb-0">Starting From:<br class="remove-break"><span class="deal-price">$60/mo</span></p>
-                    
+
                 </div>
             </div>
             <div class="col-md-3 deal-sec">
@@ -98,10 +101,10 @@ include 'inc/header.php'; ?>
                 </div>
             </div>
         </div>
-        
 
 
-        <div class="row sale-row text-center mb-4"  onclick="window.location.href='https://googiehost.com/blog/go/interserver-dedicated/'">
+
+        <div class="row sale-row text-center mb-4" onclick="window.location.href='https://googiehost.com/blog/go/interserver-dedicated/'">
             <div class="col-md-3 d-flex align-items-center justify-content-center">
                 <div class="d-grid"><a href="https://googiehost.com/blog/go/interserver-dedicated/"><img src="./assets/images/logos/interserver-cheap-dedicated-Server.png"></a>
                     <a href="https://googiehost.com/blog/youstable-review/" target="_blank">Read review</a>
@@ -111,7 +114,7 @@ include 'inc/header.php'; ?>
                 <div>
                     <h5 class="deal-heading">Whats the Deal</h5>
                     <p class="mb-0">Starting From: <br class="remove-break"><span class="deal-price">$45/mo</span></p>
-                    
+
                 </div>
             </div>
             <div class="col-md-3 deal-sec">
@@ -130,7 +133,7 @@ include 'inc/header.php'; ?>
             </div>
         </div>
 
-        <div class="row sale-row text-center mb-4"  onclick="window.location.href='https://googiehost.com/blog/go/ultahostdedicated/'">
+        <div class="row sale-row text-center mb-4" onclick="window.location.href='https://googiehost.com/blog/go/ultahostdedicated/'">
             <div class="col-md-3 d-flex align-items-center justify-content-center">
                 <div class="d-grid"><a href="https://googiehost.com/blog/go/ultahostdedicated/"><img src="./assets/images/logos/ultahost-cheap-dedicated-Server.png"></a>
                     <a href="https://googiehost.com/blog/ultahost-review/" target="_blank">Read review</a>
@@ -171,7 +174,7 @@ include 'inc/header.php'; ?>
                 <div>
                     <h5 class="deal-heading">Whats the Deal</h5>
                     <p class="mb-0">Starting From: <br class="remove-break"><span class="deal-price">$75/mo</span></p>
-                    
+
                 </div>
             </div>
             <div class="col-md-3 deal-sec">
@@ -201,7 +204,7 @@ include 'inc/header.php'; ?>
                 <div class="text-start ">
                     <h5 class="deal-heading">Whats the Deal</h5>
                     <p class="mb-0">Starting From: <br class="remove-break"><span class="deal-price">$79.99/mo</span></p>
-                    
+
                 </div>
             </div>
             <div class="col-md-3 deal-sec">
@@ -231,7 +234,7 @@ include 'inc/header.php'; ?>
                 <div>
                     <h5 class="deal-heading">Whats the Deal</h5>
                     <p class="mb-0">Starting From: <br class="remove-break"> <span class="deal-price">$91.98/mo</span></p>
-                   
+
                 </div>
             </div>
             <div class="col-md-3 deal-sec">
@@ -262,7 +265,7 @@ include 'inc/header.php'; ?>
                 <div>
                     <h5 class="deal-heading">Whats the Deal</h5>
                     <p class="mb-0">Starting From: <br class="remove-break"> <span class="deal-price">$91.98/mo</span></p>
-                   
+
                 </div>
             </div>
             <div class="col-md-3 deal-sec">
@@ -293,7 +296,7 @@ include 'inc/header.php'; ?>
                 <div>
                     <h5 class="deal-heading">Whats the Deal</h5>
                     <p class="mb-0">Starting From: <br class="remove-break"> <span class="deal-price">$91.98/mo</span></p>
-                   
+
                 </div>
             </div>
             <div class="col-md-3 deal-sec">
@@ -324,7 +327,7 @@ include 'inc/header.php'; ?>
                 <div>
                     <h5 class="deal-heading">Whats the Deal</h5>
                     <p class="mb-0">Starting From: <br class="remove-break"><span class="deal-price">$122/mo</span></p>
-                    
+
                 </div>
             </div>
             <div class="col-md-3 deal-sec">
@@ -354,7 +357,7 @@ include 'inc/header.php'; ?>
                 <div>
                     <h5 class="deal-heading">Whats the Deal</h5>
                     <p class="mb-0">Starting From: <br class="remove-break"><span class="deal-price">$90/mo</span></p>
-                    
+
                 </div>
             </div>
             <div class="col-md-3 deal-sec">
@@ -384,7 +387,7 @@ include 'inc/header.php'; ?>
                 <div>
                     <h5 class="deal-heading">Whats the Deal</h5>
                     <p class="mb-0">Starting From: <br class="remove-break"><span class="deal-price">$149/mo</span></p>
-                    
+
                 </div>
             </div>
             <div class="col-md-3 deal-sec">
@@ -426,17 +429,17 @@ include 'inc/header.php'; ?>
                 <div class="row mt-3">
                     <div class="col-md-6">
                         <a href="https://googiehost.com/blog/go/youstable-dedicated/">
-                        <img src="./assets/images/affiliate/youstable-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
+                            <img src="./assets/images/affiliate/youstable-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="d-flex justify-content-between align-items-center">
                             <div>
-                            <span class="rating-sec fw-bold">9.9</span><span class="fw-bold fs-5">/10</span>
-                            <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
+                                <span class="rating-sec fw-bold">9.9</span><span class="fw-bold fs-5">/10</span>
+                                <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
                             </div>
                             <a href="https://googiehost.com/blog/go/youstable-dedicated/" class="best-deal-btn hide-btn1">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
-                       
+
                         <div class="mt-3 stats-box">
                             <div class="d-flex justify-content-between"><span>Performance</span> <strong>4.9/5</strong></div>
                             <div class="d-flex justify-content-between mt-2"><span>Speed </span><strong>4.9/5</strong></div>
@@ -506,18 +509,18 @@ include 'inc/header.php'; ?>
             <div class="p-4">
                 <div class="row mt-3">
                     <div class="col-md-6">
-                    <a href="https://googiehost.com/blog/go/interserver-dedicated/">
-                        <img src="./assets/images/affiliate/interserver-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
+                        <a href="https://googiehost.com/blog/go/interserver-dedicated/">
+                            <img src="./assets/images/affiliate/interserver-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="d-flex justify-content-between align-items-center">
                             <div>
-                            <span class="rating-sec fw-bold">9.9</span><span class="fw-bold fs-5">/10</span>
-                            <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
+                                <span class="rating-sec fw-bold">9.9</span><span class="fw-bold fs-5">/10</span>
+                                <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
                             </div>
                             <a href="https://googiehost.com/blog/go/interserver-dedicated/" class="best-deal-btn hide-btn1">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
-                       
+
                         <div class="mt-3 stats-box">
                             <div class="d-flex justify-content-between"><span>Performance</span> <strong>4.9/5</strong></div>
                             <div class="d-flex justify-content-between mt-2"><span>Speed </span><strong>4.9/5</strong></div>
@@ -555,7 +558,7 @@ include 'inc/header.php'; ?>
                         <div class="accordion-item key-feature-sec">
                             <h2 class="accordion-header">
                                 <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature2" aria-expanded="false" aria-controls="collapseFeature2">
-                                Specifications that InterServer has reserved for you:
+                                    Specifications that InterServer has reserved for you:
                                 </button>
                             </h2>
                             <div id="collapseFeature2" class="accordion-collapse collapse" data-bs-parent="#accordionExample2">
@@ -589,18 +592,18 @@ include 'inc/header.php'; ?>
             <div class="p-4">
                 <div class="row mt-3">
                     <div class="col-md-6">
-                    <a href="https://googiehost.com/blog/go/ultahostdedicated/">
-                        <img src="./assets/images/affiliate/ultahost-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
+                        <a href="https://googiehost.com/blog/go/ultahostdedicated/">
+                            <img src="./assets/images/affiliate/ultahost-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="d-flex justify-content-between align-items-center">
                             <div>
-                            <span class="rating-sec fw-bold">9.8</span><span class="fw-bold fs-5">/10</span>
-                            <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
+                                <span class="rating-sec fw-bold">9.8</span><span class="fw-bold fs-5">/10</span>
+                                <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
                             </div>
                             <a href="https://googiehost.com/blog/go/ultahostdedicated/" class="best-deal-btn hide-btn1">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
-                       
+
                         <div class="mt-3 stats-box">
                             <div class="d-flex justify-content-between"><span>Performance</span> <strong>4.6/5</strong></div>
                             <div class="d-flex justify-content-between mt-2"><span>Speed </span><strong>4.6/5</strong></div>
@@ -638,7 +641,7 @@ include 'inc/header.php'; ?>
                         <div class="accordion-item key-feature-sec">
                             <h2 class="accordion-header">
                                 <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature3" aria-expanded="false" aria-controls="collapseFeature3">
-                                Want to know the key features of Dedicated servers by UltaHost:
+                                    Want to know the key features of Dedicated servers by UltaHost:
                                 </button>
                             </h2>
                             <div id="collapseFeature3" class="accordion-collapse collapse" data-bs-parent="#accordionExample3">
@@ -672,18 +675,18 @@ include 'inc/header.php'; ?>
             <div class="p-4">
                 <div class="row mt-3">
                     <div class="col-md-6">
-                    <a href="https://googiehost.com/blog/go/liquidwebdedicated/">
-                        <img src="./assets/images/affiliate/liquidweb-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
+                        <a href="https://googiehost.com/blog/go/liquidwebdedicated/">
+                            <img src="./assets/images/affiliate/liquidweb-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="d-flex justify-content-between align-items-center">
                             <div>
-                            <span class="rating-sec fw-bold">9.9</span><span class="fw-bold fs-5">/10</span>
-                            <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
+                                <span class="rating-sec fw-bold">9.9</span><span class="fw-bold fs-5">/10</span>
+                                <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
                             </div>
                             <a href="https://googiehost.com/blog/go/liquidwebdedicated/" class="best-deal-btn hide-btn1">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
-                       
+
                         <div class="mt-3 stats-box">
                             <div class="d-flex justify-content-between"><span>Performance</span> <strong>4.7/5</strong></div>
                             <div class="d-flex justify-content-between mt-2"><span>Speed </span><strong>4.8/5</strong></div>
@@ -721,7 +724,7 @@ include 'inc/header.php'; ?>
                         <div class="accordion-item key-feature-sec">
                             <h2 class="accordion-header">
                                 <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature4" aria-expanded="false" aria-controls="collapseFeature4">
-                                Key takeaways that LiquidWeb offers its Dedicated Server Users:
+                                    Key takeaways that LiquidWeb offers its Dedicated Server Users:
                                 </button>
                             </h2>
                             <div id="collapseFeature4" class="accordion-collapse collapse" data-bs-parent="#accordionExample4">
@@ -757,18 +760,18 @@ include 'inc/header.php'; ?>
             <div class="p-4">
                 <div class="row mt-3">
                     <div class="col-md-6">
-                    <a href="https://googiehost.com/blog/go/a2hosting/">
-                        <img src="./assets/images/affiliate/a2hosting-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
+                        <a href="https://googiehost.com/blog/go/a2hosting/">
+                            <img src="./assets/images/affiliate/a2hosting-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="d-flex justify-content-between align-items-center">
                             <div>
-                            <span class="rating-sec fw-bold">9.8</span><span class="fw-bold fs-5">/10</span>
-                            <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
+                                <span class="rating-sec fw-bold">9.8</span><span class="fw-bold fs-5">/10</span>
+                                <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
                             </div>
                             <a href="https://googiehost.com/blog/go/a2hosting/" class="best-deal-btn hide-btn1">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
-                       
+
                         <div class="mt-3 stats-box">
                             <div class="d-flex justify-content-between"><span>Performance</span> <strong>4.8/5</strong></div>
                             <div class="d-flex justify-content-between mt-2"><span>Speed </span><strong>4.6/5</strong></div>
@@ -806,7 +809,7 @@ include 'inc/header.php'; ?>
                         <div class="accordion-item key-feature-sec">
                             <h2 class="accordion-header">
                                 <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature5" aria-expanded="false" aria-controls="collapseFeature5">
-                                Features that Dedicated server hosting of A2Hosting offers:
+                                    Features that Dedicated server hosting of A2Hosting offers:
                                 </button>
                             </h2>
                             <div id="collapseFeature5" class="accordion-collapse collapse" data-bs-parent="#accordionExample5">
@@ -841,19 +844,19 @@ include 'inc/header.php'; ?>
             <div class="p-4">
                 <div class="row mt-3">
                     <div class="col-md-6">
-                    <a href="https://googiehost.com/blog/go/hostgator-dedicated/">
-                        <img src="./assets/images/affiliate/hostgator-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
+                        <a href="https://googiehost.com/blog/go/hostgator-dedicated/">
+                            <img src="./assets/images/affiliate/hostgator-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
                     </div>
                     <div class="col-lg-3 col-md-6">
-                        
+
                         <div class="d-flex justify-content-between align-items-center">
                             <div>
-                            <span class="rating-sec fw-bold">9.7</span><span class="fw-bold fs-5">/10</span>
-                            <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
+                                <span class="rating-sec fw-bold">9.7</span><span class="fw-bold fs-5">/10</span>
+                                <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
                             </div>
                             <a href="https://googiehost.com/blog/go/hostgator-dedicated/" class="best-deal-btn hide-btn1">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
-                       
+
                         <div class="mt-3 stats-box">
                             <div class="d-flex justify-content-between"><span>Performance</span> <strong>4.9/5</strong></div>
                             <div class="d-flex justify-content-between mt-2"><span>Speed </span><strong>4.9/5</strong></div>
@@ -891,7 +894,7 @@ include 'inc/header.php'; ?>
                         <div class="accordion-item key-feature-sec">
                             <h2 class="accordion-header">
                                 <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature6" aria-expanded="false" aria-controls="collapseFeature6">
-                                Want to know the key features of Dedicated servers by UltaHost:
+                                    Want to know the key features of Dedicated servers by UltaHost:
                                 </button>
                             </h2>
                             <div id="collapseFeature6" class="accordion-collapse collapse" data-bs-parent="#accordionExample6">
@@ -925,18 +928,18 @@ include 'inc/header.php'; ?>
             <div class="p-4">
                 <div class="row mt-3">
                     <div class="col-md-6">
-                    <a href="https://googiehost.com/blog/go/bluehostdedicated/">
-                        <img src="./assets/images/affiliate/bluehost-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
+                        <a href="https://googiehost.com/blog/go/bluehostdedicated/">
+                            <img src="./assets/images/affiliate/bluehost-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="d-flex justify-content-between align-items-center">
                             <div>
-                            <span class="rating-sec fw-bold">9.7</span><span class="fw-bold fs-5">/10</span>
-                            <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
+                                <span class="rating-sec fw-bold">9.7</span><span class="fw-bold fs-5">/10</span>
+                                <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
                             </div>
                             <a href="https://googiehost.com/blog/go/bluehostdedicated/" class="best-deal-btn hide-btn1">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
-                       
+
                         <div class="mt-3 stats-box">
                             <div class="d-flex justify-content-between"><span>Performance</span> <strong>4.6/5</strong></div>
                             <div class="d-flex justify-content-between mt-2"><span>Speed </span><strong>4.5/5</strong></div>
@@ -974,7 +977,7 @@ include 'inc/header.php'; ?>
                         <div class="accordion-item key-feature-sec">
                             <h2 class="accordion-header">
                                 <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature7" aria-expanded="false" aria-controls="collapseFeature7">
-                                Features that BlueHost offers its Dedicated Server clients:
+                                    Features that BlueHost offers its Dedicated Server clients:
                                 </button>
                             </h2>
                             <div id="collapseFeature7" class="accordion-collapse collapse" data-bs-parent="#accordionExample7">
@@ -1009,18 +1012,18 @@ include 'inc/header.php'; ?>
             <div class="p-4">
                 <div class="row mt-3">
                     <div class="col-md-6">
-                    <a href="https://googiehost.com/blog/go/tmdhosting-dedicated/">
-                        <img src="./assets/images/affiliate/tmdhosting-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
+                        <a href="https://googiehost.com/blog/go/tmdhosting-dedicated/">
+                            <img src="./assets/images/affiliate/tmdhosting-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="d-flex justify-content-between align-items-center">
                             <div>
-                            <span class="rating-sec fw-bold">9.7</span><span class="fw-bold fs-5">/10</span>
-                            <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
+                                <span class="rating-sec fw-bold">9.7</span><span class="fw-bold fs-5">/10</span>
+                                <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
                             </div>
                             <a href="https://googiehost.com/blog/go/tmdhosting-dedicated/" class="best-deal-btn hide-btn1">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
-                       
+
                         <div class="mt-3 stats-box">
                             <div class="d-flex justify-content-between"><span>Performance</span> <strong>4.4/5</strong></div>
                             <div class="d-flex justify-content-between mt-2"><span>Speed </span><strong>4.6/5</strong></div>
@@ -1058,7 +1061,7 @@ include 'inc/header.php'; ?>
                         <div class="accordion-item key-feature-sec">
                             <h2 class="accordion-header">
                                 <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature8" aria-expanded="false" aria-controls="collapseFeature8">
-                                Specifications offered by TMDHosting's Cheap Dedicated Server:
+                                    Specifications offered by TMDHosting's Cheap Dedicated Server:
                                 </button>
                             </h2>
                             <div id="collapseFeature8" class="accordion-collapse collapse" data-bs-parent="#accordionExample8">
@@ -1091,18 +1094,18 @@ include 'inc/header.php'; ?>
             <div class="p-4">
                 <div class="row mt-3">
                     <div class="col-md-6">
-                    <a href="https://googiehost.com/blog/go/hostwinds-dedicated/">
-                        <img src="./assets/images/affiliate/hostwinds-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
+                        <a href="https://googiehost.com/blog/go/hostwinds-dedicated/">
+                            <img src="./assets/images/affiliate/hostwinds-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="d-flex justify-content-between align-items-center">
                             <div>
-                            <span class="rating-sec fw-bold">9.6</span><span class="fw-bold fs-5">/10</span>
-                            <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
+                                <span class="rating-sec fw-bold">9.6</span><span class="fw-bold fs-5">/10</span>
+                                <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
                             </div>
                             <a href="https://googiehost.com/blog/go/hostwinds-dedicated/" class="best-deal-btn hide-btn1">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
-                       
+
                         <div class="mt-3 stats-box">
                             <div class="d-flex justify-content-between"><span>Performance</span> <strong>4.8/5</strong></div>
                             <div class="d-flex justify-content-between mt-2"><span>Speed </span><strong>4.6/5</strong></div>
@@ -1140,7 +1143,7 @@ include 'inc/header.php'; ?>
                         <div class="accordion-item key-feature-sec">
                             <h2 class="accordion-header">
                                 <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature9" aria-expanded="false" aria-controls="collapseFeature9">
-                                Let’s see the Key Features of the Dedicated servers by Hostwinds
+                                    Let’s see the Key Features of the Dedicated servers by Hostwinds
                                 </button>
                             </h2>
                             <div id="collapseFeature9" class="accordion-collapse collapse" data-bs-parent="#accordionExample9">
@@ -1171,18 +1174,18 @@ include 'inc/header.php'; ?>
             <div class="p-4">
                 <div class="row mt-3">
                     <div class="col-md-6">
-                    <a href="https://googiehost.com/blog/go/vultr/">
-                        <img src="./assets/images/affiliate/vultr-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
+                        <a href="https://googiehost.com/blog/go/vultr/">
+                            <img src="./assets/images/affiliate/vultr-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="d-flex justify-content-between align-items-center">
                             <div>
-                            <span class="rating-sec fw-bold">9.5</span><span class="fw-bold fs-5">/10</span>
-                            <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
+                                <span class="rating-sec fw-bold">9.5</span><span class="fw-bold fs-5">/10</span>
+                                <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
                             </div>
                             <a href="https://googiehost.com/blog/go/vultr/" class="best-deal-btn hide-btn1">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
-                       
+
                         <div class="mt-3 stats-box">
                             <div class="d-flex justify-content-between"><span>Performance</span> <strong>4.8/5</strong></div>
                             <div class="d-flex justify-content-between mt-2"><span>Speed </span><strong>4.6/5</strong></div>
@@ -1220,7 +1223,7 @@ include 'inc/header.php'; ?>
                         <div class="accordion-item key-feature-sec">
                             <h2 class="accordion-header">
                                 <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature10" aria-expanded="false" aria-controls="collapseFeature10">
-                                Key features offered by Best Dedicated servers of Vultr
+                                    Key features offered by Best Dedicated servers of Vultr
                                 </button>
                             </h2>
                             <div id="collapseFeature10" class="accordion-collapse collapse" data-bs-parent="#accordionExample10">
@@ -1253,18 +1256,18 @@ include 'inc/header.php'; ?>
             <div class="p-4">
                 <div class="row mt-3">
                     <div class="col-md-6">
-                    <a href="https://googiehost.com/blog/go/dreamhost/">
-                        <img src="./assets/images/affiliate/dreamhost-hosting-provider-copy-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
+                        <a href="https://googiehost.com/blog/go/dreamhost/">
+                            <img src="./assets/images/affiliate/dreamhost-hosting-provider-copy-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="d-flex justify-content-between align-items-center">
                             <div>
-                            <span class="rating-sec fw-bold">9.5</span><span class="fw-bold fs-5">/10</span>
-                            <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
+                                <span class="rating-sec fw-bold">9.5</span><span class="fw-bold fs-5">/10</span>
+                                <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
                             </div>
                             <a href="https://googiehost.com/blog/go/dreamhost/" class="best-deal-btn hide-btn1">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
-                       
+
                         <div class="mt-3 stats-box">
                             <div class="d-flex justify-content-between"><span>Performance</span> <strong>4.8/5</strong></div>
                             <div class="d-flex justify-content-between mt-2"><span>Speed </span><strong>4.7/5</strong></div>
@@ -1302,7 +1305,7 @@ include 'inc/header.php'; ?>
                         <div class="accordion-item key-feature-sec">
                             <h2 class="accordion-header">
                                 <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature11" aria-expanded="false" aria-controls="collapseFeature11">
-                                Some more features that DreamHost offers its Clients:
+                                    Some more features that DreamHost offers its Clients:
                                 </button>
                             </h2>
                             <div id="collapseFeature11" class="accordion-collapse collapse" data-bs-parent="#accordionExample11">
@@ -1331,105 +1334,105 @@ include 'inc/header.php'; ?>
 <section>
     <!-- feature section  -->
 
-        <div class="container pb-5 ">
-            <h2 class="text-center sec-heading">Why Buy Cheap Dedicated Server Hosting?</h2>
-            <p class=" text-center  p-1 sec-subheading">
-                A cheap Dedicated Hosting Must be the Best Dedicated Hosting. It has the following features.
-            </p>
+    <div class="container pb-5 ">
+        <h2 class="text-center sec-heading">Why Buy Cheap Dedicated Server Hosting?</h2>
+        <p class=" text-center  p-1 sec-subheading">
+            A cheap Dedicated Hosting Must be the Best Dedicated Hosting. It has the following features.
+        </p>
 
-            <div class="row g-4 mt-4">
-                <!-- Feature 1 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="feature-card">
-                        <div class=" mx-auto">
-                            <!-- <img src="./assets/images/icons/root-access.svg" alt="1000MB SSD Storage" class="mb-3"> -->
-                            <img src="./assets/images/icons/externded-security.svg" alt="Extended Security" class="mb-3">
-                            <h5 class="card-title">Root Access</h5>
-                        </div>
-                        <div class="card-body">
-                            <p class="card-text ">Buying a dedicated server will also give you Full Access. With full access it means you will have full control over your server.</p>
+        <div class="row g-4 mt-4">
+            <!-- Feature 1 -->
+            <div class="col-md-6 col-lg-4">
+                <div class="feature-card">
+                    <div class=" mx-auto">
+                        <!-- <img src="./assets/images/icons/root-access.svg" alt="1000MB SSD Storage" class="mb-3"> -->
+                        <img src="./assets/images/icons/externded-security.svg" alt="Extended Security" class="mb-3">
+                        <h5 class="card-title">Root Access</h5>
+                    </div>
+                    <div class="card-body">
+                        <p class="card-text ">Buying a dedicated server will also give you Full Access. With full access it means you will have full control over your server.</p>
 
-                        </div>
                     </div>
                 </div>
-
-                <!-- Feature 2 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="feature-card">
-                        <div class=" mx-auto">
-                            <!-- <img src="./assets/images/icons/host-unlimited-website.svg" alt="100GB Bandwidth" class="mb-3"> -->
-                            <img src="./assets/images/icons/externded-security.svg" alt="Extended Security" class="mb-3">
-                            <h5 class="card-title">Host Unlimited Websites</h5>
-                        </div>
-                        <div class="card-body">
-
-                            <p class="card-text ">You can Host Unlimited Websites on your Dedicated servers and there will be no added charges for it, you can Host as much as you want.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Feature 3 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="feature-card">
-                        <div class=" mx-auto">
-                            <!-- <img src="./assets/images/icons/dedicated-ip.svg" alt="Hotlink Protection" class="mb-3"> -->
-                            <img src="./assets/images/icons/externded-security.svg" alt="Extended Security" class="mb-3">
-                            <h5 class="card-title">Dedicated IP</h5>
-                        </div>
-                        <div class="card-body">
-
-                            <p class="card-text ">You will get a Dedicated IP with your Dedicated Server. No need to share your IP even after paying a huge amount.</p>
-
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Feature 4 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="feature-card">
-                        <div class=" mx-auto">
-                            <!-- <img src="./assets/images/icons/high-traffic-website.svg" alt="2 MySQL Databases" class="mb-3"> -->
-                            <img src="./assets/images/icons/externded-security.svg" alt="Extended Security" class="mb-3">
-                            <h5 class="card-title">High Traffic Websites</h5>
-                        </div>
-                        <div class="card-body">
-                            <p class="card-text ">The servers are strong and optimised to give you a lightning fast response rate. And no matter how much traffic you get, the servers will handle it carefully ..</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Feature 5 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="feature-card">
-                        <div class=" mx-auto">
-                            <img src="./assets/images/icons/advanced-firewall.svg" alt="2 FTP Accounts" class="mb-3">
-                            <h5 class="card-title">Advanced firewall</h5>
-                        </div>
-                        <div class="card-body">
-
-                            <p class="card-text ">With Dedicated Hosting you will get some additional Advanced firewalls for your data. Your information will be safe and no one will be able to breach it.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Feature 6 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="feature-card">
-                        <div class=" mx-auto">
-                            <img src="./assets/images/icons/externded-security.svg" alt="Extended Security" class="mb-3">
-                            <h5 class="card-title">Extended Security</h5>
-                        </div>
-                        <div class="card-body">
-
-                            <p class="card-text ">
-                                Get full time extended security with Dedicated Server Hosting. Wile you work on your growth on the back end you will get extended security with proper encryption.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
             </div>
+
+            <!-- Feature 2 -->
+            <div class="col-md-6 col-lg-4">
+                <div class="feature-card">
+                    <div class=" mx-auto">
+                        <!-- <img src="./assets/images/icons/host-unlimited-website.svg" alt="100GB Bandwidth" class="mb-3"> -->
+                        <img src="./assets/images/icons/externded-security.svg" alt="Extended Security" class="mb-3">
+                        <h5 class="card-title">Host Unlimited Websites</h5>
+                    </div>
+                    <div class="card-body">
+
+                        <p class="card-text ">You can Host Unlimited Websites on your Dedicated servers and there will be no added charges for it, you can Host as much as you want.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Feature 3 -->
+            <div class="col-md-6 col-lg-4">
+                <div class="feature-card">
+                    <div class=" mx-auto">
+                        <!-- <img src="./assets/images/icons/dedicated-ip.svg" alt="Hotlink Protection" class="mb-3"> -->
+                        <img src="./assets/images/icons/externded-security.svg" alt="Extended Security" class="mb-3">
+                        <h5 class="card-title">Dedicated IP</h5>
+                    </div>
+                    <div class="card-body">
+
+                        <p class="card-text ">You will get a Dedicated IP with your Dedicated Server. No need to share your IP even after paying a huge amount.</p>
+
+                    </div>
+                </div>
+            </div>
+
+            <!-- Feature 4 -->
+            <div class="col-md-6 col-lg-4">
+                <div class="feature-card">
+                    <div class=" mx-auto">
+                        <!-- <img src="./assets/images/icons/high-traffic-website.svg" alt="2 MySQL Databases" class="mb-3"> -->
+                        <img src="./assets/images/icons/externded-security.svg" alt="Extended Security" class="mb-3">
+                        <h5 class="card-title">High Traffic Websites</h5>
+                    </div>
+                    <div class="card-body">
+                        <p class="card-text ">The servers are strong and optimised to give you a lightning fast response rate. And no matter how much traffic you get, the servers will handle it carefully ..</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Feature 5 -->
+            <div class="col-md-6 col-lg-4">
+                <div class="feature-card">
+                    <div class=" mx-auto">
+                        <img src="./assets/images/icons/advanced-firewall.svg" alt="2 FTP Accounts" class="mb-3">
+                        <h5 class="card-title">Advanced firewall</h5>
+                    </div>
+                    <div class="card-body">
+
+                        <p class="card-text ">With Dedicated Hosting you will get some additional Advanced firewalls for your data. Your information will be safe and no one will be able to breach it.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Feature 6 -->
+            <div class="col-md-6 col-lg-4">
+                <div class="feature-card">
+                    <div class=" mx-auto">
+                        <img src="./assets/images/icons/externded-security.svg" alt="Extended Security" class="mb-3">
+                        <h5 class="card-title">Extended Security</h5>
+                    </div>
+                    <div class="card-body">
+
+                        <p class="card-text ">
+                            Get full time extended security with Dedicated Server Hosting. Wile you work on your growth on the back end you will get extended security with proper encryption.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
         </div>
+    </div>
 
 </section>
 
@@ -1511,127 +1514,142 @@ include 'inc/header.php'; ?>
 
 <!-- faq section  -->
 <Section>
-<div class="container mt-5 faq mb-5">
-    <h2 class="text-center mb-5 fw-bold">Frequently Asked Questions</h2>
-    <div class="accordion  bg-white" id="accordionExample1">
+    <div class="container mt-5 faq mb-5">
+        <h2 class="text-center mb-5 fw-bold">Frequently Asked Questions</h2>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="accordion  bg-white" id="accordionExample1">
 
-             <!-- Section 1 -->
-        <div class="accordion-item ">
-            <h2 class="accordion-header " id="headingOne">
-                <button class="accordion-button border-bottom-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                    What are cheap dedicated servers?
-                </button>
-            </h2>
-            <div id="collapseOne" class="accordion-collapse collapse show border-top-0" aria-labelledby="headingOne" data-bs-parent="#accordionExample1">
-                <div class="accordion-body">
-                    <p>Cheap dedicated servers are hosting solutions that provide exclusive use of a physical server at an affordable price. Unlike shared hosting, where multiple websites share the same server resources, dedicated servers offer users the entire server for their website or application. These servers are particularly advantageous for businesses or individuals with high-traffic websites, resource-intensive applications, or specific performance requirements. By opting for a cheap dedicated server, users can enjoy enhanced performance, security, and control over their hosting environment without breaking the bank.</p>
+                    <!-- Section 1 -->
+                    <div class="accordion-item ">
+                        <h2 class="accordion-header " id="headingOne">
+                            <button class="accordion-button border-bottom-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                What are cheap dedicated servers?
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse show border-top-0" aria-labelledby="headingOne" data-bs-parent="#accordionExample1">
+                            <div class="accordion-body">
+                                <p>Cheap dedicated servers are hosting solutions that provide exclusive use of a physical server at an affordable price. Unlike shared hosting, where multiple websites share the same server resources, dedicated servers offer users the entire server for their website or application. These servers are particularly advantageous for businesses or individuals with high-traffic websites, resource-intensive applications, or specific performance requirements. By opting for a cheap dedicated server, users can enjoy enhanced performance, security, and control over their hosting environment without breaking the bank.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Section 2 -->
+
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingTwo">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                Are there any limitations with cheap dedicated servers compared to more expensive options?
+                            </button>
+                        </h2>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample1">
+                            <div class="accordion-body">
+                                <p> Absolutely No! Cheap Dedicated Servers come with Top-Notch Advanced Hardware, Highest 1 to 10 Gbps Uplink, Improved Intel Core Processor, and a lot more Fully Reliable web-related solutions specifically dedicated to your websites. There are no Quality service limitations imposed on the Cheapest Dedicated server hosting services as compared to more expensive options.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Section 3 -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingThree">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                Are there any limitations with dedicated servers compared to Other Hosting options?
+                            </button>
+                        </h2>
+                        <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample1">
+                            <div class="accordion-body">
+                                <p> Yes! As far as the high-pricing plans of the Dedicated Servers and Tireless Dedicated server management processes are concerned, Dedicated servers have few such limitations as compared to the shared, VPS, and other hosting services.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Section 4 -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingFour">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                Can I upgrade my cheap dedicated server as my website or application grows?
+                            </button>
+                        </h2>
+                        <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample1">
+                            <div class="accordion-body">
+                                <p> Yes! You can effortlessly Scale your Cheap Dedicated Server Hosting plans by increasing or decreasing the web-related resources as your website or application grows.</p>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
+
+
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="accordion  bg-white" id="accordionExample0">
+
+
+                    <!-- Section 5 -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingFive">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                What should be my main concerns when searching for a dedicated hosting provider?
+                            </button>
+                        </h2>
+                        <div id="collapseFive" class="accordion-collapse collapse show" aria-labelledby="headingFive" data-bs-parent="#accordionExample0">
+                            <div class="accordion-body">
+                                <p>Here are a few things you must keep in mind while searching for a dedicated hosting provider: Having a large enough website to justify the cost Prices Security of Data and Equipment High Bandwidth Knowledge and Integrity of the web hosting provider Technical support from the web hosting provider Server Reliability and Uptime</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Section 6 -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingSix">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                What software can I install on my Dedicated Server?
+                            </button>
+                        </h2>
+                        <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample0">
+                            <div class="accordion-body">
+                                <p> On a dedicated server, users get the liberty to download any number and type of software of their choice.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Section 7 -->
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingSeven">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                                Are there any hidden costs associated with Low Cost dedicated servers?
+                            </button>
+                        </h2>
+                        <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#accordionExample0">
+                            <div class="accordion-body">
+                                <p>No! Zero Hidden Costs and No Extra Setup charges are associated with the Low Cost Dedicated servers.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingSeven1">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven1" aria-expanded="false" aria-controls="collapseSeven">
+                                How many websites can I host on a Dedicated Server?
+                            </button>
+                        </h2>
+                        <div id="collapseSeven1" class="accordion-collapse collapse" aria-labelledby="headingSeven1" data-bs-parent="#accordionExample0">
+                            <div class="accordion-body">
+                                <p>You can host unlimited websites on your low-budget dedicated servers.</p>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
                 </div>
             </div>
         </div>
-
-        <!-- Section 2 -->
-        
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="headingTwo">
-                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                        Are there any limitations with cheap dedicated servers compared to more expensive options?
-                    </button>
-                </h2>
-                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample1">
-                    <div class="accordion-body">
-                        <p> Absolutely No! Cheap Dedicated Servers come with Top-Notch Advanced Hardware, Highest 1 to 10 Gbps Uplink, Improved Intel Core Processor, and a lot more Fully Reliable web-related solutions specifically dedicated to your websites. There are no Quality service limitations imposed on the Cheapest Dedicated server hosting services as compared to more expensive options.</p>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Section 3 -->
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="headingThree">
-                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                        Are there any limitations with dedicated servers compared to Other Hosting options?
-                    </button>
-                </h2>
-                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample1">
-                    <div class="accordion-body">
-                        <p> Yes! As far as the high-pricing plans of the Dedicated Servers and Tireless Dedicated server management processes are concerned, Dedicated servers have few such limitations as compared to the shared, VPS, and other hosting services.</p>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Section 4 -->
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="headingFour">
-                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                        Can I upgrade my cheap dedicated server as my website or application grows?
-                    </button>
-                </h2>
-                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample1">
-                    <div class="accordion-body">
-                        <p> Yes! You can effortlessly Scale your Cheap Dedicated Server Hosting plans by increasing or decreasing the web-related resources as your website or application grows.</p>
-                    </div>
-                </div>
-            </div>
-        
-             <!-- Section 5 -->
-             <div class="accordion-item">
-                <h2 class="accordion-header" id="headingFive">
-                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                        What should be my main concerns when searching for a dedicated hosting provider?
-                    </button>
-                </h2>
-                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample1">
-                    <div class="accordion-body">
-                        <p>Here are a few things you must keep in mind while searching for a dedicated hosting provider: Having a large enough website to justify the cost Prices Security of Data and Equipment High Bandwidth Knowledge and Integrity of the web hosting provider Technical support from the web hosting provider Server Reliability and Uptime</p>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Section 6 -->
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="headingSix">
-                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                        What software can I install on my Dedicated Server?
-                    </button>
-                </h2>
-                <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample1">
-                    <div class="accordion-body">
-                        <p> On a dedicated server, users get the liberty to download any number and type of software of their choice.</p>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Section 7 -->
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="headingSeven">
-                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-                        Are there any hidden costs associated with Low Cost dedicated servers?
-                    </button>
-                </h2>
-                <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#accordionExample1">
-                    <div class="accordion-body">
-                        <p>No! Zero Hidden Costs and No Extra Setup charges are associated with the Low Cost Dedicated servers.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="headingSeven1">
-                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven1" aria-expanded="false" aria-controls="collapseSeven">
-                        How many websites can I host on a Dedicated Server?
-                    </button>
-                </h2>
-                <div id="collapseSeven1" class="accordion-collapse collapse" aria-labelledby="headingSeven1" data-bs-parent="#accordionExample1">
-                    <div class="accordion-body">
-                        <p>You can host unlimited websites on your low-budget dedicated servers.</p>
-                    </div>
-                </div>
-            </div>
-
-       
-
-           
     </div>
-</div>
 </Section>
 <!-- /faq section  -->
 
