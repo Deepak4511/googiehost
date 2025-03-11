@@ -1,45 +1,80 @@
 <!-- header start  -->
+<!-- header start  -->
 <?php
-$page = 'cheap-vps-hosting';
+$page = 'cheap-dedicated-server';
 include 'inc/header.php'; ?>
 <!-- header end -->
 
-<!-- hero section  -->
-<div class="hero-section">
+<div class="hero-section position-relative">
+    <div class="blury-img"></div>
+
     <div class="container">
         <div class="row">
-            <div class="hero-left-section col-md-6">
+            <div class="hero-left-section text-center">
                 <h1 class="entry-title">Free VPS Hosting Foreve</h1>
-                <p>Get Hassle-Free VPS Hosting Experience from a Global Leading VPS Hosting Provider. Activate 30 Days of Free VPS Hosting Trials, You can Build your Custom Server and Get Started Today Now!.</p>
+                <p class="mb-3">Get Hassle-Free VPS Hosting Experience from a Global Leading VPS Hosting Provider. Activate 30 Days of Free VPS Hosting Trials, You can Build your Custom Server and Get Started Today Now!.</p>
                 <p>
-                    Eliminate high costs, complex setups, and slow speeds. Experience High Performance with best free vps hosting servers.
+                Eliminate high costs, complex setups, and slow speeds. Experience High Performance with best free vps hosting servers.
                 </p>
-                <div class="container">
-                    <ul class="hero-list mt-3 row list-unstyled">
-                        <li class="col-md-4">Hourly Billing Cycle</li>
-                        <li class="col-md-4">Expert 24*7 Support</li>
-                        <li class="col-md-4">30 Days Free VP</li>
-                        <li class="col-md-4">Multiple Geolocation</li>
-                    </ul>
-                </div>
 
-
-                <a href="https://googiehost.com/signup.php" class="button_orange">Deploy Free Server now <i class="fa-solid fa-angles-right"></i> </a>
-                <div class="rated ">
+                <div class="rated justify-content-center mb-4">
                     <span>
                         <svg xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20" fill="none">
                             <path d="M12.5 7.5L8 12L6.5 10.5M9 1L1 5C1 10.1932 3.78428 17.5098 9 19C14.2157 17.5098 17 10.1932 17 5L9 1Z" stroke="#F4FFF9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
                         </svg>
                     </span>No Credit Card required
                 </div>
+
+
+                <div class="row text-center justify-content-center">
+            <div class="col-md-3 d-flex feature-item">
+                <img src="./assets/images/icons/Mulitple-Server-Locations.png" alt="Sub Domain">
+                <div>
+                    <strong>Hourly Billing Cycle</strong><br>
+                    <small>(cu.ma, c1.is, thats.im etc)</small>
+                </div>
+                <div class="feature-divider d-none d-md-block"></div>
             </div>
-            <div class="hero-image-section col-md-6">
-                <img src="depends/cheap-vps-hosting-hero.png" width="550px" height="420px" alt="GoogieHost Logo" class="img-fluid">
+            <!-- <div class="feature-divider d-none d-md-block"></div> -->
+            <div class="col-md-3 d-flex feature-item">
+                <img src="./assets/images/icons/Mulitple-Server-Locations.png" alt="WordPress">
+                <div>
+                    <strong>Expert 24*7 Support</strong><br>
+                    <small>(Softaculous Auto Installer)</small>
+                </div>
+                <div class="feature-divider d-none d-md-block"></div>
+            </div>
+            <!-- <div class="feature-divider d-none d-md-block"></div> -->
+            <div class="col-md-3 d-flex feature-item">
+                <img src="./assets/images/icons/Mulitple-Server-Locations.png" alt="Own Domain">
+                <div>
+                    <strong>30 Days Free VP</strong><br>
+                    <small>(.com, .in, .co.in etc)</small>
+                </div>
+                <div class="feature-divider d-none d-md-block"></div>
+            </div>
+            <!-- <div class="feature-divider d-none d-md-block"></div> -->
+            <div class="col-md-3 d-flex feature-item">
+                <img src="./assets/images/icons/Mulitple-Server-Locations.png" alt="Server Uptime">
+                <div>
+                    <strong>Multiple Geolocation</strong><br>
+                    <small>Server Uptime is best</small>
+                </div>
             </div>
         </div>
+                <div class="blury-img2"></div>
+
+                <a href="" class="button_orange mt-4">Deploy Free Server now <i class="fa-solid fa-angle-right ms-3"></i></a>
+                <div class="rated justify-content-center">
+                    Starting at $45/mo
+                </div>
+            </div>
+        </div>
+
     </div>
+    <h4 class="featured-on text-white text-center">Featured On</h4>
     <div class="inner container" style="padding-top: 0 !important;">
-        <img loading="lazy" alt="featured on logos" class="img-fluid" data-cfsrc="depends/featured-logos2.png" src="depends/featured-logos2.png">
+        <img loading="lazy" alt="featured on logos" class="img-fluid" data-cfsrc="depends/featured-logos2.png" src="./assets/images/icons/featured-logos2.png">
     </div>
 </div>
 <!-- / hero section -->
@@ -422,25 +457,26 @@ include 'inc/header.php'; ?>
 </div>
 <!-- message section end -->
 
-<!-- feature section  -->
-<div class="features">
-    <div class="container py-5 ">
-        <h2 class="text-center">WEB HOSTING TO BOOST YOUR BUSINESS PRESENCE</h2>
-        <p class="w-75 text-center mx-auto p-3">
-            Googiehost gives you most useful <strong>Web Hosting features</strong> that can help you to build your business or personal website with just few easy clicks. Get your business on Google, Yahoo & Bing today.
+<section>
+    <!-- feature section  -->
+
+    <div class="container pb-5 ">
+        <h2 class="text-center sec-heading">WEB HOSTING TO BOOST YOUR BUSINESS PRESENCE</h2>
+        <p class=" text-center  p-1 sec-subheading">
+        Googiehost gives you most useful Web Hosting features that can help you to build your business or personal website with just few easy clicks. Get your business on Google, Yahoo & Bing today.
         </p>
 
         <div class="row g-4 mt-4">
             <!-- Feature 1 -->
             <div class="col-md-6 col-lg-4">
-                <div class=" text-center">
+                <div class="feature-card">
                     <div class=" mx-auto">
-                        <img src="depends/vps/ssd.png" alt="ssd">
+                        <!-- <img src="./assets/images/icons/root-access.svg" alt="1000MB SSD Storage" class="mb-3"> -->
+                        <img src="./assets/images/icons/externded-security.svg" alt="Extended Security" class="mb-3">
                         <h5 class="card-title">Solid State Drives</h5>
                     </div>
                     <div class="card-body">
-
-                        <p class="card-text">Make your website blazing fast on the internet with the latest SSD drive, which provides lightning-speed data transport between your servers to the user!! And improve your website loading speed.</p>
+                        <p class="card-text ">Make your website blazing fast on the internet with the latest SSD drive, which provides lightning-speed data transport between your servers to the user!! And improve your website loading speed.</p>
 
                     </div>
                 </div>
@@ -448,29 +484,30 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 2 -->
             <div class="col-md-6 col-lg-4">
-                <div class=" text-center">
+                <div class="feature-card">
                     <div class=" mx-auto">
-                        <img src="depends/vps/ssl.png" alt="ssl">
+                        <!-- <img src="./assets/images/icons/host-unlimited-website.svg" alt="100GB Bandwidth" class="mb-3"> -->
+                        <img src="./assets/images/icons/externded-security.svg" alt="Extended Security" class="mb-3">
                         <h5 class="card-title">SSL Secure</h5>
                     </div>
                     <div class="card-body">
 
-                        <p class="card-text">Concerned about the security? No worries!! Because all the above-mentioned service providers are providing <a href="">SSL certificate</a> with their free trials to ensure encryption-based network communication between the server and your user!!</p>
-
+                        <p class="card-text ">Concerned about the security? No worries!! Because all the above-mentioned service providers are providing SSL certificate with their free trials to ensure encryption-based network communication between the server and your user!!</p>
                     </div>
                 </div>
             </div>
 
             <!-- Feature 3 -->
             <div class="col-md-6 col-lg-4">
-                <div class=" text-center">
+                <div class="feature-card">
                     <div class=" mx-auto">
-                        <img src="depends/vps/powerful-securities.png" alt="security">
+                        <!-- <img src="./assets/images/icons/dedicated-ip.svg" alt="Hotlink Protection" class="mb-3"> -->
+                        <img src="./assets/images/icons/externded-security.svg" alt="Extended Security" class="mb-3">
                         <h5 class="card-title">Powerful Securities</h5>
                     </div>
                     <div class="card-body">
 
-                        <p class="card-text">To prevent your site from hackers and viruses, all the above-mentioned hosting service providers offer protection like DDoS, Malware detection & removal, firewalls, spam filters, domain name privacy, and many more. These are the most powerful Securities a hosting service can offer.</p>
+                        <p class="card-text ">To prevent your site from hackers and viruses, all the above-mentioned hosting service providers offer protection like DDoS, Malware detection & removal, firewalls, spam filters, domain name privacy, and many more. These are the most powerful Securities a hosting service can offer.</p>
 
                     </div>
                 </div>
@@ -478,49 +515,701 @@ include 'inc/header.php'; ?>
 
             <!-- Feature 4 -->
             <div class="col-md-6 col-lg-4">
-                <div class=" text-center">
+                <div class="feature-card">
                     <div class=" mx-auto">
-                        <img src="depends/vps/full-root.png" alt="root access">
+                        <!-- <img src="./assets/images/icons/high-traffic-website.svg" alt="2 MySQL Databases" class="mb-3"> -->
+                        <img src="./assets/images/icons/externded-security.svg" alt="Extended Security" class="mb-3">
                         <h5 class="card-title">Full Root Access</h5>
                     </div>
                     <div class="card-body">
-                        <p class="card-text">You will get full root access with your cheap VPS hosting which means you will have full control over your server and you can install any operating system whichever you want. Also, you can install any software for a better experience.</p>
-
+                        <p class="card-text ">You will get full root access with your cheap VPS hosting which means you will have full control over your server and you can install any operating system whichever you want. Also, you can install any software for a better experience.</p>
                     </div>
                 </div>
             </div>
 
             <!-- Feature 5 -->
             <div class="col-md-6 col-lg-4">
-                <div class=" text-center">
+                <div class="feature-card">
                     <div class=" mx-auto">
-                        <img src="depends/05.png" alt="Softaculous">
+                        <img src="./assets/images/icons/advanced-firewall.svg" alt="2 FTP Accounts" class="mb-3">
                         <h5 class="card-title">One Click Deploy</h5>
                     </div>
                     <div class="card-body">
 
-                        <p class="card-text">Now you can build your site on the CMS of your choice with some very basic steps. You don’t need to look out for the next step. Everything will be with a single click. Buy cheap VPS hosting and get started today!</p>
-
+                        <p class="card-text ">Now you can build your site on the CMS of your choice with some very basic steps. You don’t need to look out for the next step. Everything will be with a single click. Buy cheap VPS hosting and get started today!</p>
                     </div>
                 </div>
             </div>
 
             <!-- Feature 6 -->
             <div class="col-md-6 col-lg-4">
-                <div class=" text-center">
+                <div class="feature-card">
                     <div class=" mx-auto">
-                        <img src="depends/06.png" alt="24/7 Support">
+                        <img src="./assets/images/icons/externded-security.svg" alt="Extended Security" class="mb-3">
                         <h5 class="card-title">24/7 Support</h5>
                     </div>
                     <div class="card-body">
 
-                        <p class="card-text">One of the biggest barriers in your growth will be customer support but here you will get superior customer support so that you can focus on your work while the Hosting provider will clean up all the problems.</p>
+                        <p class="card-text ">
+                        One of the biggest barriers in your growth will be customer support but here you will get superior customer support so that you can focus on your work while the Hosting provider will clean up all the problems.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</section>
+
+
+
+
+<section class="py-3">
+    <div class="container">
+        <div class="inner text-center block-double-tb">
+            <h2 class="large-title mb-4">Best Paid/Free VPS Hosting Plans List For 2025</h2>
+        </div>
+
+
+        <div class="custom-review-card">
+            <div class="d-flex justify-content-between align-items-center card-heading-sec">
+                <h5 class="fw-bold">Kamatera</h5>
+                <span class="fw-bold">$4.99/mo</span>
+            </div>
+            <div class="p-4">
+                <div class="row mt-3">
+                    <div class="col-md-6">
+                        <a href="https://googiehost.com/blog/go/kamatera-free-vps/">
+                            <img src="./assets/images/affiliate/youstable-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="d-flex align-items-center justify-content-center">
+                            <!-- <div>
+                                <span class="rating-sec fw-bold">4.9</span><span class="fw-bold fs-5">/5</span>
+                                <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
+                            </div> -->
+                            <a href="https://googiehost.com/blog/go/kamatera-free-vps/" class="best-deal-btn hide-btn1 my-3">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                        </div>
+
+                        <div class=" stats-box">
+                            <div class="d-flex justify-content-between"><span>Performance</span> <strong>4.9/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Speed </span><strong>4.8/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Support </span><strong>5/5</strong></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <a href="https://googiehost.com/blog/go/kamatera-free-vps/" class="best-deal-btn hide-btn">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+
+                    <p class=""><a href="https://googiehost.com/blog/kamatera-review/">Kamatera</a> offers both managed and unmanaged VPS Hosting solutions in the market. You can also opt for their Free VPS hosting trials, which are valid for 30 days, believe it!! It will not make you regret it because they offer enterprise-scale hosting resources.</p>
+                    <p>One more interesting aspect of it is that Kamatera provides best-in-class <a href="https://googiehost.com/blog/best-vps-hosting/"> VPS hosting service</a>, based on 13 different locations so that you get as a maximum options as possible!! You can also use the “Pay as Go” method to decrease the end price!!</p>
+                </div>
+
+                <div class="row text-center mt-3 p-2">
+                    <div class="col-md-4 review-feature">
+                        <span class="">Response Time</span><br>
+                        <strong>211.60 ms to load</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Server Uptime</span><br>
+                        <strong>99.99%</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Live Status</span><br>
+                        <strong class="online">Online</strong>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+                    <div class="accordion" id="accordionExample">
+                        <div class="accordion-item key-feature-sec">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature1" aria-expanded="false" aria-controls="collapseFeature1">
+                                What makes Kamatera one of the best VPS hosting provider:
+                                </button>
+                            </h2>
+                            <div id="collapseFeature1" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <div class="hosting-key-features">
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Budget-friendly customization options.</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>24/7 Uptime Monitoring</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>6+ Operating System Choices</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Top-notch Security</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>DDOS Protection</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Geolocation Infrastructure</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
 
                     </div>
                 </div>
             </div>
         </div>
+
+        <div class="custom-review-card">
+            <div class="d-flex justify-content-between align-items-center card-heading-sec">
+                <h5 class="fw-bold">Cloudways</h5>
+                <span class="fw-bold">$6/mo</span>
+            </div>
+            <div class="p-4">
+                <div class="row mt-3">
+                    <div class="col-md-6">
+                        <a href="https://googiehost.com/blog/go/cloudways/">
+                            <img src="./assets/images/affiliate/youstable-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="d-flex align-items-center justify-content-center">
+                            <!-- <div>
+                                <span class="rating-sec fw-bold">4.9</span><span class="fw-bold fs-5">/5</span>
+                                <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
+                            </div> -->
+                            <a href="https://googiehost.com/blog/go/cloudways/" class="best-deal-btn hide-btn1 my-3">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                        </div>
+
+                        <div class=" stats-box">
+                            <div class="d-flex justify-content-between"><span>Performance</span> <strong>4.8/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Speed </span><strong>4.7/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Support </span><strong>4.5/5</strong></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <a href="https://googiehost.com/blog/go/cloudways/" class="best-deal-btn hide-btn">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+
+                    <p class="">Interested in Cloud servers? No problems click on the button attached below and enjoy the ultra-smooth performance of your website on the internet!! But how? :thinking_face:See!! Basically, Cloudways powerful Best managed cloud server which comes with pre-installed resources such as a control panel and more!!</p>
+                    <p>But one of the best aspects of Cloudways that we personally love about it is that they provide specially optimize hosting servers for almost all the CMS to enhance performance. Hence no matter whether you are running a WordPress website or a custom you can go with it!!</p>
+                    <p>So what are waiting for, grab their powerful servers free for 3 days and test your website on multiple factors to analyze its performance on various scales?</p>
+                </div>  
+
+                <div class="row text-center mt-3 p-2">
+                    <div class="col-md-4 review-feature">
+                        <span class="">Response Time</span><br>
+                        <strong>212.76 ms to load</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Server Uptime</span><br>
+                        <strong>99.95%</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Live Status</span><br>
+                        <strong class="online">Online</strong>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+                    <div class="accordion" id="accordionExample">
+                        <div class="accordion-item key-feature-sec">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature1" aria-expanded="false" aria-controls="collapseFeature1">
+                                What makes Cloudways one of the best VPS hosting providers:
+                                </button>
+                            </h2>
+                            <div id="collapseFeature1" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <div class="hosting-key-features">
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Two-factor authentication</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Strong Firewall</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Regular security patching</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>24*7 customer support</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>End End encryption</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="custom-review-card">
+            <div class="d-flex justify-content-between align-items-center card-heading-sec">
+                <h5 class="fw-bold">DigitalOcean</h5>
+                <span class="fw-bold">$6/mo</span>
+            </div>
+            <div class="p-4">
+                <div class="row mt-3">
+                    <div class="col-md-6">
+                        <a href="https://googiehost.com/blog/go/digitalocean/">
+                            <img src="./assets/images/affiliate/youstable-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="d-flex align-items-center justify-content-center">
+                            <!-- <div>
+                                <span class="rating-sec fw-bold">4.9</span><span class="fw-bold fs-5">/5</span>
+                                <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
+                            </div> -->
+                            <a href="https://googiehost.com/blog/go/digitalocean/" class="best-deal-btn hide-btn1 my-3">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                        </div>
+
+                        <div class=" stats-box">
+                            <div class="d-flex justify-content-between"><span>Performance</span> <strong>4.7/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Speed </span><strong>4.9/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Support </span><strong>4.8/5</strong></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <a href="https://googiehost.com/blog/go/digitalocean/" class="best-deal-btn hide-btn">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+
+                    <p class="">Another amazing and <a href="https://googiehost.com/blog/best-cloud-hosting/"> Best Cloud Hosting</a> provider is DigitalOcean which offers high-performing servers at very attractive discounts!! But what about the qualities? Just sit and relax because DigitalOcean has equipped its server infrastructure with the best-in-class hardware equipment to ensure you get optimum performance for your website.</p>
+                    <p>Currently, they are running an amazing discount in which they are <a href="https://googiehost.com/blog/go/digitalocean/"> offering $200</a> on your first signup which you can use to avail of their servers at a very less price!!</p>
+                </div>
+
+                <div class="row text-center mt-3 p-2">
+                    <div class="col-md-4 review-feature">
+                        <span class="">Response Time</span><br>
+                        <strong>212.08 ms to load</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Server Uptime</span><br>
+                        <strong>99.95%</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Live Status</span><br>
+                        <strong class="online">Online</strong>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+                    <div class="accordion" id="accordionExample">
+                        <div class="accordion-item key-feature-sec">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature1" aria-expanded="false" aria-controls="collapseFeature1">
+                                What makes DigitalOcean one of the best VPS hosting providers
+                                </button>
+                            </h2>
+                            <div id="collapseFeature1" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <div class="hosting-key-features">
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Cloud load balancer</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Full root access</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>1-click app installer</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Host Multiple Sites</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>High uptime guarantee</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>In-built CDN</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="custom-review-card">
+            <div class="d-flex justify-content-between align-items-center card-heading-sec">
+                <h5 class="fw-bold">DreamHost</h5>
+                <span class="fw-bold">$10/mo</span>
+            </div>
+            <div class="p-4">
+                <div class="row mt-3">
+                    <div class="col-md-6">
+                        <a href="https://googiehost.com/blog/go/dreamhost/">
+                            <img src="./assets/images/affiliate/youstable-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="d-flex align-items-center justify-content-center">
+                            <!-- <div>
+                                <span class="rating-sec fw-bold">4.9</span><span class="fw-bold fs-5">/5</span>
+                                <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
+                            </div> -->
+                            <a href="https://googiehost.com/blog/go/dreamhost/" class="best-deal-btn hide-btn1 my-3">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                        </div>
+
+                        <div class=" stats-box">
+                            <div class="d-flex justify-content-between"><span>Performance</span> <strong>4.6/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Speed </span><strong>4.9/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Support </span><strong>4.5/5</strong></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <a href="https://googiehost.com/blog/go/dreamhost/" class="best-deal-btn hide-btn">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+
+                    <p class="">Are you running a business or high-traffic blogging website and looking for a hosting service which can assure with high performance? If yes then <a href="https://googiehost.com/blog/dreamhost-review/">DreamHost</a>  is all that you need!! Sounds quite a statement, right? Well, the reason the features that DreamHost provides with its services is to make your website rock on the internet!!</p>
+                    <p>It provides you services with a high uptime guarantee, top-notch security, <a href="https://googiehost.com/blog/best-unlimited-web-hosting-plans/"> unmetered resources</a> and much more which you can avail of now by just clicking on the button below!!</p>
+                </div>  
+
+                <div class="row text-center mt-3 p-2">
+                    <div class="col-md-4 review-feature">
+                        <span class="">Response Time</span><br>
+                        <strong>501.72 ms to load</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Server Uptime</span><br>
+                        <strong>99.95%</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Live Status</span><br>
+                        <strong class="online">Online</strong>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+                    <div class="accordion" id="accordionExample">
+                        <div class="accordion-item key-feature-sec">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature1" aria-expanded="false" aria-controls="collapseFeature1">
+                                What makes DreamHost one of the best VPS hosting providers:
+                                </button>
+                            </h2>
+                            <div id="collapseFeature1" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <div class="hosting-key-features">
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Unmetered resources</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Easily scalable resources</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Encryption based network communication</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Password protected directories</div>
+                                
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="custom-review-card">
+            <div class="d-flex justify-content-between align-items-center card-heading-sec">
+                <h5 class="fw-bold">Linode</h5>
+                <span class="fw-bold">$5/mo</span>
+            </div>
+            <div class="p-4">
+                <div class="row mt-3">
+                    <div class="col-md-6">
+                        <a href="https://googiehost.com/blog/go/linode/">
+                            <img src="./assets/images/affiliate/youstable-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="d-flex align-items-center justify-content-center">
+                            <!-- <div>
+                                <span class="rating-sec fw-bold">4.9</span><span class="fw-bold fs-5">/5</span>
+                                <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
+                            </div> -->
+                            <a href="https://googiehost.com/blog/go/linode/" class="best-deal-btn hide-btn1 my-3">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                        </div>
+
+                        <div class=" stats-box">
+                            <div class="d-flex justify-content-between"><span>Performance</span> <strong>4.7/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Speed </span><strong>4.9/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Support </span><strong>4.8/5</strong></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <a href="https://googiehost.com/blog/go/linode/" class="best-deal-btn hide-btn">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+
+                    <p class=""><a href="https://googiehost.com/blog/linode-review/">Linode</a> provides high-quality hosting services based upon best-in-class server infrastructure to provide unhindered performance for your website. Basically, to help you gain and handle high traffic it is unhindered performance is required.</p>
+                    <p>But how do they ensure that? See!! Their servers are built with the latest and high-quality hardware such <a href="https://googiehost.com/blog/best-nvme-vps-hosting/"> NVMe SSD-based storage</a>, high-performing CPU processors and much more.</p>
+                </div>  
+
+                <div class="row text-center mt-3 p-2">
+                    <div class="col-md-4 review-feature">
+                        <span class="">Response Time</span><br>
+                        <strong>189.67 ms to load</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Server Uptime</span><br>
+                        <strong>100%</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Live Status</span><br>
+                        <strong class="online">Online</strong>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+                    <div class="accordion" id="accordionExample">
+                        <div class="accordion-item key-feature-sec">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature1" aria-expanded="false" aria-controls="collapseFeature1">
+                                What makes Linode one of the best VPS hosting providers :
+                                </button>
+                            </h2>
+                            <div id="collapseFeature1" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <div class="hosting-key-features">
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Completely dedicated resources</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Full root access</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Advanced DDoS protection</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Full backup</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Extensive Cloud manager</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Promising Uptime</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>99.9% Uptime Guarantee</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="custom-review-card">
+            <div class="d-flex justify-content-between align-items-center card-heading-sec">
+                <h5 class="fw-bold">Vultr</h5>
+                <span class="fw-bold">$2.50/mo</span>
+            </div>
+            <div class="p-4">
+                <div class="row mt-3">
+                    <div class="col-md-6">
+                        <a href="https://googiehost.com/blog/go/dreamhost/">
+                            <img src="./assets/images/affiliate/youstable-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="d-flex align-items-center justify-content-center">
+                            <!-- <div>
+                                <span class="rating-sec fw-bold">4.9</span><span class="fw-bold fs-5">/5</span>
+                                <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
+                            </div> -->
+                            <a href="https://googiehost.com/blog/go/dreamhost/" class="best-deal-btn hide-btn1 my-3">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                        </div>
+
+                        <div class=" stats-box">
+                            <div class="d-flex justify-content-between"><span>Performance</span> <strong>4.6/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Speed </span><strong>4.9/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Support </span><strong>4.5/5</strong></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <a href="https://googiehost.com/blog/go/dreamhost/" class="best-deal-btn hide-btn">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+
+                    <p class="">Are you running a business or high-traffic blogging website and looking for a hosting service which can assure with high performance? If yes then <a href="https://googiehost.com/blog/dreamhost-review/">DreamHost</a>  is all that you need!! Sounds quite a statement, right? Well, the reason the features that DreamHost provides with its services is to make your website rock on the internet!!</p>
+                    <p>It provides you services with a high uptime guarantee, top-notch security, <a href="https://googiehost.com/blog/best-unlimited-web-hosting-plans/"> unmetered resources</a> and much more which you can avail of now by just clicking on the button below!!</p>
+                </div>  
+
+                <div class="row text-center mt-3 p-2">
+                    <div class="col-md-4 review-feature">
+                        <span class="">Response Time</span><br>
+                        <strong>501.72 ms to load</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Server Uptime</span><br>
+                        <strong>99.95%</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Live Status</span><br>
+                        <strong class="online">Online</strong>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+                    <div class="accordion" id="accordionExample">
+                        <div class="accordion-item key-feature-sec">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature1" aria-expanded="false" aria-controls="collapseFeature1">
+                                What makes DreamHost one of the best VPS hosting providers:
+                                </button>
+                            </h2>
+                            <div id="collapseFeature1" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <div class="hosting-key-features">
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Unmetered resources</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Easily scalable resources</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Encryption based network communication</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Password protected directories</div>
+                                
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="custom-review-card">
+            <div class="d-flex justify-content-between align-items-center card-heading-sec">
+                <h5 class="fw-bold">DreamHost</h5>
+                <span class="fw-bold">$10/mo</span>
+            </div>
+            <div class="p-4">
+                <div class="row mt-3">
+                    <div class="col-md-6">
+                        <a href="https://googiehost.com/blog/go/dreamhost/">
+                            <img src="./assets/images/affiliate/youstable-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="d-flex align-items-center justify-content-center">
+                            <!-- <div>
+                                <span class="rating-sec fw-bold">4.9</span><span class="fw-bold fs-5">/5</span>
+                                <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
+                            </div> -->
+                            <a href="https://googiehost.com/blog/go/dreamhost/" class="best-deal-btn hide-btn1 my-3">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                        </div>
+
+                        <div class=" stats-box">
+                            <div class="d-flex justify-content-between"><span>Performance</span> <strong>4.6/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Speed </span><strong>4.9/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Support </span><strong>4.5/5</strong></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <a href="https://googiehost.com/blog/go/dreamhost/" class="best-deal-btn hide-btn">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+
+                    <p class="">Are you running a business or high-traffic blogging website and looking for a hosting service which can assure with high performance? If yes then <a href="https://googiehost.com/blog/dreamhost-review/">DreamHost</a>  is all that you need!! Sounds quite a statement, right? Well, the reason the features that DreamHost provides with its services is to make your website rock on the internet!!</p>
+                    <p>It provides you services with a high uptime guarantee, top-notch security, <a href="https://googiehost.com/blog/best-unlimited-web-hosting-plans/"> unmetered resources</a> and much more which you can avail of now by just clicking on the button below!!</p>
+                </div>  
+
+                <div class="row text-center mt-3 p-2">
+                    <div class="col-md-4 review-feature">
+                        <span class="">Response Time</span><br>
+                        <strong>501.72 ms to load</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Server Uptime</span><br>
+                        <strong>99.95%</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Live Status</span><br>
+                        <strong class="online">Online</strong>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+                    <div class="accordion" id="accordionExample">
+                        <div class="accordion-item key-feature-sec">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature1" aria-expanded="false" aria-controls="collapseFeature1">
+                                What makes DreamHost one of the best VPS hosting providers:
+                                </button>
+                            </h2>
+                            <div id="collapseFeature1" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <div class="hosting-key-features">
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Unmetered resources</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Easily scalable resources</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Encryption based network communication</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Password protected directories</div>
+                                
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="custom-review-card">
+            <div class="d-flex justify-content-between align-items-center card-heading-sec">
+                <h5 class="fw-bold">DreamHost</h5>
+                <span class="fw-bold">$10/mo</span>
+            </div>
+            <div class="p-4">
+                <div class="row mt-3">
+                    <div class="col-md-6">
+                        <a href="https://googiehost.com/blog/go/dreamhost/">
+                            <img src="./assets/images/affiliate/youstable-hosting-provider-cheap-dedicated-server.jpg" alt="Offer" class="img-fluid rounded"></a>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="d-flex align-items-center justify-content-center">
+                            <!-- <div>
+                                <span class="rating-sec fw-bold">4.9</span><span class="fw-bold fs-5">/5</span>
+                                <div class="rating-star"> <i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i><i class="fa-solid fa-star star"></i></div>
+                            </div> -->
+                            <a href="https://googiehost.com/blog/go/dreamhost/" class="best-deal-btn hide-btn1 my-3">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                        </div>
+
+                        <div class=" stats-box">
+                            <div class="d-flex justify-content-between"><span>Performance</span> <strong>4.6/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Speed </span><strong>4.9/5</strong></div>
+                            <div class="d-flex justify-content-between mt-2"><span>Support </span><strong>4.5/5</strong></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <a href="https://googiehost.com/blog/go/dreamhost/" class="best-deal-btn hide-btn">Claim deal <i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+
+                    <p class="">Are you running a business or high-traffic blogging website and looking for a hosting service which can assure with high performance? If yes then <a href="https://googiehost.com/blog/dreamhost-review/">DreamHost</a>  is all that you need!! Sounds quite a statement, right? Well, the reason the features that DreamHost provides with its services is to make your website rock on the internet!!</p>
+                    <p>It provides you services with a high uptime guarantee, top-notch security, <a href="https://googiehost.com/blog/best-unlimited-web-hosting-plans/"> unmetered resources</a> and much more which you can avail of now by just clicking on the button below!!</p>
+                </div>  
+
+                <div class="row text-center mt-3 p-2">
+                    <div class="col-md-4 review-feature">
+                        <span class="">Response Time</span><br>
+                        <strong>501.72 ms to load</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Server Uptime</span><br>
+                        <strong>99.95%</strong>
+                    </div>
+                    <div class="col-md-4 review-feature">
+                        <span class="">Live Status</span><br>
+                        <strong class="online">Online</strong>
+                    </div>
+                </div>
+
+                <div class="mt-3">
+                    <div class="accordion" id="accordionExample">
+                        <div class="accordion-item key-feature-sec">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button key-feature" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFeature1" aria-expanded="false" aria-controls="collapseFeature1">
+                                What makes DreamHost one of the best VPS hosting providers:
+                                </button>
+                            </h2>
+                            <div id="collapseFeature1" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    <div class="hosting-key-features">
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Unmetered resources</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Easily scalable resources</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Encryption based network communication</div>
+                                        <div><i class="fa-solid fa-check feature-check-symbol"></i>Password protected directories</div>
+                                
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
     </div>
+</section>
+
+
+
 
 </div>
 <div class="text-center mt-4">

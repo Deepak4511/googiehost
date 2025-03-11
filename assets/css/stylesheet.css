@@ -292,7 +292,7 @@ header .nav-item .dropdown-item {
 .hero-section {
   z-index: -1;
   background-color: #270069 !important;
-  overflow: hidden;
+  overflow-x: clip;
   /* background-image: url(https://googiehost.com/img/GoogieHostBgmin-1.png) !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
@@ -323,7 +323,7 @@ header .nav-item .dropdown-item {
 }
 
 .hero-left-section p {
-  width: 75%;
+  width: 80%;
   margin: auto;
 }
 
@@ -1255,6 +1255,7 @@ td:last-child, th:last-child {
   background-color: white; /* Default background */
   color: #28006C;
 }
+
 
 
 
@@ -2479,4 +2480,24 @@ textarea {
 .pure-button-primary:hover {
   opacity: 1;
   transform: scale(1.03);
+}
+
+
+.feature-section {
+  color: white;
+  padding: 20px 0;
+}
+.feature-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--white);
+}
+.feature-item img {
+  width: 30px; /* Adjust icon size */
+}
+.feature-divider {
+  border-left: 1px solid rgba(255, 255, 255, 0.5);
+  height: 30px;
+  margin: 0 15px 0px 32px;
 }

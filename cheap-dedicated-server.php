@@ -25,27 +25,43 @@ include 'inc/header.php'; ?>
                     </span>No Credit Card required
                 </div>
 
-                <ul class="hero-list row list-unstyled">
-                    <li class="col-md-3 col-6 hero-seprator">
-                        <div class="hero-featur-list"><img src="./assets/images/icons/kvm-over-ip.png
-                            " alt=""> KVM over IP</div>
-                        <!-- <div class="hero-seprator"></div> -->
-                    </li>
-                    <li class="col-md-3 col-6 hero-seprator">
-                        <div class="hero-featur-list"><img src="./assets/images/icons/no-setup-cost.png
-                        " alt="">No Setup Cost</div>
-                        <!-- <div class="hero-seprator"></div> -->
-                    </li>
-                    <li class="col-md-3 col-6 hero-seprator">
-                        <div class="hero-featur-list"><img src="./assets/images/icons/free-reboot.png
-                        " alt="">Free Reboots</div>
-                        <!-- <div class="hero-seprator"></div> -->
-                    </li>
-                    <li class="col-md-3 col-6 ">
-                        <div class="hero-featur-list hero-hide-seprator"><img src="./assets/images/icons/Mulitple-Server-Locations.png
-                        " alt="">Mulitple Server Locations</div>
-                    </li>
-                </ul>
+
+                <div class="row text-center justify-content-center">
+            <div class="col-md-3 d-flex feature-item">
+                <img src="./assets/images/icons/Mulitple-Server-Locations.png" alt="Sub Domain">
+                <div>
+                    <strong>Free Sub Domain</strong><br>
+                    <small>(cu.ma, c1.is, thats.im etc)</small>
+                </div>
+                <div class="feature-divider d-none d-md-block"></div>
+            </div>
+            <!-- <div class="feature-divider d-none d-md-block"></div> -->
+            <div class="col-md-3 d-flex feature-item">
+                <img src="./assets/images/icons/Mulitple-Server-Locations.png" alt="WordPress">
+                <div>
+                    <strong>WordPress Installation</strong><br>
+                    <small>(Softaculous Auto Installer)</small>
+                </div>
+                <div class="feature-divider d-none d-md-block"></div>
+            </div>
+            <!-- <div class="feature-divider d-none d-md-block"></div> -->
+            <div class="col-md-3 d-flex feature-item">
+                <img src="./assets/images/icons/Mulitple-Server-Locations.png" alt="Own Domain">
+                <div>
+                    <strong>Use your own Domain</strong><br>
+                    <small>(.com, .in, .co.in etc)</small>
+                </div>
+                <div class="feature-divider d-none d-md-block"></div>
+            </div>
+            <!-- <div class="feature-divider d-none d-md-block"></div> -->
+            <div class="col-md-3 d-flex feature-item">
+                <img src="./assets/images/icons/Mulitple-Server-Locations.png" alt="Server Uptime">
+                <div>
+                    <strong>Upto 99% Server Uptime</strong><br>
+                    <small>Server Uptime is best</small>
+                </div>
+            </div>
+        </div>
                 <div class="blury-img2"></div>
 
                 <a href="" class="button_orange mt-4">Deploy Free Server now <i class="fa-solid fa-angle-right ms-3"></i></a>
