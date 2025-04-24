@@ -31,30 +31,25 @@ include 'inc/header.php'; ?>
     </div>
 </div>
 <!-- / hero section -->
-
 <!-- banner section -->
-<div class="container">
-    <div class="banner d-flex align-items-center justify-content-between  rounded">
-        <div class="row w-100 align-items-center">
-            <div class="d-flex align-items-center col-md-9">
-                <span class="heart">&#129293;</span>
-                <div>
-                    <h2 class="text-white mb-2 ">
-                        Celebrating 1 Million Registered Customers! 500+ Web Hosting Reviews
-                    </h2>
-                    <p class="text-white mb-0">
-                        We believe everyone deserves a stunning website for their business. GoogieHost offers you 100%
-                        free website hosting with Premium features, and we also help you choose the best-paid hosting
-                        solution so you can spend your hard-earned money on quality hosting.
-                    </p>
-                </div>
+
+<section class="py-5">
+    <div class="container">
+        <div class="content-upgrade mb-mid block-single box-lr "
+            style="background-color: #F9F5FF;  color: #FFFFFF;">
+
+            <div class="content-upgrade-text mb-single ">
+                <p class="banner__heading">Host your website with Free Wordpress Hosting </p>
+                <p class="banner__content mb-4">Free Wordpress Website Hosting with no restrictions.With record speed, performance, and 24/7 support,
+                    EasyWP gets your WordPress site up fast.</p>
+                <a href="https://googiehost.com/signup.html"
+                    class="btn banner__btn " rel="me">Signup Now</a>
             </div>
-            <div class="col-md-3 text-md-right text-center mt-3 mt-md-0">
-                <a href="#" class="btn ">GET FREE HOSTING <i class="fa-solid fa-angle-right"></i></a>
-            </div>
+
         </div>
     </div>
-</div>
+</section>
+
 <!-- / banner section  -->
 <!-- feature section  -->
 <div class="features">
@@ -291,42 +286,40 @@ include 'inc/header.php'; ?>
 <!-- / comparision table -->
 
 <!-- cta section  -->
-<div class="cta">
+<Section class="my-5">
     <div class="container">
-        <div class="card col-12 col-md-8">
-            <div class="card-header text-center">
-                <h6> Learn How To Create A Free Website With GoogieHost</h6>
+        <h4 class="cta__subheading">Create your free account now</h4>
+        <h2 class="cta_heading text-center">3 Easy Steps to create your free account</h2>
+        <p class="cta_para text-center w-md-75 m-auto mb-5">Follow the steps given below to create a free website. GoogieHost offers free hosting to all of its users with no forced advertisements. </p>
+        <div class="cta-content-section  py-5 ">
+            <div class="d-flex align-items-center mb-5">
+            <img src="assets/images/icons/launch.svg" alt="cta" class="img-fluid me-4">
+            <div class="cta__content">
+                <h3>Fill in your credentials</h3>
+                <p>Order your free hosting account by filling this Signup form with your basic details.</p>
             </div>
-            <div class="pb-3">
-                <p class="intro px-3">
-                    Follow the steps given below to create a free website. <a href="freehosting.html">GoogieHost offers free hosting </a>to all of its users with no forced advertisements.
-                </p>
-                <ol class="list styled large mt-5">
-                    <li><span>Fill in your credentials</span><br>
-                        Order your free hosting account by <a class="biglink" href="signup.html">filling this Signup form</a> with your basic details.
-                    </li>
-                    <li><span>Enter your Control Panel (DirectAdmin)</span><br>
-                        Start building your Website using our SitePad free website builder or tailored HTML templates.
-                    </li>
-                    <li><span>Launch your Website</span><br>
-                        Publish your website and make it visible to the world wide web in the blink of an eye.
-                    </li>
-                </ol>
+            </div>
 
+            <div class="d-flex align-items-center mb-5">
+            <img src="assets/images/icons/launch.svg" alt="cta" class="img-fluid me-4">
+            <div class="cta__content">
+                <h3>Fill in your credentials</h3>
+                <p>Order your free hosting account by filling this Signup form with your basic details.</p>
+            </div>
+            </div>
 
-                <div class=" mt-5 grp-btn">
-                    <a href="#">
-                        SIGN UP FOR FREE <i class="fa-solid fa-angle-right me-2"></i>
-                    </a>
-                    <a href="#">
-                        HOW TO CREATE A BLOG <i class="fa-solid fa-angle-right"></i>
-                    </a>
-                </div>
+            <div class="d-flex align-items-center mb-5">
+            <img src="assets/images/icons/launch.svg" alt="cta" class="img-fluid me-4">
+            <div class="cta__content">
+                <h3>Fill in your credentials</h3>
+                <p>Order your free hosting account by filling this Signup form with your basic details.</p>
+            </div>
             </div>
 
         </div>
-    </div>
-</div>
+            
+        </div>
+</Section>
 <!-- / cta section  -->
 <!-- block-single section  -->
 <?php include 'inc/single-features.php' ?>

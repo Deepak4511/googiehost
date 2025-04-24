@@ -20,27 +20,33 @@ include 'inc/header.php'; ?>
                     </span>No Credit Card required
                 </div>
 
-                <div class="container">
-                    <ul class="hero-list row list-unstyled g-3">
-                        <li class="col-md-3">
-                            <div class="hero-featur-list"><img src="./assets/images/icons/ip.png
-                        " alt=""> Free Sub-Domains</div>
-                        </li>
-                        <li class="col-md-3">
-                            <div class="hero-featur-list"><img src="./assets/images/icons/ip.png
-                        " alt="">WordPress Installation</div>
-                        </li>
-                        <li class="col-md-3">
-                            <div class="hero-featur-list"><img src="./assets/images/icons/ip.png
-                        " alt="">Use your own Domain</div>
-                        </li>
-                        <li class="col-md-3">
-                            <div class="hero-featur-list"><img src="./assets/images/icons/ip.png
-                        " alt="">Upto 98% Server Uptime</div>
-                        </li>
-                    </ul>
+                <div class="hero_feature">
+                    <div class="feature1 d-flex"><img src="./assets/images/icons/Mulitple-Server-Locations.png" alt="Server Uptime" class="me-2">
+                        <div class="text-start text-white feature_text">
+                            <h3>Free Sub Domain</h3>
+                            <small>(cu.ma, c1.is, thats.im etc)</small>
+                        </div>
+                    </div>
+                    <div class="feature2 d-flex"><img src="./assets/images/icons/Mulitple-Server-Locations.png" alt="Server Uptime" class="me-2">
+                        <div class="text-start text-white feature_text">
+                            <h3>Wordpress Installation</h3>
+                            <small>Wordpress Installation</small>
+                        </div>
+                    </div>
+                    <div class="feature3 d-flex"><img src="./assets/images/icons/Mulitple-Server-Locations.png" alt="Server Uptime" class="me-2">
+                        <div class="text-start text-white feature_text">
+                            <h3>Use your own Domain</h3>
+                            <small>(.com, .in, .co.in etc)</small>
+                        </div>
+                    </div>
+                    <div class="feature4 d-flex"><img src="./assets/images/icons/Mulitple-Server-Locations.png" alt="Server Uptime" class="me-2">
+                        <div class="text-start text-white feature_text">
+                            <h3>Upto 99.99% Server Uptime</h3>
+                            <small>(Server Uptime is best)</small>
+                        </div>
+                    </div>
                 </div>
-                <a href="" class="button_orange">Deploy Free Server now <i class="fa-solid fa-angle-right ms-3"></i></a>
+                <a href="" class="button_orange mt-4">Deploy Free Server now <i class="fa-solid fa-angle-right ms-3"></i></a>
                 <div class="rated justify-content-center">
                     Starting at $45/mo
                 </div>

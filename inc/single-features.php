@@ -1,52 +1,36 @@
-<div class="container my-5">
-    <div class="row text-center">
-        <!-- Card 1 -->
-        <div class="col-md-3 col-6 mb-4">
-            <div class="stat-card shadow">
-                <div class="stat-icon mb-3">
-                    <img src="depends/experience.png" alt="Icon" class="img-fluid">
+<Section class="my-5">
+    <div class="container">
+        <h4 class="cta__subheading">ACHIEVEMENTS</h4>
+        <h2 class="cta_heading text-center">3 Easy Steps to create your free account</h2>
+        <p class="cta_para text-center w-md-75 m-auto mb-5">Follow the steps given below to create a free website. GoogieHost offers free hosting to all of its users with no forced advertisements. </p>
+        <div class="achie-content-section text-center">
+            <div class="feature1 d-flex">
+                <div class="text-start text-white achievements__text">
+                    <h3>14 Years</h3>
+                    <small>Experience in Years</small>
                 </div>
-                <div class="stat-value">
-                    <h3>14</h3>
-                </div>
-                <div class="stat-text">Years of Experience</div>
             </div>
-        </div>
-        <!-- Card 2 -->
-        <div class="col-md-3 col-6 mb-4">
-            <div class="stat-card shadow">
-                <div class="stat-icon mb-3">
-                    <img src="depends/uptime-googiehost.png" alt="Icon" class="img-fluid">
+            <div class="feature2 d-flex">
+                <div class="text-start text-white achievements__text">
+                    <h3>14 Years</h3>
+                    <small>Experience in Years</small>
                 </div>
-                <div class="stat-value">
-                    <h3>99.9%</h3>
-                </div>
-                <div class="stat-text">Uptime Guarantee</div>
             </div>
-        </div>
-        <!-- Card 3 -->
-        <div class="col-md-3 col-6 mb-4">
-            <div class="stat-card shadow">
-                <div class="stat-icon mb-3">
-                    <img src="depends/uptime.png" alt="Icon" class="img-fluid">
+            <div class="feature3 d-flex">
+                <div class="text-start text-white achievements__text">
+                    <h3>14 Years</h3>
+                    <small>Experience in Years</small>
                 </div>
-                <div class="stat-value">
-                    <h3>4,32,023</h3>
-                </div>
-                <div class="stat-text">Happy Users</div>
             </div>
-        </div>
-        <!-- Card 4 -->
-        <div class="col-md-3 col-6 mb-4">
-            <div class="stat-card shadow">
-                <div class="stat-icon mb-3">
-                    <img src="depends/support.png" alt="Icon" class="img-fluid">
+            <div class="feature4 d-flex">
+                <div class="text-start text-white achievements__text">
+                    <h3>14 Years</h3>
+                    <small>Experience in Years</small>
                 </div>
-                <div class="stat-value">
-                    <h3>24/7</h3>
-                </div>
-                <div class="stat-text">Round the Clock Support</div>
             </div>
+
+
         </div>
+
     </div>
-</div>
+</Section>

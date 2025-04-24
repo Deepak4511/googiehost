@@ -4,6 +4,10 @@ $page = 'cheap-dedicated-server';
 include 'inc/header.php'; ?>
 <!-- header end -->
 
+<style>
+
+</style>
+
 <div class="hero-section position-relative">
     <div class="blury-img"></div>
 
@@ -26,42 +30,32 @@ include 'inc/header.php'; ?>
                 </div>
 
 
-                <div class="row text-center justify-content-center">
-            <div class="col-md-3 d-flex feature-item">
-                <img src="./assets/images/icons/Mulitple-Server-Locations.png" alt="Sub Domain">
-                <div>
-                    <strong>Free Sub Domain</strong><br>
-                    <small>(cu.ma, c1.is, thats.im etc)</small>
+                <div class="hero_feature">
+                    <div class="feature1 d-flex"><img src="./assets/images/icons/Mulitple-Server-Locations.png" alt="Server Uptime" class="me-2">
+                        <div class="text-start text-white feature_text">
+                            <h3>KVM over IP</h3>
+                            <small>(cu.ma, c1.is, thats.im etc)</small>
+                        </div>
+                    </div>
+                    <div class="feature2 d-flex"><img src="./assets/images/icons/Mulitple-Server-Locations.png" alt="Server Uptime" class="me-2">
+                        <div class="text-start text-white feature_text">
+                            <h3>No Setup Cost</h3>
+                            <small>(Server Uptime is best)</small>
+                        </div>
+                    </div>
+                    <div class="feature3 d-flex"><img src="./assets/images/icons/Mulitple-Server-Locations.png" alt="Server Uptime" class="me-2">
+                        <div class="text-start text-white feature_text">
+                            <h3>Free Reboots</h3>
+                            <small>(Server Uptime is best)</small>
+                        </div>
+                    </div>
+                    <div class="feature4 d-flex"><img src="./assets/images/icons/Mulitple-Server-Locations.png" alt="Server Uptime" class="me-2">
+                        <div class="text-start text-white feature_text">
+                            <h3>Mulitple Server Locations</h3>
+                            <small>(Server Uptime is best)</small>
+                        </div>
+                    </div>
                 </div>
-                <div class="feature-divider d-none d-md-block"></div>
-            </div>
-            <!-- <div class="feature-divider d-none d-md-block"></div> -->
-            <div class="col-md-3 d-flex feature-item">
-                <img src="./assets/images/icons/Mulitple-Server-Locations.png" alt="WordPress">
-                <div>
-                    <strong>WordPress Installation</strong><br>
-                    <small>(Softaculous Auto Installer)</small>
-                </div>
-                <div class="feature-divider d-none d-md-block"></div>
-            </div>
-            <!-- <div class="feature-divider d-none d-md-block"></div> -->
-            <div class="col-md-3 d-flex feature-item">
-                <img src="./assets/images/icons/Mulitple-Server-Locations.png" alt="Own Domain">
-                <div>
-                    <strong>Use your own Domain</strong><br>
-                    <small>(.com, .in, .co.in etc)</small>
-                </div>
-                <div class="feature-divider d-none d-md-block"></div>
-            </div>
-            <!-- <div class="feature-divider d-none d-md-block"></div> -->
-            <div class="col-md-3 d-flex feature-item">
-                <img src="./assets/images/icons/Mulitple-Server-Locations.png" alt="Server Uptime">
-                <div>
-                    <strong>Upto 99% Server Uptime</strong><br>
-                    <small>Server Uptime is best</small>
-                </div>
-            </div>
-        </div>
                 <div class="blury-img2"></div>
 
                 <a href="" class="button_orange mt-4">Deploy Free Server now <i class="fa-solid fa-angle-right ms-3"></i></a>
